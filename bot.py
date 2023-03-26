@@ -46,7 +46,7 @@ while True:
             print("Message sent to Slack channel")
 
     # update last update time
-    last_update_time = complaints_data[-1]['wait
+    last_update_time = complaints_data[-1]['recieved_date']
 
     # wait for 1 day before checking again
     time.sleep(1440)
