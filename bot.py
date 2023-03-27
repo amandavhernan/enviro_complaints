@@ -6,7 +6,7 @@ from slack import WebClient
 from slack.errors import SlackApiError
 
 # setup
-slack_token = os.environ.get(‘SLACK_API_TOKEN’)
+slack_token = os.environ.get('SLACK_API_TOKEN')
 client = WebClient(token=slack_token)
 
 # api endpoint
@@ -47,6 +47,3 @@ while True:
 
     # update last update time
     last_update_time = complaints_data[-1]['recieved_date']
-
-    # wait for 1 day before checking again
-    time.sleep(1440)
