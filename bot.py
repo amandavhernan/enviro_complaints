@@ -1,9 +1,10 @@
 import requests
 import json
 import time
-import os 
+import os
 from slack import WebClient
 from slack.errors import SlackApiError
+from datetime import datetime
 
 # setup
 slack_token = os.environ.get('SLACK_API_TOKEN')
@@ -12,7 +13,9 @@ client = WebClient(token=slack_token)
 # api endpoint
 COMPLAINTS_API_ENDPOINT = "https://opendata.maryland.gov/resource/cnkn-n3pr.json"
 
-last_update = 0
+response = requests.get(COMPLAINTS_API_ENDPOINT)
+complaints_data = json.loads(response.content)
+last_update = complaints_data[-1]['recieved_date']
 
 while True:
     # get request
@@ -22,10 +25,18 @@ while True:
     # check for new complaints since last update
     new_complaints = []
     for complaint in complaints_data:
-        if complaint['recieved_date'] > last_update:
+        complaint_datetime = datetime.strptime(
+            complaint['recieved_date'], "%Y-%m-%d")
+        last_update_datetime = datetime.strptime(last_update, "%Y-%m-%d")
+        if complaint_datetime > last_update_datetime:
             new_complaints.append(complaint)
 
-    # message formatting 
+    # message formatting
+    # error message below
+    # File "/workspaces/enviro_complaints/bot.py", line 42, in <module>
+    # message += f"  Status: {complaint['incident_status_desc']}\n"
+    # KeyError: 'incident_status_desc'
+    
     if new_complaints:
         message = f"New complaints:\n"
         for complaint in new_complaints:
@@ -37,7 +48,7 @@ while True:
 
         try:
             response = client.chat_postMessage(
-                channel= "slack-bots",
+                channel="slack-bots",
                 text=message
             )
         except SlackApiError as e:
@@ -46,4 +57,4 @@ while True:
             print("Message sent to Slack channel")
 
     # update last update time
-    last_update_time = complaints_data[-1]['recieved_date']
+    last_update = new_complaints[-1]['recieved_date']
