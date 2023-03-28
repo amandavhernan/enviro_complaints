@@ -1,4 +1,4 @@
-# enviro_complaints
+# enviro_complaints 🌿
 A bot that collects and notifies reporters about [new complaints](https://opendata.maryland.gov/Energy-and-Environment/Maryland-Department-of-the-Environment-MDE-Water-a/cnkn-n3pr) submitted to the Maryland Department of the Environment
 ## Progress
 3/14/23 → created repository, added bot to Slack, added the chat:write and im:write scopes, and added slack api token as a codespaces secret
