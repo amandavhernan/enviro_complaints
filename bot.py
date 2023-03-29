@@ -31,20 +31,20 @@ while True:
         if complaint_datetime > last_update_datetime:
             new_complaints.append(complaint)
 
-    # message formatting
-    # error message below
-    # File "/workspaces/enviro_complaints/bot.py", line 42, in <module>
-    # message += f"  Status: {complaint['incident_status_desc']}\n"
-    # KeyError: 'incident_status_desc'
-    
+    # slack message
     if new_complaints:
         message = f"New complaints:\n"
         for complaint in new_complaints:
-            message += f"- A complaint for {complaint['compliant_type']} was submitted on ({complaint['recieved_date']})\n"
-            message += f"  ID: {complaint['compliant']}\n"
-            message += f"  Incident date: {complaint['incident_date']}\n"
-            message += f"  County: {complaint['county']}\n"
-            message += f"  Status: {complaint['incident_status_desc']}\n"
+            if 'complaint_type' and 'recieved_date' in new_complaints:
+                message += f"- A complaint for {complaint['compliant_type']} was submitted on ({complaint['recieved_date']})\n"
+            if 'compliant' in new_complaints:
+                message += f"  ID: {complaint['compliant']}\n"
+            if 'incident_date' in new_complaints:
+                message += f"  Incident date: {complaint['incident_date']}\n"
+            if 'county' in new_complaints:
+                message += f"  County: {complaint['county']}\n"
+            if 'incident_status_desc' in new_complaints:
+                message += f"  Status: {complaint['incident_status_desc']}\n"
 
         try:
             response = client.chat_postMessage(
