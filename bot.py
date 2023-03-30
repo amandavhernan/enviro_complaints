@@ -13,16 +13,16 @@ client = WebClient(token=slack_token)
 # api endpoint
 COMPLAINTS_API_ENDPOINT = "https://opendata.maryland.gov/resource/cnkn-n3pr.json"
 
+# store initial api response, set last_update
 response = requests.get(COMPLAINTS_API_ENDPOINT)
 complaints_data = json.loads(response.content)
 last_update = complaints_data[-1]['recieved_date']
 
 while True:
-    # get request
+    # check for new complaints
     response = requests.get(COMPLAINTS_API_ENDPOINT)
     complaints_data = json.loads(response.content)
 
-    # check for new complaints since last update
     new_complaints = []
     for complaint in complaints_data:
         complaint_datetime = datetime.strptime(
@@ -33,17 +33,17 @@ while True:
 
     # slack message
     if new_complaints:
-        message = f"New complaints:\n"
+        message = "New complaints:\n"
         for complaint in new_complaints:
-            if 'complaint_type' and 'recieved_date' in new_complaints:
-                message += f"- A complaint for {complaint['compliant_type']} was submitted on ({complaint['recieved_date']})\n"
-            if 'compliant' in new_complaints:
+            if 'complaint_type' in complaint and 'recieved_date' in complaint:
+                message += f"- A complaint for {complaint['complaint_type']} was submitted on ({complaint['recieved_date']})\n"
+            if 'compliant' in complaint:
                 message += f"  ID: {complaint['compliant']}\n"
-            if 'incident_date' in new_complaints:
+            if 'incident_date' in complaint:
                 message += f"  Incident date: {complaint['incident_date']}\n"
-            if 'county' in new_complaints:
+            if 'county' in complaint:
                 message += f"  County: {complaint['county']}\n"
-            if 'incident_status_desc' in new_complaints:
+            if 'incident_status_desc' in complaint:
                 message += f"  Status: {complaint['incident_status_desc']}\n"
 
         try:
@@ -56,5 +56,5 @@ while True:
         else:
             print("Message sent to Slack channel")
 
-    # update last update time
-    last_update = new_complaints[-1]['recieved_date']
+        # update last_update to the received_date of the latest complaint in new_complaints
+        last_update = new_complaints[-1]['recieved_date']
