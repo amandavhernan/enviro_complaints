@@ -23,6 +23,7 @@ What I accomplished this week:
 
 What I have left to do:
 - [ ] Format Slack notifications so every new complaint is contained in a single message
+- [ ] Figure out why only the most recently added complaint was sent as a message on Slack
 - [ ] Debug message format to find out why the first line doesn't appear
 - [ ] Add GitHub Actions workflow
 
