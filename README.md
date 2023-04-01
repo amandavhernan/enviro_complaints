@@ -16,15 +16,19 @@ Some of my stretch goals include:
 * Learn how to incorporate images or graphics into bot's message
 * Use GitHub Actions to build an updatable site 
 ## Update | 4/1/23
+This week, I focused on debugging the errors I found in my code last week. The main issue I'm dealing with is that my bot repeatedly sends the most recent complaint on Slack. Looking at my to-do list, I plan to focus on debugging the message formatting errors next week. And during the final week, I plan to add code to bot.py to build an updatable datasette database, and automate my bot using GitHub Actions.
+
 What I accomplished this week:
 - [x] Fixed Slack message error
 - [x] Fixed last update error
 - [x] Successfully sent messages on Slack
+- [x] Built a datasette database
 
 What I have left to do:
 - [ ] Format Slack notifications so every new complaint is contained in a single message
 - [ ] Figure out why only the most recently added complaint was sent as a message on Slack
-- [ ] Debug message format to find out why the first line doesn't appear
+- [ ] Debug message format to find out why the first line doesn't appear and why it repeats nonstop
+- [ ] Merge datasette.py with bot.py to update database with new complaints
 - [ ] Add GitHub Actions workflow
 
 Ideal Slack notification format ↓
