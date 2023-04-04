@@ -2,6 +2,7 @@ import requests
 import json
 import time
 import os
+import pandas as pd
 from slack import WebClient
 from slack.errors import SlackApiError
 from datetime import datetime
@@ -25,6 +26,10 @@ def check_complaints():
     # store api response, check for new complaints
     response = requests.get(COMPLAINTS_API_ENDPOINT)
     complaints_data = json.loads(response.content)
+
+    # save as pandas df, export as csv
+    df = pd.DataFrame(complaints_data)
+    df.to_csv("complaints_data.csv", index=False)
 
     new_complaints = []
     for complaint in complaints_data:
