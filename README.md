@@ -8,6 +8,8 @@ A bot that collects and notifies reporters about [new complaints](https://openda
 3/27/23 → updated bot code to fix errors, found another error in slack message code
 <br/>
 3/29/23 → discovered bot is very broken
+<br/>
+4/3/23 → pushed working bot code, working on implementing Github Actions
 ## Update | 3/19/23
 I currently have a partially finished bot. After break, I want to experiment with the formatting of the bot's messages. I specifically want to make the messages more engaging and easier to read. I would also like to incorporate some kind of visual element into the bot's message. 
 The main blocker I'm experiencing is that I'm not entirely confident that what I have will work properly and if it's the most efficient way to build my bot. My bot is currently set to run once a day. In addition to sending messages on Slack, my ideal bot would also update data on an accompanying site that displays analysis and graphics such as maps or charts. 
