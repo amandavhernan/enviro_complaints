@@ -81,7 +81,7 @@ def check_complaints():
         else:
             print("Message sent to Slack channel")
 
-        last_checked_date = datetime.now()
+        last_checked_date = datetime.date.today()
         with open('last_checked_date.txt', 'w') as f:
             f.write(last_checked_date)
 
