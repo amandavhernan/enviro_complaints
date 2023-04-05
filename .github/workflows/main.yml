@@ -1,6 +1,8 @@
 name: MDE Complaints Monitoring
 
 on:
+  push:
+    push:
   schedule:
     - cron: '23 21 * * *'
 
