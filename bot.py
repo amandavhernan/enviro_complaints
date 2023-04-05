@@ -83,6 +83,6 @@ def check_complaints():
 
 if __name__ == "__main__":
     check_complaints()
-    last_checked_date = datetime.today()
+    last_checked_date = now.strftime("%Y-%m-%d")
     with open('last_checked_date.txt', 'w') as f:
         f.write(last_checked_date)
