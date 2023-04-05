@@ -1,0 +1,15 @@
+name: Datasette Setup
+
+on:
+  schedule:
+    - cron: '20 20 * * *'
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        
+      - name: Run script
+        run: bash datasette.sh
