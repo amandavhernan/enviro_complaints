@@ -10,6 +10,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        
       - name: Run script
-        run: bash path/to/your/datasette.sh
+        run: bash datasette.sh
         
