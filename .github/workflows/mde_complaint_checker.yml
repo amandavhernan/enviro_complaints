@@ -1,4 +1,4 @@
-name: MDE Complaints Monitoring
+name: mde complaint checker
 
 on:
   push:
@@ -26,3 +26,9 @@ jobs:
       run: python bot.py 
       env:
           SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
+          
+    - name: Commit changes
+      run: |
+        git add -A
+        git commit -m 'new complaints found' || echo "no changes"
+        git push origin || echo "no changes to commit"
