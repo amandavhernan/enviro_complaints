@@ -34,5 +34,5 @@ jobs:
         git add -A
         echo "files added to git staging area"
         git commit -m 'new complaints found' || echo "no changes"
-        git push origin || echo "no changes to commit"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/amandavhernan/enviro_complaints.git || echo "no changes to commit"
         echo "commit successful"
