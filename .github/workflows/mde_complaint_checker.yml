@@ -4,7 +4,7 @@ on:
   push:
     push:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '30 13 * * *'
 
 jobs:
   check-complaints:
