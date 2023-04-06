@@ -67,9 +67,9 @@ def check_complaints():
             print("Message sent to Slack channel")
 
         # update last_checked_date to the received_date of the latest complaint in new_complaints
-        #last_checked_date = new_complaints[-1]['recieved_date']
-        #with open('last_checked_date.txt', 'w') as f:
-            #f.write(last_checked_date)
+        last_checked_date = new_complaints[-1]['recieved_date']
+        with open('last_checked_date.txt', 'w') as f:
+            f.write(last_checked_date)
     else:
         try:
             response = client.chat_postMessage(
@@ -83,6 +83,3 @@ def check_complaints():
 
 if __name__ == "__main__":
     check_complaints()
-    last_checked_date = datetime.now().strftime("%Y-%m-%d")
-    with open('last_checked_date.txt', 'w') as f:
-        f.write(last_checked_date)
