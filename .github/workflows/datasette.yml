@@ -1,0 +1,30 @@
+name: datasette build
+
+on:
+  push:
+    push:
+  schedule:
+    - cron: '35 13 * * *'
+
+jobs:
+  run-bash-script:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Run script
+      run: bash datasette.sh
+      
+    - name: Commit changes
+      run: |
+        git config --global user.email "amandavhernan@gmail.com"
+        git config --global user.name "amandavhernan"
+        git add -A
+        echo "file added to git staging area"
+        git commit -m 'updated datasette build' || echo "no changes to commit"
+        echo "commit successful"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/amandavhernan/enviro_complaints.git || echo "no changes to commit"
+        echo "commit successful"
+    
