@@ -29,6 +29,8 @@ jobs:
           
     - name: Commit changes
       run: |
+        git config --global user.email "amandavhernan@gmail.com"
+        git config --global user.name "amandavhernan"
         git add -A
         git commit -m 'new complaints found' || echo "no changes"
         git push origin || echo "no changes to commit"
