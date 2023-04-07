@@ -4,11 +4,19 @@ EnviroComplaints is a Slack bot that collects and sends messages about [new comp
 
 ## Final Submission
 
-A memo of at least 300 words summarizing your process and progress in making this bot. Include any goals you weren't able to accomplish and why. I want you to pay special attention to what the output looks like, refining the text and other elements you surface. Some other questions to consider:
+Throughout my time building this bot, there were a lot of ups and downs to say the least. Despite the challenges, I genuinely enjoyed building my bot and I learned a lot along the way. One of the first challenges I faced was converting the values in the dataset's "recieved_date" field into datetime objects. This conversion allowed me to compare dates to determine which complaints were new. Another challenge I encountered was formatting the bot's messages. At first, I was using a while loop, but this made my bot's messages inaccurate and redundant. I realized I should instead use a function, so my script wouldn't run indefinitely. I also experienced some trial and error with formatting the actual messages so the values would appear where I wanted them to. I decided to use emojis and bold text to add some character and make the messages easier to read. Another major challenge I encountered was setting up GitHub Actions. The first workflow file I wrote was missing a few elements, such as my Slack API token, my GitHub token, and dependencies. Toward the end, I was also missing code that would allow GitHub Actions to commit changes. I struggled a bit with cron expressions, so I used ChatGPT to generate one for me. I asked it to give me a cron statement for 9:30 a.m. EST. ChatGPT happily obliged and returned a codeblock with the expression, and explained what each number/character meant. Something I haven’t figured out how to implement yet is sending images or graphics over Slack. I would like to use Plotly to create a choropleth map of Maryland counties. This map, which would update as new complaints are added, would assign a color/shade to each county based on how many complaints have been reported there. The bot would send this map in addition to its list of new complaints. I plan to dedicate time next week to explore this potential feature further.
 
 * Do I need to store this data somehow? What would that look like?
+
+My script is set up to save the data retrieved from the API as a CSV. This CSV is updated when the script runs if new complaints are found.
+
 * If this bot were able to accept input from users, what would that look like and how might it respond?
+
+If I redesigned this bot to accept input from users, I would design it so users can search the list of new complaints by county. For example, I might want to know if any of the new complaints found were reported in Prince George's County. The bot would take a search term, such as "Prince George's" or "Prince George's County," and return any complaints where the "county" field matched. This search feature could also be implemented before the list of new complaints is generated, so the list only contains complaints that match the user's input. Another idea I have is to redesign this bot to allow users to ask questions about the data. Someone might want to know which county has had the most reported complaints or what type of complaint is the most common. The bot would answer these questions by summarizing the data and returning the output to the user.
+
 * What's the best schedule for updates?
+
+Since the dataset is updated one a day, it makes the most sense to check for complaints everyday rather than on a weekly basis. I also noticed that the dataset is updated early in the day, which is why I set my bot to run at 9:30 a.m. everyday. I also made the decision to run it earlier in the day rather than later because if this bot was used in a newsroom setting, getting this update early would allow more time for additional reporting. 
 
 ## Update | 3/19/23
 
