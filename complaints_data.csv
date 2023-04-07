@@ -4,7 +4,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140759,Tidal Wetlands,2023-04-05,2023-04-04,Talbot,Under Investigation,21601,
 140758,"Illegal Discharge or Outfall, Illegal Dumping",2023-04-05,2021-04-05,Baltimore,Under Investigation,21093,
 140754,Chemical Release/Spill,2023-04-04,2023-03-30,Anne Arundel,Under Investigation,20776,
-140753,Sewage/Sludge Release,2023-04-04,2023-03-30,Baltimore,Under Investigation,,
+140753,Sewage/Sludge Release,2023-04-04,2023-03-30,Baltimore,Incident Closed - No further action,,2023-04-06
 140748,Nontidal Wetlands,2023-04-03,2023-03-09,Dorchester,Under Investigation,21613,
 140747,Sediment,2023-04-03,2023-04-03,Allegany,Under Investigation,21502,
 140746,Tidal Wetlands,2023-04-03,2023-04-03,St. Mary's,Referred to Enforcement/Compliance,,
@@ -298,8 +298,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130322,Sediment,2023-01-05,2023-01-05,Anne Arundel,Under Investigation,,
 130321,Sediment,2023-01-05,2023-01-04,Anne Arundel,Referred to Outside Agency,,
 130320,Industrial,2023-01-04,2022-12-27,Worcester,Under Investigation,21811,
-130319,Non-Tidal Wetlands/Waterway,2023-01-04,2023-01-04,Anne Arundel,Under Investigation,21061,
-130319,Non-Tidal Wetlands/Waterway,2023-01-04,2023-01-04,Anne Arundel,Under Investigation,21061,
+130319,Non-Tidal Wetlands/Waterway,2023-01-04,2023-01-04,Anne Arundel,Incident Closed-Managed,21061,2023-04-05
+130319,Non-Tidal Wetlands/Waterway,2023-01-04,2023-01-04,Anne Arundel,Incident Closed-Managed,21061,2023-04-05
 130318,Nontidal Wetlands,2023-01-04,2022-11-10,Worcester,Under Investigation,21841,
 130317,Sediment,2023-01-04,2023-01-04,Dorchester,Under Investigation,21631,
 130314,Unknown Substance,2023-01-03,2023-01-03,Anne Arundel,Referred to WMA,21060,
