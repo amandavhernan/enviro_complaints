@@ -16,7 +16,7 @@ If I redesigned this bot to accept input from users, I would design it so users 
 
 * What's the best schedule for updates?
 
-Since the dataset is updated one a day, it makes the most sense to check for complaints everyday rather than on a weekly basis. I also noticed that the dataset is updated early in the day, which is why I set my bot to run at 9:30 a.m. everyday. I also made the decision to run it earlier in the day rather than later because if this bot was used in a newsroom setting, getting this update early would allow more time for additional reporting. 
+Since the dataset is updated once a day, it makes the most sense to check for complaints everyday rather than on a weekly basis. I also noticed that the dataset is updated early in the day, which is why I set my bot to run at 9:30 a.m. everyday. I also made the decision to run it earlier in the day rather than later because if this bot was used in a newsroom setting, getting this update early would allow more time for additional reporting. 
 
 ## Update | 3/19/23
 
