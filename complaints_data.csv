@@ -1,5 +1,11 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
-140804,Illegal Dumping,2023-04-13,2023-04-13,Anne Arundel,Under Investigation,,
+140812,Sediment,2023-04-14,2023-04-12,Anne Arundel,Under Investigation,21061,
+140810,Nontidal Wetlands,2023-04-14,2023-04-14,Frederick,Under Investigation,,
+140808,Oil Release/Spill (Surface),2023-04-14,2023-04-14,Frederick,Under Investigation,,
+140807,Tidal Wetlands,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21409,
+140806,Nontidal Wetlands,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21144,
+140805,Sediment/ Stormwater Problem,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21113,
+140804,Illegal Dumping,2023-04-13,2023-04-13,Anne Arundel,Under Investigation,21032,
 140803,Non-Tidal Wetlands/Waterway,2023-04-13,2023-04-13,Washington,Under Investigation,21758,
 140802,Other,2023-04-13,2023-04-13,Queen Anne's,Under Investigation,21620,
 140801,"Illegal Wetland Alteration, Nontidal Wetlands",2023-04-13,2023-04-13,Harford,Under Investigation,,
@@ -993,9 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 79228,Other,2022-03-18,2022-03-18,Harford,Incident Closed-Clean-up Completed,,2022-10-27
 79227,Illegal Dumping,2022-03-18,2022-03-18,Baltimore,Under Investigation,,
 79224,Illegal Dumping,2022-07-07,2020-03-17,Harford,Under Investigation,21034,
-79223,Industrial,2022-03-17,2022-03-16,Charles,Incident Closed - No further action,20601,2022-03-17
-79222,Tidal Wetlands,2022-03-16,2022-03-16,St. Mary's,Under Investigation,,
-79221,Tidal Wetlands,2022-03-16,2022-03-16,St. Mary's,Referred to Enforcement/Compliance,,
-79220,Non-Tidal Wetlands/Waterway,2022-03-16,2022-03-16,Baltimore,Under Investigation,,
-79218,"Fish Kill, Illegal Dumping, Nontidal Wetlands, Sediment",2022-03-15,2022-03-14,Harford,Create in Error,21034,
-79217,Other,2022-03-15,2022-03-15,Baltimore,Incident Closed-No Violation Observed,,2022-05-12
