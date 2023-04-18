@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+140817,"Illegal Discharge or Outfall, Tidal Wetlands",2023-04-17,2023-04-17,Anne Arundel,Under Investigation,,
+140814,Industrial,2023-04-17,2023-04-15,Baltimore City,Under Investigation,,
 140812,Sediment,2023-04-14,2023-04-12,Anne Arundel,Under Investigation,21061,
 140810,Nontidal Wetlands,2023-04-14,2023-04-14,Frederick,Under Investigation,,
 140808,Oil Release/Spill (Surface),2023-04-14,2023-04-14,Frederick,Under Investigation,,
@@ -27,7 +29,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140762,Tidal Wetlands,2023-04-05,2023-04-05,St. Mary's,Referred to Enforcement/Compliance,20692,
 140759,Tidal Wetlands,2023-04-05,2023-04-04,Talbot,Under Investigation,21601,
 140758,"Illegal Discharge or Outfall, Illegal Dumping",2023-04-05,2021-04-05,Baltimore,Under Investigation,21093,
-140754,Chemical Release/Spill,2023-04-04,2023-03-30,Anne Arundel,Under Investigation,20776,
+140754,Chemical Release/Spill,2023-04-04,2023-03-30,Anne Arundel,Incident Closed-No Violation Observed,20776,2023-04-13
 140753,Sewage/Sludge Release,2023-04-04,2023-03-30,Baltimore,Incident Closed - No further action,,2023-04-06
 140748,Nontidal Wetlands,2023-04-03,2023-03-09,Dorchester,Under Investigation,21613,
 140747,Sediment,2023-04-03,2023-04-03,Allegany,Under Investigation,21502,
@@ -184,6 +186,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130468,"Air Pollutant Release, Odor, Waste",2023-02-08,2023-02-08,Baltimore,Referred to Outside Agency,,
 130467,Non-Tidal Wetlands/Waterway,2023-02-07,2023-02-06,Montgomery,Under Investigation,,
 130466,Sediment,2023-02-07,2023-02-07,Montgomery,Under Investigation,,
+130465,Sediment,2023-02-07,2023-02-07,Allegany,Under Investigation,21766,
 130465,Sediment,2023-02-07,2023-02-07,Allegany,Under Investigation,21766,
 130465,Sediment,2023-02-07,2023-02-07,Allegany,Under Investigation,21766,
 130464,Non-Tidal Wetlands/Waterway,2023-02-07,2023-01-13,Frederick,Referred to WMA,,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 79232,Sediment,2022-03-21,2021-03-17,Wicomico,Incident Closed - No further action,21814,2022-04-04
 79231,Floodplain,2022-03-20,2022-03-18,Montgomery,Under Investigation,,
 79230,Municipal/SSO,2022-03-18,2022-03-18,Anne Arundel,Under Investigation,21032,
-79228,Other,2022-03-18,2022-03-18,Harford,Incident Closed-Clean-up Completed,,2022-10-27
-79227,Illegal Dumping,2022-03-18,2022-03-18,Baltimore,Under Investigation,,
-79224,Illegal Dumping,2022-07-07,2020-03-17,Harford,Under Investigation,21034,
