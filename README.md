@@ -18,16 +18,6 @@ If I redesigned this bot to accept input from users, I would design it so users 
 
 Since the dataset is updated once a day, it makes the most sense to check for complaints everyday rather than on a weekly basis. I also noticed that the dataset is updated early in the day, which is why I set my bot to run at 9:30 a.m. everyday. I also made the decision to run it earlier in the day rather than later because if this bot was used in a newsroom setting, getting this update early would allow more time for additional reporting. 
 
-## Update | 3/19/23
-
-I currently have a partially finished bot. After break, I want to experiment with the formatting of the bot's messages. I specifically want to make the messages more engaging and easier to read. I would also like to incorporate some kind of visual element into the bot's message. 
-The main blocker I'm experiencing is that I'm not entirely confident that what I have will work properly and if it's the most efficient way to build my bot. My bot is currently set to run once a day. In addition to sending messages on Slack, my ideal bot would also update data on an accompanying site that displays analysis and graphics such as maps or charts. 
-
-Some of my stretch goals include:
-* Improve bot's message format 
-* Learn how to incorporate images or graphics into bot's message
-* Use GitHub Actions to build an updatable site 
-
 ## Update | 4/1/23
 
 This week, I focused on debugging the errors I found in my code last week. The main issue I'm dealing with is that my bot repeatedly sends the most recent complaint on Slack. Looking at my to-do list, I plan to focus on debugging the message formatting errors next week. And during the final week, I plan to add code to bot.py to build an updatable datasette database, and automate my bot using GitHub Actions.
@@ -44,3 +34,13 @@ What I have left to do:
 - [ ] Adjust message format, figure out why the first line doesn't appear
 - [ ] Add GitHub Actions workflow
 - [ ] Build updatable datasette database
+
+## Update | 3/19/23
+
+I currently have a partially finished bot. After break, I want to experiment with the formatting of the bot's messages. I specifically want to make the messages more engaging and easier to read. I would also like to incorporate some kind of visual element into the bot's message. 
+The main blocker I'm experiencing is that I'm not entirely confident that what I have will work properly and if it's the most efficient way to build my bot. My bot is currently set to run once a day. In addition to sending messages on Slack, my ideal bot would also update data on an accompanying site that displays analysis and graphics such as maps or charts. 
+
+Some of my stretch goals include:
+* Improve bot's message format 
+* Learn how to incorporate images or graphics into bot's message
+* Use GitHub Actions to build an updatable site 
