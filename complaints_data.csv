@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+150857,Chemical Release/Spill,2023-04-25,2023-04-21,Anne Arundel,Under Investigation,21403,
+150856,Industrial,2023-04-25,2023-04-25,Cecil,Under Investigation,21921,
+150855,Nontidal Wetlands,2023-04-25,2023-04-23,Carroll,Under Investigation,21102,
+150853,Tidal Wetlands,2023-04-24,2023-04-24,Calvert,Referred to Outside Agency,,
 150852,Non-Tidal Wetlands/Waterway,2023-04-24,2023-04-23,Montgomery,Under Investigation,20815,
 150851,Nontidal Wetlands,2023-04-24,2023-04-24,Washington,Under Investigation,,
 150850,Nontidal Wetlands,2023-04-24,2023-04-24,Frederick,Under Investigation,,
@@ -18,13 +22,14 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140814,Industrial,2023-04-17,2023-04-15,Baltimore City,Incident Closed - No further action,,2023-04-21
 140814,Industrial,2023-04-17,2023-04-15,Baltimore City,Incident Closed - No further action,,2023-04-21
 140812,Sediment,2023-04-14,2023-04-12,Anne Arundel,Under Investigation,21061,
-140811,Water Pollutant Release,2023-04-14,2023-04-14,Baltimore,Under Investigation,,
+140811,Water Pollutant Release,2023-04-14,2023-04-14,Baltimore,Incident Closed-Managed,,2023-04-25
 140810,Nontidal Wetlands,2023-04-14,2023-04-14,Frederick,Under Investigation,,
 140808,Oil Release/Spill (Surface),2023-04-14,2023-04-14,Frederick,Referred to Outside Agency,,
 140807,Tidal Wetlands,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21409,
 140806,Nontidal Wetlands,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21144,
 140805,Sediment/ Stormwater Problem,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21113,
 140804,Illegal Dumping,2023-04-13,2023-04-13,Anne Arundel,Under Investigation,21032,
+140803,Non-Tidal Wetlands/Waterway,2023-04-13,2023-04-13,Washington,Under Investigation,21758,
 140803,Non-Tidal Wetlands/Waterway,2023-04-13,2023-04-13,Washington,Under Investigation,21758,
 140802,Other,2023-04-13,2023-04-13,Queen Anne's,Under Investigation,21620,
 140801,"Illegal Wetland Alteration, Nontidal Wetlands",2023-04-13,2023-04-13,Harford,Under Investigation,,
@@ -703,7 +708,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99745,Sediment,2022-07-13,2022-07-12,Harford,Incident Closed-Managed,21085,2022-10-27
 99745,Sediment,2022-07-13,2022-07-12,Harford,Incident Closed-Managed,21085,2022-10-27
 99745,Sediment,2022-07-13,2022-07-12,Harford,Incident Closed-Managed,21085,2022-10-27
-99743,Industrial,2022-07-13,2022-07-13,Baltimore,Incident Closed-Managed,21111,2023-03-20
+99743,Industrial,2022-07-13,2022-07-13,Baltimore,Incident Closed-Managed,21111,2023-04-25
 99742,Sediment,2022-07-13,2022-07-12,Baltimore,Under Investigation,,
 99741,"Industrial, Suspected Operation without Permit",2022-07-13,2022-07-13,Baltimore,Under Investigation,21222,
 99740,Sediment,2022-07-13,2022-07-12,Harford,Incident Closed-Managed,21085,2022-10-27
@@ -830,6 +835,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99520,Sediment,2022-05-31,2022-05-31,Frederick,Incident Closed-Managed,21710,2022-06-03
 99519,Non-Tidal Wetlands/Waterway,2022-05-31,2022-05-31,Carroll,Under Investigation,21774,
 99519,Non-Tidal Wetlands/Waterway,2022-05-31,2022-05-31,Carroll,Under Investigation,21774,
+99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
+99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
 99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
 99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
 99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
@@ -992,10 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 79272,Municipal,2022-03-28,2022-03-28,Montgomery,Under Investigation,,
 79271,Oil Release/Spill,2022-03-28,2022-03-28,Anne Arundel,Referred to ECU,21061,
 79270,Tidal Wetlands,2022-03-28,2022-03-23,Wicomico,Incident Closed - No further action,21865,2022-04-04
-79269,Sediment,2022-03-28,2022-03-23,Wicomico,Incident Closed - No further action,,2022-04-04
-79268,Industrial,2022-03-28,2022-03-16,Anne Arundel,Incident Closed - No further action,21060,2022-06-24
-79267,Nontidal Wetlands,2022-03-28,2022-03-21,Frederick,Incident Closed-Managed,21704,2022-03-29
-79266,Other,2022-03-28,2022-03-23,Frederick,Referred to Outside Agency,21788,
-79263,Other,2022-03-28,2022-03-28,Harford,Incident Closed-No Violation Observed,,2022-03-28
-79262,Other,2022-03-25,2022-03-25,Allegany,Referred to Outside Agency,,
-79261,Other,2022-03-25,2022-03-25,Frederick,Referred to Outside Agency,,
