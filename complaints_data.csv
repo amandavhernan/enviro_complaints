@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+150873,Industrial,2023-04-27,2023-04-27,Anne Arundel,Under Investigation,21108,
+150866,Illegal Dumping,2023-04-27,2023-04-19,Montgomery,Under Investigation,,
 150862,Sediment,2023-04-26,2023-04-25,Talbot,Under Investigation,21601,
 150861,Sediment,2023-04-26,2023-04-25,Talbot,Under Investigation,,
 150860,Surface Water Quality Complaint,2023-04-26,2023-04-15,Charles,Referred to Outside Agency,,
@@ -11,8 +13,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150850,Nontidal Wetlands,2023-04-24,2023-04-24,Frederick,Incident Closed-Managed,,2023-04-26
 150849,Non-Tidal Wetlands/Waterway,2023-04-24,2023-04-24,Harford,Under Investigation,,
 150847,Tidal Wetlands,2023-04-24,2023-04-24,Anne Arundel,Under Investigation,,
-150846,Tidal Wetlands,2023-04-24,2023-04-20,Anne Arundel,Under Investigation,20764,
-150845,Tidal Wetlands,2023-04-24,2023-04-24,Anne Arundel,Under Investigation,20764,
+150846,Tidal Wetlands,2023-04-24,2023-04-20,Anne Arundel,Incident Closed-Managed,20764,2023-04-27
+150845,Tidal Wetlands,2023-04-24,2023-04-24,Anne Arundel,Incident Closed-Managed,20764,2023-04-27
 150844,Industrial Non-Complying Discharge,2023-04-23,2023-04-21,Montgomery,Under Investigation,20910,
 140833,"Other, Sediment",2023-04-20,2023-04-20,Baltimore City,Under Investigation,,
 140828,Municipal,2023-04-19,2023-04-11,Garrett,Referred to Outside Agency,,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 79285,Nontidal Wetlands,2022-03-31,2022-03-31,Washington,Incident Closed-Managed,21779,2022-08-04
 79283,Tidal Wetlands,2022-03-30,2022-03-30,Cecil,Incident Closed - No further action,21921,2022-04-04
 79275,Industrial,2022-03-29,2022-03-29,Washington,Incident Closed-No Violation Observed,21782,2022-09-08
-79274,Sediment,2022-03-29,2022-03-29,Queen Anne's,Incident Closed - No further action,21666,2022-09-01
-79273,Sediment,2022-03-29,2022-03-23,Dorchester,Under Investigation,21677,
