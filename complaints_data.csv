@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+150881,Non-Tidal Wetlands/Waterway,2023-04-28,2023-04-28,Baltimore,Referred to Outside Agency,,
+150879,"Other, Water Seepage",2023-04-28,2023-04-28,Harford,Under Investigation,,
+150878,Other,2023-04-28,2023-04-27,Harford,Under Investigation,,
 150873,Industrial,2023-04-27,2023-04-27,Anne Arundel,Under Investigation,21108,
 150866,Illegal Dumping,2023-04-27,2023-04-19,Montgomery,Under Investigation,,
 150862,Sediment,2023-04-26,2023-04-25,Talbot,Under Investigation,21601,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 79289,"Floodplain, Non-Tidal Wetlands/Waterway, Sediment, Water Pollutant Release",2022-03-31,2022-03-31,Baltimore,Incident Closed-Managed,21087,2022-05-27
 79287,Tidal Wetlands,2022-03-31,2022-03-31,Cecil,Under Investigation,21919,
 79286,Sediment,2022-03-31,2022-03-31,Washington,Under Investigation,21713,
-79285,Nontidal Wetlands,2022-03-31,2022-03-31,Washington,Incident Closed-Managed,21779,2022-08-04
-79283,Tidal Wetlands,2022-03-30,2022-03-30,Cecil,Incident Closed - No further action,21921,2022-04-04
-79275,Industrial,2022-03-29,2022-03-29,Washington,Incident Closed-No Violation Observed,21782,2022-09-08
