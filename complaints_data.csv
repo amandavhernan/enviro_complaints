@@ -650,6 +650,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99857,Nontidal Wetlands,2022-08-09,2022-08-08,Frederick,Incident Closed-Managed,,2022-08-08
 99856,Sediment,2022-08-09,2022-08-08,Frederick,Under Investigation,21727,
 99856,Sediment,2022-08-09,2022-08-08,Frederick,Under Investigation,21727,
+99856,Sediment,2022-08-09,2022-08-08,Frederick,Under Investigation,21727,
 99855,Non-Tidal Wetlands/Waterway,2022-08-09,2022-08-09,Montgomery,Under Investigation,20854,
 99854,Sediment,2022-08-09,2022-08-08,Talbot,Under Investigation,21601,
 99853,Industrial,2022-08-09,2022-08-08,Wicomico,Under Investigation,21826,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 79289,"Floodplain, Non-Tidal Wetlands/Waterway, Sediment, Water Pollutant Release",2022-03-31,2022-03-31,Baltimore,Incident Closed-Managed,21087,2022-05-27
 79289,"Floodplain, Non-Tidal Wetlands/Waterway, Sediment, Water Pollutant Release",2022-03-31,2022-03-31,Baltimore,Incident Closed-Managed,21087,2022-05-27
 79287,Tidal Wetlands,2022-03-31,2022-03-31,Cecil,Under Investigation,21919,
-79286,Sediment,2022-03-31,2022-03-31,Washington,Under Investigation,21713,
