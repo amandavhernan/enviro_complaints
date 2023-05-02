@@ -1,4 +1,11 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+150890,Oil Release/Spill,2023-05-01,2023-05-01,Baltimore City,Referred to LMA,,
+150889,Water Pollutant Release,2023-05-01,2023-04-17,Baltimore,Under Investigation,21220,
+150888,Tidal Wetlands,2023-05-01,2023-05-01,Anne Arundel,Under Investigation,21012,
+150885,Oil Release/Spill,2023-05-01,2023-04-25,Washington,Referred to LMA,,
+150884,Sediment,2023-05-01,2023-05-01,Dorchester,Under Investigation,21613,
+150883,Municipal,2023-05-01,2023-05-01,Dorchester,Under Investigation,21613,
+150882,Nontidal Wetlands,2023-05-01,2023-04-29,Anne Arundel,Under Investigation,,
 150881,Non-Tidal Wetlands/Waterway,2023-04-28,2023-04-28,Baltimore,Referred to Outside Agency,,
 150879,"Other, Water Seepage",2023-04-28,2023-04-28,Harford,Under Investigation,,
 150878,Other,2023-04-28,2023-04-27,Harford,Under Investigation,,
@@ -80,7 +87,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140718,Sediment/ Stormwater Problem,2023-03-29,2023-03-22,Harford,Under Investigation,21078,
 140717,Tidal Wetlands,2023-03-29,2023-03-29,Anne Arundel,Under Investigation,,
 140711,Suspected Operation without Permit,2023-03-28,2023-03-28,Anne Arundel,Under Investigation,,
-140702,Other,2023-03-27,2023-03-27,Washington,Under Investigation,,
+140702,Other,2023-03-27,2023-03-27,Washington,Incident Closed-Managed,,2023-04-26
 140701,Other,2023-03-27,2023-03-22,Howard,Referred to Outside Agency,20723,
 140699,Industrial,2023-03-27,2023-03-27,Frederick,Under Investigation,,
 140698,Industrial,2023-03-27,2023-03-27,Frederick,Incident Closed-Managed,21701,2023-04-06
@@ -992,10 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 79298,Sewage/Sludge Release,2022-04-04,2022-04-04,Baltimore,Incident Closed-Clean-up Completed,,2022-04-04
 79295,Industrial,2022-04-01,2022-04-01,Baltimore,Incident Closed-No Violation Observed,21220,2022-04-06
 79294,Nontidal Wetlands,2022-04-01,2022-04-01,Frederick,Incident Closed-Managed,21702,2022-04-20
-79293,Nontidal Wetlands,2022-04-01,2022-04-01,Baltimore,Incident Closed-No Violation Observed,,2022-04-19
-79292,Other,2022-04-01,2022-04-01,Baltimore,Incident Closed-Clean-up Completed,,2022-06-22
-79291,Tidal Wetlands,2022-04-01,2022-04-01,Talbot,Incident Closed - No further action,21601,2022-09-01
-79290,Nontidal Wetlands,2022-04-01,2022-04-01,Washington,Incident Closed-Managed,21740,2023-03-15
-79289,"Floodplain, Non-Tidal Wetlands/Waterway, Sediment, Water Pollutant Release",2022-03-31,2022-03-31,Baltimore,Incident Closed-Managed,21087,2022-05-27
-79289,"Floodplain, Non-Tidal Wetlands/Waterway, Sediment, Water Pollutant Release",2022-03-31,2022-03-31,Baltimore,Incident Closed-Managed,21087,2022-05-27
-79287,Tidal Wetlands,2022-03-31,2022-03-31,Cecil,Under Investigation,21919,
