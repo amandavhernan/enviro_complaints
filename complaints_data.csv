@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+150898,Nontidal Wetlands,2023-05-02,2023-04-21,Frederick,Under Investigation,21073,
+150897,Sediment,2023-05-02,2023-04-18,Frederick,Under Investigation,,
+150895,Nontidal Wetlands,2023-05-02,2023-04-14,Frederick,Under Investigation,21757,
+150892,Fish Kill,2023-05-02,2023-05-01,Montgomery,Under Investigation,20910,
 150890,Oil Release/Spill,2023-05-01,2023-05-01,Baltimore City,Referred to LMA,,
 150889,Water Pollutant Release,2023-05-01,2023-04-17,Baltimore,Under Investigation,21220,
 150888,Tidal Wetlands,2023-05-01,2023-05-01,Anne Arundel,Under Investigation,21012,
@@ -42,6 +46,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140808,Oil Release/Spill (Surface),2023-04-14,2023-04-14,Frederick,Referred to Outside Agency,,
 140807,Tidal Wetlands,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21409,
 140806,Nontidal Wetlands,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21144,
+140805,Sediment/ Stormwater Problem,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21113,
 140805,Sediment/ Stormwater Problem,2023-04-14,2023-04-14,Anne Arundel,Under Investigation,21113,
 140804,Illegal Dumping,2023-04-13,2023-04-13,Anne Arundel,Under Investigation,21032,
 140803,Non-Tidal Wetlands/Waterway,2023-04-13,2023-04-13,Washington,Under Investigation,21758,
@@ -186,6 +191,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140531,Tidal Wetlands,2023-02-24,2023-02-24,St. Mary's,Referred to Enforcement/Compliance,20653,
 130534,"Nontidal Wetlands, Stormwater",2023-02-23,2023-02-23,Charles,Under Investigation,20695,
 130533,Surface Water Quality Complaint,2023-02-23,2023-02-23,Harford,Incident Closed - No further action,,2023-03-02
+130531,Nontidal Wetlands,2023-02-23,2023-02-23,Allegany,Under Investigation,21502,
 130531,Nontidal Wetlands,2023-02-23,2023-02-23,Allegany,Under Investigation,21502,
 130531,Nontidal Wetlands,2023-02-23,2023-02-23,Allegany,Under Investigation,21502,
 130531,Nontidal Wetlands,2023-02-23,2023-02-23,Allegany,Under Investigation,21502,
@@ -993,9 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 79304,Nontidal Wetlands,2022-04-04,2022-03-30,Somerset,Under Investigation,21871,
 79303,Sediment/ Stormwater Problem,2022-04-04,2022-04-04,Baltimore,Under Investigation,,
 79302,Nontidal Wetlands,2022-04-04,2022-04-04,Frederick,Referred to Outside Agency,,
-79301,Sediment,2022-04-04,2022-03-28,Caroline,Incident Closed - No further action,21639,2022-09-01
-79300,Sediment,2022-04-04,2022-04-04,Somerset,Incident Closed - No further action,21821,2022-06-16
-79299,Illegal Dumping,2022-04-04,2022-04-04,Anne Arundel,Under Investigation,21146,
-79298,Sewage/Sludge Release,2022-04-04,2022-04-04,Baltimore,Incident Closed-Clean-up Completed,,2022-04-04
-79295,Industrial,2022-04-01,2022-04-01,Baltimore,Incident Closed-No Violation Observed,21220,2022-04-06
-79294,Nontidal Wetlands,2022-04-01,2022-04-01,Frederick,Incident Closed-Managed,21702,2022-04-20
