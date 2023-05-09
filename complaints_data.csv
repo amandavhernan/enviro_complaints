@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+150912,Nontidal Wetlands,2023-05-08,2023-05-07,Montgomery,Referred to Outside Agency,,
 150908,Tidal Wetlands,2023-05-05,2023-05-03,Dorchester,Under Investigation,21631,
 150907,"Stormwater, Water Pollutant Release",2023-05-05,2023-05-04,Baltimore City,Under Investigation,21226,
 150907,"Stormwater, Water Pollutant Release",2023-05-05,2023-05-04,Baltimore City,Under Investigation,21226,
@@ -90,6 +91,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140747,Sediment,2023-04-03,2023-04-03,Allegany,Under Investigation,21502,
 140746,Tidal Wetlands,2023-04-03,2023-04-03,St. Mary's,Referred to Enforcement/Compliance,,
 140745,"Non-Tidal Wetlands/Waterway, Sediment",2023-04-03,2023-03-31,Washington,Under Investigation,21740,
+140745,"Non-Tidal Wetlands/Waterway, Sediment",2023-04-03,2023-03-31,Washington,Under Investigation,21740,
 140741,"Possible Permit Violation, Sediment",2023-04-03,2023-03-27,Anne Arundel,Incident Closed-Managed,21012,2023-04-04
 140733,Unknown Substance,2023-03-31,2023-03-31,Baltimore,Incident Closed-Managed,21204,2023-03-31
 140731,Other,2023-03-31,2023-03-22,Washington,Referred to Outside Agency,,
@@ -102,7 +104,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140721,Other,2023-03-30,2023-03-29,Washington,Referred to Outside Agency,,
 140718,Sediment/ Stormwater Problem,2023-03-29,2023-03-22,Harford,Under Investigation,21078,
 140717,Tidal Wetlands,2023-03-29,2023-03-29,Anne Arundel,Under Investigation,,
-140711,Suspected Operation without Permit,2023-03-28,2023-03-28,Anne Arundel,Under Investigation,,
+140711,Suspected Operation without Permit,2023-03-28,2023-03-28,Anne Arundel,Under Investigation,21122,
 140702,Other,2023-03-27,2023-03-27,Washington,Incident Closed-Managed,,2023-04-26
 140701,Other,2023-03-27,2023-03-22,Howard,Referred to Outside Agency,20723,
 140699,Industrial,2023-03-27,2023-03-27,Frederick,Referred to Outside Agency,,
@@ -291,29 +293,29 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130423,"Industrial, Possible Permit Violation",2023-01-27,2023-01-27,Anne Arundel,Under Investigation,21226,
 130421,Nontidal Wetlands,2023-01-27,2023-01-27,Washington,Under Investigation,21779,
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20657,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20678,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20657,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20657,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20657,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20657,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20678,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20657,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20678,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20678,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20678,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20678,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20657,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20678,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20657,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20678,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
+130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
 130419,Sewage/Sludge Release,2023-01-26,2023-01-26,Anne Arundel,Under Investigation,21060,
 130419,Sewage/Sludge Release,2023-01-26,2023-01-26,Anne Arundel,Under Investigation,21060,
@@ -398,8 +400,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130304,"Sediment, Suspected Operation without Permit",2022-12-29,2022-12-29,Baltimore,Referred to Outside Agency,,
 130302,"Air Pollutant Release, Sediment",2022-12-28,2022-12-28,Baltimore,Referred to Outside Agency,21234,
 130301,Possible Permit Violation,2022-12-28,2022-12-28,Anne Arundel,Incident Closed-Managed,,2023-03-16
-130301,Possible Permit Violation,2022-12-28,2022-12-28,Anne Arundel,Incident Closed-Managed,21401,2023-03-16
 130301,Possible Permit Violation,2022-12-28,2022-12-28,Anne Arundel,Incident Closed-Managed,,2023-03-16
+130301,Possible Permit Violation,2022-12-28,2022-12-28,Anne Arundel,Incident Closed-Managed,21401,2023-03-16
 130301,Possible Permit Violation,2022-12-28,2022-12-28,Anne Arundel,Incident Closed-Managed,21401,2023-03-16
 130300,Odor,2022-12-28,2022-12-28,Anne Arundel,Incident Closed - No further action,21226,2022-12-28
 130299,Sediment,2022-12-28,2022-12-28,Anne Arundel,Incident Closed - No further action,,2022-12-28
@@ -691,7 +693,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99839,Municipal/SSO,2022-08-03,2022-08-03,Baltimore,Under Investigation,21229,
 99838,Tidal Wetlands,2022-08-03,2022-08-03,Kent,Under Investigation,21620,
 99837,Tidal Wetlands,2022-08-03,2022-08-03,Queen Anne's,Under Investigation,21658,
-99836,Sediment,2022-08-03,2022-08-02,Talbot,Under Investigation,21601,
+99836,Sediment,2022-08-03,2022-08-02,Talbot,Incident Closed - No further action,21601,2023-05-03
 99835,Nontidal Wetlands,2022-08-03,2022-08-02,Dorchester,Under Investigation,21643,
 99834,Tidal Wetlands,2022-08-03,2022-08-03,Dorchester,Under Investigation,21613,
 99833,"Illegal Wetland Alteration, Other",2022-08-03,2022-08-03,Baltimore,Under Investigation,21244,
@@ -845,7 +847,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99570,Stormwater,2022-06-11,2022-06-09,Montgomery,Referred to Outside Agency,,
 99566,Sediment,2022-06-10,2022-06-10,Harford,Incident Closed - No further action,21085,2022-10-24
 99564,Municipal,2022-06-10,2022-06-10,Washington,Incident Closed-Managed,21740,2022-08-04
-99562,Sediment,2022-06-10,2022-06-09,Talbot,Under Investigation,21671,
+99562,Sediment,2022-06-10,2022-06-09,Talbot,Incident Closed - No further action,21671,2023-05-01
 99556,Illegal Dumping,2022-06-09,2022-06-09,St. Mary's,Referred to LMA,,
 99549,Tidal Wetlands,2022-06-08,2021-05-01,St. Mary's,Referred to Enforcement/Compliance,,
 99548,Other,2022-06-08,2022-06-08,Allegany,Incident Closed-Managed,21502,2022-07-19
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 79325,Illegal Dumping,2022-04-11,2022-04-11,Harford,Incident Closed - No further action,21047,2022-06-24
 79323,Sewage/Sludge Release,2022-04-11,2022-04-11,Anne Arundel,Incident Closed-Managed,,2022-04-28
 79321,Unknown Substance,2022-04-08,2022-04-08,Baltimore,Under Investigation,21228,
-79320,Other,2022-04-08,2022-04-06,Anne Arundel,Under Investigation,21122,
-79319,Sediment,2022-04-08,2022-04-07,Anne Arundel,Incident Closed - No further action,,2022-06-24
