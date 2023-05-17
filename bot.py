@@ -64,7 +64,7 @@ def check_complaints():
         except SlackApiError as e:
             print(f"Error sending message: {e}")
         else:
-            print("Message sent to Slack channel")
+            print("Message sent to Slack channel!")
 
         # update last_checked_date to the received_date of the latest complaint in new_complaints
         last_checked_date = new_complaints[-1]['recieved_date']
@@ -79,7 +79,7 @@ def check_complaints():
         except SlackApiError as e:
             print(f"Error sending message: {e}")
         else:
-            print("Message sent to Slack channel")
+            print("Message sent to Slack channel!")
 
 if __name__ == "__main__":
     check_complaints()

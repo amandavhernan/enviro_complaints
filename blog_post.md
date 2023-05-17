@@ -1,4 +1,4 @@
-## Automated data visualization with Plotly and Slack in Python 📊
+## Automated Data Viz with Plotly and Slack in Python 📊
 
 ### Introduction
 * Overview of Plotly and Slack libraries
