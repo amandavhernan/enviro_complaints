@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+161011,"Other, Suspected Operation without Permit",2023-05-26,2023-05-26,Baltimore,Under Investigation,,
+161010,Sediment,2023-05-26,2023-05-25,Harford,Referred to Outside Agency,21085,
+161010,Sediment,2023-05-26,2023-05-25,Harford,Referred to Outside Agency,21085,
+161009,Chemical Release/Spill,2023-05-26,2023-05-24,Prince George's,Referred to Outside Agency,,
 161007,Nontidal Wetlands,2023-05-25,2023-05-25,Cecil,Under Investigation,21901,
 161005,Tidal Wetlands,2023-05-25,2023-05-23,Talbot,Under Investigation,21612,
 161004,Industrial Non-Complying Discharge,2023-05-25,2023-05-22,Queen Anne's,Under Investigation,21619,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 89438,"Oil Release/Spill (Surface), Water Pollutant Release",2022-05-09,2022-05-03,Anne Arundel,Clean-up In Progress,21401,
 89438,"Oil Release/Spill (Surface), Water Pollutant Release",2022-05-09,2022-05-03,Anne Arundel,Clean-up In Progress,21401,
 89437,Industrial Non-Complying Discharge,2022-05-09,2022-05-07,Howard,Under Investigation,,
-89434,Municipal/SSO,2022-05-06,2022-05-06,Charles,Incident Closed - No further action,20601,2022-05-06
-89431,Industrial Non-Complying Discharge,2022-05-06,2022-05-05,Prince George's,Under Investigation,,
-89429,Industrial Non-Complying Discharge,2022-05-05,2022-05-03,Montgomery,Under Investigation,,
-89428,Sediment,2022-05-05,2022-05-05,Harford,Referred to Outside Agency,,
