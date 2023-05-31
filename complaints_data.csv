@@ -1,5 +1,10 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
-161013,Industrial Non-Complying Discharge,2023-05-27,2023-05-26,Baltimore,Under Investigation,,
+161018,Floodplain,2023-05-30,2023-05-26,Garrett,Under Investigation,,
+161017,Groundwater Contamination,2023-05-30,2023-04-05,Allegany,Under Investigation,,
+161016,Non-Tidal Wetlands/Waterway,2023-05-30,2023-05-30,Allegany,Under Investigation,,
+161015,Tidal Wetlands,2023-05-30,2023-05-30,St. Mary's,Referred to Enforcement/Compliance,,
+161014,Industrial,2023-05-30,2023-05-26,Frederick,Under Investigation,21770,
+161013,Industrial Non-Complying Discharge,2023-05-27,2023-05-26,Baltimore,Incident Closed-Managed,,2023-05-30
 161011,"Other, Suspected Operation without Permit",2023-05-26,2023-05-26,Baltimore,Under Investigation,,
 161010,Sediment,2023-05-26,2023-05-25,Harford,Referred to Outside Agency,21085,
 161010,Sediment,2023-05-26,2023-05-25,Harford,Referred to Outside Agency,21085,
@@ -994,8 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 89441,Possible Permit Violation,2022-05-09,2022-05-09,Harford,Under Investigation,21078,
 89440,Sediment/ Stormwater Problem,2022-05-09,2022-05-09,Harford,Referred to Outside Agency,,
 89439,Nontidal Wetlands,2022-05-09,2022-05-02,Harford,Referred to Outside Agency,21014,
-89438,"Oil Release/Spill (Surface), Water Pollutant Release",2022-05-09,2022-05-03,Anne Arundel,Clean-up In Progress,21401,
-89438,"Oil Release/Spill (Surface), Water Pollutant Release",2022-05-09,2022-05-03,Anne Arundel,Clean-up In Progress,21401,
-89438,"Oil Release/Spill (Surface), Water Pollutant Release",2022-05-09,2022-05-03,Anne Arundel,Clean-up In Progress,21401,
-89438,"Oil Release/Spill (Surface), Water Pollutant Release",2022-05-09,2022-05-03,Anne Arundel,Clean-up In Progress,21401,
-89438,"Oil Release/Spill (Surface), Water Pollutant Release",2022-05-09,2022-05-03,Anne Arundel,Clean-up In Progress,21401,
