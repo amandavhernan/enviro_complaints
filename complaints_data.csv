@@ -1,10 +1,14 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+161022,Municipal Non-Complying Discharge,2023-05-31,2023-05-31,Dorchester,Under Investigation,21664,
+161021,Water Pollutant Release,2023-05-31,2023-05-31,Frederick,Under Investigation,21073,
+161020,Industrial,2023-05-31,2023-05-31,Frederick,Incident Closed-Managed,21770,2023-05-31
+161019,"Industrial, Stormwater",2023-05-31,2023-05-30,Baltimore,Under Investigation,,
 161018,Floodplain,2023-05-30,2023-05-26,Garrett,Under Investigation,,
 161017,Groundwater Contamination,2023-05-30,2023-04-05,Allegany,Under Investigation,,
 161016,Non-Tidal Wetlands/Waterway,2023-05-30,2023-05-30,Allegany,Under Investigation,,
 161015,Tidal Wetlands,2023-05-30,2023-05-30,St. Mary's,Referred to Enforcement/Compliance,,
-161014,Industrial,2023-05-30,2023-05-26,Frederick,Under Investigation,21770,
-161013,Industrial Non-Complying Discharge,2023-05-27,2023-05-26,Baltimore,Incident Closed-Managed,,2023-05-30
+161014,Industrial,2023-05-30,2023-05-26,Frederick,Incident Closed-Managed,21770,2023-05-31
+161013,Industrial Non-Complying Discharge,2023-05-27,2023-05-26,Baltimore,Incident Closed-Managed,21204,2023-05-31
 161011,"Other, Suspected Operation without Permit",2023-05-26,2023-05-26,Baltimore,Under Investigation,,
 161010,Sediment,2023-05-26,2023-05-25,Harford,Referred to Outside Agency,21085,
 161010,Sediment,2023-05-26,2023-05-25,Harford,Referred to Outside Agency,21085,
@@ -75,7 +79,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150903,Nontidal Wetlands,2023-05-04,2023-04-27,Cecil,Under Investigation,21919,
 150901,Tidal Wetlands,2023-05-03,2023-03-28,Prince George's,,20744,
 150900,Non-Tidal Wetlands/Waterway,2023-05-03,2023-05-02,Anne Arundel,Under Investigation,20751,
-150899,Nontidal Wetlands,2023-05-03,2023-05-03,Frederick,Under Investigation,,
+150899,Nontidal Wetlands,2023-05-03,2023-05-03,Frederick,Under Investigation,21702,
 150898,Nontidal Wetlands,2023-05-02,2023-04-21,Frederick,Under Investigation,21073,
 150897,Sediment,2023-05-02,2023-04-18,Frederick,Under Investigation,21701,
 150895,Nontidal Wetlands,2023-05-02,2023-04-14,Frederick,Under Investigation,21757,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 89449,"Nontidal Wetlands, Sediment, Tidal Wetlands",2022-05-11,2022-05-10,Baltimore,Under Investigation,,
 89448,Oil Release/Spill,2022-05-10,2022-05-10,Charles,Referred to LMA,,
 89442,Industrial,2022-05-10,2022-05-10,Washington,Incident Closed-Managed,21795,2022-07-20
-89442,Industrial,2022-05-10,2022-05-10,Washington,Incident Closed-Managed,21795,2022-07-20
-89441,Possible Permit Violation,2022-05-09,2022-05-09,Harford,Under Investigation,21078,
-89440,Sediment/ Stormwater Problem,2022-05-09,2022-05-09,Harford,Referred to Outside Agency,,
-89439,Nontidal Wetlands,2022-05-09,2022-05-02,Harford,Referred to Outside Agency,21014,
