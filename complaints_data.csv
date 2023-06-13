@@ -1,5 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+161114,Illegal Discharge or Outfall,2023-06-12,2023-06-09,Anne Arundel,Under Investigation,,
+161113,"Agricultural, Floodplain",2023-06-12,2023-06-12,Harford,Under Investigation,,
+161110,"Illegal Dumping, Oil Release/Spill",2023-06-10,2023-06-10,Charles,Under Investigation,,
 161109,Sewage/Sludge Release,2023-06-09,2023-06-09,Anne Arundel,Under Investigation,21060,
+161108,Non-Tidal Wetlands/Waterway,2023-06-09,2023-06-09,Calvert,Referred to Outside Agency,,
 161103,Nontidal Wetlands,2023-06-09,2023-06-08,Harford,Under Investigation,21132,
 161100,Chemical Release/Spill,2023-06-09,2023-06-08,Harford,Clean-up Initiated,21017,
 161099,Sediment,2023-06-09,2023-06-05,Wicomico,Under Investigation,21801,
@@ -993,9 +997,5 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99520,Sediment,2022-05-31,2022-05-31,Frederick,Incident Closed-Managed,21710,2022-06-03
 99519,Non-Tidal Wetlands/Waterway,2022-05-31,2022-05-31,Carroll,Under Investigation,21774,
 99519,Non-Tidal Wetlands/Waterway,2022-05-31,2022-05-31,Carroll,Under Investigation,21774,
-99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
-99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
-99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
-99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
 99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
 99518,Industrial,2022-05-31,2022-05-31,Montgomery,Under Investigation,20879,
