@@ -51,7 +51,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161082,Water Pollutant Release,2023-06-08,2023-06-05,Washington,Incident Closed-Managed,21073,2023-06-16
 161067,Nontidal Wetlands,2023-06-07,2023-06-07,Carroll,Referred to WMA,,
 161066,"Illegal Dumping, Other, Unknown Substance",2023-06-07,2023-06-07,Baltimore City,Under Investigation,,
-161056,Oil Release/Spill,2023-06-06,2023-06-06,Anne Arundel,Under Investigation,21122,
+161056,Oil Release/Spill,2023-06-06,2023-06-06,Anne Arundel,Incident Closed - No further action,21122,2023-06-23
 161053,Tidal Wetlands,2023-06-06,2023-06-05,Worcester,Under Investigation,21811,
 161052,Non-Tidal Wetlands/Waterway,2023-06-06,2023-06-04,Frederick,Under Investigation,21788,
 161051,Non-Tidal Wetlands/Waterway,2023-06-06,2023-05-30,Frederick,Under Investigation,21769,
@@ -78,7 +78,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161022,Municipal Non-Complying Discharge,2023-05-31,2023-05-31,Dorchester,Under Investigation,21664,
 161021,Water Pollutant Release,2023-05-31,2023-05-31,Frederick,Incident Closed-Managed,21073,2023-06-15
 161020,Industrial,2023-05-31,2023-05-31,Frederick,Incident Closed-Managed,21770,2023-05-31
-161019,"Industrial, Stormwater",2023-05-31,2023-05-30,Baltimore,Under Investigation,21023,
+161019,"Industrial, Stormwater",2023-05-31,2023-05-30,Baltimore,Under Investigation,21136,
 161018,Floodplain,2023-05-30,2023-05-26,Garrett,Under Investigation,,
 161017,Groundwater Contamination,2023-05-30,2023-04-05,Allegany,Under Investigation,,
 161016,Non-Tidal Wetlands/Waterway,2023-05-30,2023-05-30,Allegany,Under Investigation,,
@@ -222,7 +222,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140793,"Other, Sediment",2023-04-12,2023-04-12,Harford,Referred to Outside Agency,,
 140790,Nontidal Wetlands,2023-04-12,2023-04-11,Talbot,Under Investigation,21771,
 140789,Non-Tidal Wetlands/Waterway,2023-04-12,2023-04-11,Charles,Referred to Enforcement/Compliance,,
-140788,Sediment,2023-04-11,2023-04-12,Harford,Under Investigation,21154,
+140788,Sediment,2023-04-11,2023-04-12,Harford,Referred to Outside Agency,21154,
 140787,Nontidal Wetlands,2023-04-11,2023-04-11,Allegany,Under Investigation,21532,
 140786,Chemical Release/Spill,2023-04-11,2023-04-05,Harford,Incident Closed - No further action,,2023-04-11
 140785,Sediment,2023-04-11,2023-04-06,Wicomico,Under Investigation,21801,
