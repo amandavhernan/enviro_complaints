@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+171220,Other,2023-07-06,2023-07-06,Frederick,Under Investigation,,
 171219,Nontidal Wetlands,2023-07-05,2023-06-30,Frederick,Under Investigation,,
 171216,Sediment,2023-07-05,2023-06-29,Wicomico,Under Investigation,21837,
 171215,Tidal Wetlands,2023-07-03,2023-07-03,Anne Arundel,Incident Closed-Managed,20764,2023-07-03
@@ -39,7 +40,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161150,Odor,2023-06-21,2023-06-21,Baltimore,Incident Closed-Managed,21224,2023-06-21
 161149,"Illegal Wetland Alteration, Nontidal Wetlands",2023-06-21,2023-06-21,Anne Arundel,Under Investigation,,
 161148,Sediment,2023-06-21,2023-06-21,Washington,Under Investigation,21740,
-161147,"Illegal Discharge or Outfall, Illegal Dumping, Odor, Sewage/Sludge Release",2023-06-21,2023-06-21,Baltimore,Under Investigation,,
+161147,"Illegal Discharge or Outfall, Illegal Dumping, Odor, Sewage/Sludge Release",2023-06-21,2023-06-21,Baltimore,Under Investigation,21224,
 161145,Illegal Discharge or Outfall,2023-06-21,2023-05-23,Frederick,Referred to Outside Agency,,
 161142,"Fumes, Sediment",2023-06-20,2023-06-20,Baltimore,Under Investigation,,
 161140,Other,2023-06-20,2023-06-16,Frederick,Under Investigation,,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99681,Sediment,2022-06-29,2022-06-29,Frederick,Referred to Outside Agency,21716,
 99680,Tidal Wetlands,2022-06-29,2022-06-28,Queen Anne's,Incident Closed - No further action,21658,2022-10-31
 99679,Nontidal Wetlands,2022-06-29,2022-06-28,Talbot,Incident Closed - No further action,21673,2022-10-31
-99678,"Nontidal Wetlands, Suspected Operation without Permit",2022-06-29,2022-06-28,Anne Arundel,Referred to WMA,21122,
