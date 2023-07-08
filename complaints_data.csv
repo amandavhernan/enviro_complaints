@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+171230,Lead Paint Poisoning Complaint,2023-07-07,2023-07-07,Baltimore,Under Investigation,,
+171229,Non-Tidal Wetlands/Waterway,2023-07-07,2023-07-02,Frederick,Under Investigation,,
+171228,Sediment,2023-07-07,2023-07-07,Harford,Under Investigation,21085,
+171224,Water Pollutant Release,2023-07-07,2023-07-07,Anne Arundel,Under Investigation,21122,
 171220,Other,2023-07-06,2023-07-06,Frederick,Under Investigation,,
 171219,Nontidal Wetlands,2023-07-05,2023-06-30,Frederick,Under Investigation,,
 171216,Sediment,2023-07-05,2023-06-29,Wicomico,Under Investigation,21837,
@@ -160,8 +164,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150968,Sediment,2023-05-17,2023-05-11,Wicomico,Under Investigation,21875,
 150966,Water Pollutant Release,2023-05-17,2023-05-16,Garrett,Under Investigation,,
 150962,"Non-Tidal Wetlands/Waterway, Sediment",2023-05-16,2023-05-12,Washington,Under Investigation,21742,
-150961,Tidal Wetlands,2023-05-16,2023-05-16,Anne Arundel,Under Investigation,21122,
-150961,Tidal Wetlands,2023-05-16,2023-05-16,Anne Arundel,Under Investigation,21122,
+150961,Tidal Wetlands,2023-05-16,2023-05-16,Anne Arundel,Incident Closed-Managed,21122,2023-07-07
+150961,Tidal Wetlands,2023-05-16,2023-05-16,Anne Arundel,Incident Closed-Managed,21122,2023-07-07
 150960,Tidal Wetlands,2023-05-15,2023-05-15,Anne Arundel,Referred to Outside Agency,21122,
 150959,Oil Release/Spill,2023-05-15,2023-05-12,Garrett,Under Investigation,21536,
 150955,"Other, Sediment/ Stormwater Problem",2023-05-15,2023-05-15,Baltimore City,Referred to Enforcement/Compliance,21224,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99686,"Tidal Wetlands, Water Pollutant Release",2022-07-01,2022-06-30,St. Mary's,Under Investigation,20659,
 99685,Other,2022-06-30,2022-06-30,Anne Arundel,Referred to Outside Agency,,
 99683,Sewage/Sludge Release,2022-06-30,2022-06-30,Baltimore,Referred to Outside Agency,,
-99682,Sediment,2022-06-30,2022-06-30,Anne Arundel,Incident Closed-Managed,21240,2022-10-27
-99681,Sediment,2022-06-29,2022-06-29,Frederick,Referred to Outside Agency,21716,
-99680,Tidal Wetlands,2022-06-29,2022-06-28,Queen Anne's,Incident Closed - No further action,21658,2022-10-31
-99679,Nontidal Wetlands,2022-06-29,2022-06-28,Talbot,Incident Closed - No further action,21673,2022-10-31
