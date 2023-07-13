@@ -1,4 +1,11 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+171244,Nontidal Wetlands,2023-07-12,2023-07-12,Talbot,Under Investigation,21601,
+171243,Water Pollutant Release,2023-07-12,2023-07-12,Baltimore,Under Investigation,21219,
+171242,"Illegal Discharge or Outfall, Sewage/Sludge Release",2023-07-12,2023-07-12,Baltimore,Under Investigation,21222,
+171241,Nontidal Wetlands,2023-07-12,2023-07-10,Prince George's,Under Investigation,,
+171240,"Chemical Release/Spill, Illegal Discharge or Outfall",2023-07-12,2023-07-12,Anne Arundel,Under Investigation,,
+171239,Industrial Non-Complying Discharge,2023-07-12,2023-07-11,Dorchester,Under Investigation,21613,
+171238,Tidal Wetlands,2023-07-12,2023-07-11,Worcester,Under Investigation,21842,
 171237,Sediment,2023-07-11,2023-07-10,Wicomico,Under Investigation,21801,
 171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,,
 171230,Lead Paint Poisoning Complaint,2023-07-07,2023-07-07,Baltimore,Under Investigation,,
@@ -6,7 +13,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171228,Sediment,2023-07-07,2023-07-07,Harford,Under Investigation,21085,
 171224,Water Pollutant Release,2023-07-07,2023-07-07,Anne Arundel,Under Investigation,21122,
 171220,Other,2023-07-06,2023-07-06,Frederick,Referred to Outside Agency,,
-171219,Nontidal Wetlands,2023-07-05,2023-06-30,Frederick,Under Investigation,,
+171219,Nontidal Wetlands,2023-07-05,2023-06-30,Frederick,Incident Closed-Managed,21701,2023-07-05
 171216,Sediment,2023-07-05,2023-06-29,Wicomico,Under Investigation,21837,
 171215,Tidal Wetlands,2023-07-03,2023-07-03,Anne Arundel,Incident Closed-Managed,20764,2023-07-03
 171214,Sediment,2023-07-03,2023-07-03,Anne Arundel,Under Investigation,,
@@ -992,10 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99692,Sediment,2022-07-05,2022-07-05,Harford,Incident Closed - No further action,21085,2022-10-27
 99692,Sediment,2022-07-05,2022-07-05,Harford,Incident Closed - No further action,21085,2022-10-27
 99691,Illegal Wetland Alteration,2022-07-05,2022-07-05,Anne Arundel,Referred to Enforcement/Compliance,21037,
-99691,Illegal Wetland Alteration,2022-07-05,2022-07-05,Anne Arundel,Referred to Enforcement/Compliance,21037,
-99691,Illegal Wetland Alteration,2022-07-05,2022-07-05,Anne Arundel,Referred to Enforcement/Compliance,21037,
-99690,Sewage/Sludge Release,2022-07-05,2022-07-02,Anne Arundel,Referred to Outside Agency,,
-99689,Sediment,2022-07-05,2022-07-05,Prince George's,Under Investigation,,
-99688,Industrial,2022-07-05,2022-07-03,St. Mary's,Under Investigation,,
-99687,Industrial Non-Complying Discharge,2022-07-05,2022-07-03,Baltimore,Under Investigation,21117,
-99686,"Tidal Wetlands, Water Pollutant Release",2022-07-01,2022-06-30,St. Mary's,Under Investigation,20659,
