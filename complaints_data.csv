@@ -1,4 +1,10 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+171259,Unknown Substance,2023-07-17,2023-07-17,Not Yet Determined,Under Investigation,,
+171258,Unknown Substance,2023-07-17,2023-07-17,Harford,Under Investigation,,
+171256,Sediment,2023-07-17,2023-07-14,Montgomery,Under Investigation,20877,
+171255,Possible Permit Violation,2023-07-17,2023-07-17,Anne Arundel,Referred to Outside Agency,,
+171254,Sediment/ Stormwater Problem,2023-07-17,2023-07-06,Garrett,Under Investigation,21531,
+171253,Illegal Dam,2023-07-17,2023-07-12,Queen Anne's,Under Investigation,21620,
 171250,Tidal Wetlands,2023-07-13,2023-07-13,St. Mary's,Under Investigation,20690,
 171249,"Possible Permit Violation, Tidal Wetlands",2023-07-13,2023-07-13,Baltimore,Under Investigation,21220,
 171248,Illegal Dumping,2023-07-13,2023-07-13,Anne Arundel,Under Investigation,,
@@ -12,7 +18,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171239,Industrial Non-Complying Discharge,2023-07-12,2023-07-11,Dorchester,Under Investigation,21613,
 171238,Tidal Wetlands,2023-07-12,2023-07-11,Worcester,Under Investigation,21842,
 171237,Sediment,2023-07-11,2023-07-10,Wicomico,Under Investigation,21801,
-171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,,
+171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
+171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
 171230,Lead Paint Poisoning Complaint,2023-07-07,2023-07-07,Baltimore,Under Investigation,,
 171229,Non-Tidal Wetlands/Waterway,2023-07-07,2023-07-02,Frederick,Referred to Outside Agency,,
 171228,Sediment,2023-07-07,2023-07-07,Harford,Under Investigation,21085,
@@ -90,7 +97,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161100,Chemical Release/Spill,2023-06-09,2023-06-08,Harford,Incident Closed-Managed,21017,2023-06-20
 161099,Sediment,2023-06-09,2023-06-05,Wicomico,Under Investigation,21801,
 161098,Tidal Wetlands,2023-06-09,2023-06-08,Queen Anne's,Under Investigation,21638,
-161097,Industrial,2023-06-09,2023-06-07,Kent,Under Investigation,,
+161097,Industrial,2023-06-09,2023-06-07,Kent,Incident Closed-Clean-up Completed,,2023-07-05
 161096,Nontidal Wetlands,2023-06-09,2023-06-05,Frederick,Referred to Outside Agency,,
 161095,Oil Release/Spill (Open Water),2023-06-08,2023-06-07,St. Mary's,,,
 161094,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway, Sediment",2023-06-08,2023-06-08,Baltimore,Incident Closed-Managed,21152,2023-06-22
@@ -976,7 +983,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99723,Sediment,2022-07-08,2022-06-27,Talbot,Under Investigation,,
 99722,Sediment,2022-07-08,2022-06-27,Talbot,Under Investigation,,
 99720,Oil Release/Spill (Surface),2022-07-08,2022-07-07,Anne Arundel,Incident Closed - No further action,,2022-07-08
-99719,Sediment,2022-07-08,2022-07-06,Queen Anne's,Under Investigation,21666,
+99719,Sediment,2022-07-08,2022-07-06,Queen Anne's,Incident Closed - No further action,21666,2023-07-17
 99718,Sediment,2022-07-08,2022-07-06,Talbot,Incident Closed - No further action,21673,2022-10-31
 99717,Sediment,2022-07-08,2022-07-04,Worcester,Incident Closed - No further action,21654,2022-11-28
 99715,Tidal Wetlands,2022-07-07,2022-07-07,Harford,Incident Closed - No further action,,2022-10-27
@@ -992,10 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99707,Fish Kill,2022-07-06,2022-07-06,Anne Arundel,Incident Closed-No Violation Observed,,2022-10-27
 99701,Fish Kill,2022-07-06,2022-07-02,Carroll,Under Investigation,,
 99700,Sediment,2022-07-06,2022-07-06,Allegany,Incident Closed-Managed,21502,2022-11-02
-99700,Sediment,2022-07-06,2022-07-06,Allegany,Incident Closed-Managed,21502,2022-11-02
-99699,Sediment,2022-07-06,2022-07-06,Baltimore,Under Investigation,21212,
-99698,Stormwater,2022-07-06,2022-07-06,Baltimore,Referred to Outside Agency,,
-99697,Nontidal Wetlands,2022-07-05,2022-07-05,Anne Arundel,Under Investigation,21037,
-99697,Nontidal Wetlands,2022-07-05,2022-07-05,Anne Arundel,Under Investigation,21037,
-99697,Nontidal Wetlands,2022-07-05,2022-07-05,Anne Arundel,Under Investigation,21037,
-99696,Non-Tidal Wetlands/Waterway,2022-07-05,2022-07-05,Allegany,Incident Closed-Managed,21766,2022-07-11
