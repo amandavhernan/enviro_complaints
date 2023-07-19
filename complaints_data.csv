@@ -1,4 +1,10 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+171268,Other,2023-07-18,2023-07-17,Allegany,Under Investigation,,
+171267,Possible Permit Violation,2023-07-18,2023-07-18,Calvert,Under Investigation,20657,
+171266,Sediment,2023-07-18,2023-07-15,Prince George's,Under Investigation,,
+171265,Water Pollutant Release,2023-07-18,2023-07-16,Washington,Under Investigation,,
+171264,Fish Kill,2023-07-18,2023-07-18,Baltimore,Under Investigation,,
+171262,Nontidal Wetlands,2023-07-18,2023-07-18,Garrett,Under Investigation,,
 171259,Unknown Substance,2023-07-17,2023-07-17,Not Yet Determined,Under Investigation,,
 171258,Unknown Substance,2023-07-17,2023-07-17,Harford,Under Investigation,,
 171256,Sediment,2023-07-17,2023-07-14,Montgomery,Under Investigation,20877,
@@ -154,7 +160,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161009,Chemical Release/Spill,2023-05-26,2023-05-24,Prince George's,Referred to Outside Agency,,
 161007,Nontidal Wetlands,2023-05-25,2023-05-25,Cecil,Under Investigation,21901,
 161005,Tidal Wetlands,2023-05-25,2023-05-23,Talbot,Incident Closed - No further action,21612,2023-06-30
-161004,Industrial Non-Complying Discharge,2023-05-25,2023-05-22,Queen Anne's,Under Investigation,21619,
+161004,Industrial Non-Complying Discharge,2023-05-25,2023-05-22,Queen Anne's,Incident Closed-Clean-up Completed,21619,2023-07-18
 161003,Sediment,2023-05-25,2023-05-24,Allegany,Under Investigation,,
 161001,Illegal Discharge or Outfall,2023-05-24,2023-05-19,Washington,Under Investigation,21795,
 160999,Municipal Non-Complying Discharge,2023-05-24,2023-05-22,Talbot,Incident Closed - No further action,21601,2023-05-31
@@ -368,13 +374,13 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140630,"Non-Tidal Wetlands/Waterway, Tidal Wetlands",2023-03-14,2023-03-08,Somerset,Under Investigation,21853,
 140629,Nontidal Wetlands,2023-03-14,2023-02-24,Somerset,Under Investigation,21817,
 140623,"Other, Unknown Substance",2023-03-13,2023-03-13,Baltimore,Referred to Outside Agency,21057,
-140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Under Investigation,21216,
-140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Under Investigation,21216,
-140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Under Investigation,21216,
-140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Under Investigation,21216,
-140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Under Investigation,21216,
-140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Under Investigation,21216,
-140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Under Investigation,21216,
+140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Referred to Enforcement/Compliance,21216,
+140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Referred to Enforcement/Compliance,21216,
+140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Referred to Enforcement/Compliance,21216,
+140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Referred to Enforcement/Compliance,21216,
+140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Referred to Enforcement/Compliance,21216,
+140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Referred to Enforcement/Compliance,21216,
+140621,Municipal Non-Complying Discharge,2023-03-11,2023-03-11,Baltimore City,Referred to Enforcement/Compliance,21216,
 140619,Industrial,2023-03-10,2023-03-10,Anne Arundel,Under Investigation,21226,
 140617,Nontidal Wetlands,2023-03-10,2023-03-10,Allegany,Referred to Outside Agency,,
 140615,Water Pollutant Release,2023-03-10,2023-03-10,Charles,Under Investigation,20603,
@@ -993,9 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99711,Chemical Release/Spill,2022-07-07,2022-07-07,Anne Arundel,Incident Closed-No Violation Observed,21060,2022-10-27
 99710,"Nontidal Wetlands, Sediment",2022-07-07,2022-07-07,Frederick,Incident Closed-Managed,21776-780,2022-07-28
 99710,"Nontidal Wetlands, Sediment",2022-07-07,2022-07-07,Frederick,Incident Closed-Managed,21776-780,2022-07-28
-99709,"Nontidal Wetlands, Sediment",2022-07-07,2022-07-06,Frederick,Incident Closed-Managed,21788,2022-07-14
-99709,"Nontidal Wetlands, Sediment",2022-07-07,2022-07-06,Frederick,Incident Closed-Managed,21788,2022-07-14
-99708,Nontidal Wetlands,2022-07-07,2022-07-01,Frederick,Incident Closed-Managed,21771,2022-07-15
-99707,Fish Kill,2022-07-06,2022-07-06,Anne Arundel,Incident Closed-No Violation Observed,,2022-10-27
-99701,Fish Kill,2022-07-06,2022-07-02,Carroll,Under Investigation,,
-99700,Sediment,2022-07-06,2022-07-06,Allegany,Incident Closed-Managed,21502,2022-11-02
