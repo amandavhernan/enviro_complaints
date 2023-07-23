@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181282,Drinking Water,2023-07-22,2023-07-22,Baltimore City,,,
+181280,Illegal Discharge or Outfall,2023-07-22,2023-07-19,Baltimore City,,,
+181279,Illegal Dumping,2023-07-22,2023-07-22,Baltimore City,,,
 181277,Illegal Dumping,2023-07-21,2023-07-21,Anne Arundel,Under Investigation,21032,
 181276,Water Pollutant Release,2023-07-21,2023-07-19,Outside of Maryland,Under Investigation,,
 171277,Sediment,2023-07-20,2023-07-20,St. Mary's,Referred to Enforcement/Compliance,20653,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99728,Sediment,2022-07-09,2022-07-09,Anne Arundel,Referred to Outside Agency,,
 99726,Non-Tidal Wetlands/Waterway,2022-07-08,2022-07-08,Montgomery,Under Investigation,,
 99725,"Non-Tidal Wetlands/Waterway, Sediment",2022-07-08,2022-07-08,Harford,Under Investigation,21034,
-99724,Sediment,2022-07-08,2022-06-27,Talbot,Under Investigation,,
-99723,Sediment,2022-07-08,2022-06-27,Talbot,Under Investigation,,
-99722,Sediment,2022-07-08,2022-06-27,Talbot,Under Investigation,,
