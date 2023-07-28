@@ -1,10 +1,11 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181310,Nontidal Wetlands,2023-07-27,2023-07-12,Talbot,Under Investigation,,
 181309,"Odor, Sewage/Sludge Release",2023-07-26,2023-07-26,Anne Arundel,Under Investigation,,
 181308,"Possible Permit Violation, Sediment",2023-07-25,2023-07-21,Calvert,Under Investigation,,
 181306,Suspected Operation without Permit,2023-07-26,2023-07-26,Anne Arundel,Under Investigation,,
 181305,Sediment,2023-07-26,2023-07-25,Montgomery,Under Investigation,,
 181299,"Sediment, Stormwater",2023-07-25,2023-07-24,Baltimore,Under Investigation,,
-181298,"Oil Release/Spill, Suspected Operation without Permit",2023-07-25,2023-07-25,Anne Arundel,Under Investigation,,
+181298,"Oil Release/Spill, Suspected Operation without Permit",2023-07-25,2023-07-25,Anne Arundel,Under Investigation,20724,
 181288,Tidal Wetlands,2023-07-25,2023-07-25,Wicomico,Under Investigation,,
 181287,"Sediment, Stormwater",2023-07-25,2023-07-25,Anne Arundel,Under Investigation,,
 181286,"Sediment, Tidal Wetlands",2023-07-25,2023-07-25,Anne Arundel,Under Investigation,21409,
@@ -52,7 +53,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171237,Sediment,2023-07-11,2023-07-10,Wicomico,Under Investigation,21801,
 171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
 171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
-171230,Lead Paint Poisoning Complaint,2023-07-07,2023-07-07,Baltimore,Under Investigation,,
+171230,Lead Paint Poisoning Complaint,2023-07-07,2023-07-07,Baltimore,Referred to LMA,21211,
 171229,Non-Tidal Wetlands/Waterway,2023-07-07,2023-07-02,Frederick,Referred to Outside Agency,,
 171228,Sediment,2023-07-07,2023-07-07,Harford,Under Investigation,21085,
 171224,Water Pollutant Release,2023-07-07,2023-07-07,Anne Arundel,Under Investigation,21122,
@@ -71,7 +72,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171197,Agricultural,2023-06-29,2023-06-28,Howard,Incident Closed-Managed,,2023-06-29
 171196,"Illegal Discharge or Outfall, Water Pollutant Release",2023-06-29,2023-06-28,Anne Arundel,Incident Closed-Managed,21409,2023-07-21
 171194,Waste,2023-06-28,2023-06-28,Baltimore,Referred to Outside Agency,,
-171193,"Suspected Operation without Permit, Tidal Wetlands",2023-06-28,2023-06-28,Harford,Under Investigation,21085,
+171193,"Suspected Operation without Permit, Tidal Wetlands",2023-06-28,2023-06-28,Harford,Incident Closed - No further action,21085,2023-07-26
 171192,Agricultural,2023-06-28,2023-06-26,Carroll,Referred to Outside Agency,,
 171191,Illegal Dumping,2023-06-28,2023-06-23,Prince George's,Referred to Outside Agency,,
 171190,Municipal,2023-06-28,2023-06-22,Carroll,Under Investigation,,
@@ -212,8 +213,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150973,Sediment,2023-05-17,2023-05-11,Kent,Incident Closed - No further action,21620,2023-06-30
 150972,Non-Tidal Wetlands/Waterway,2023-05-17,2023-05-12,Washington,Under Investigation,21779,
 150972,Non-Tidal Wetlands/Waterway,2023-05-17,2023-05-12,Washington,Under Investigation,21779,
-150971,Sediment,2023-05-17,2023-05-11,Kent,Under Investigation,,
-150970,Industrial Non-Complying Discharge,2023-05-17,2023-05-15,Wicomico,Under Investigation,,
+150971,Sediment,2023-05-17,2023-05-11,Kent,Under Investigation,21645,
+150970,Industrial Non-Complying Discharge,2023-05-17,2023-05-15,Wicomico,Under Investigation,21801,
 150968,Sediment,2023-05-17,2023-05-11,Wicomico,Under Investigation,21875,
 150966,Water Pollutant Release,2023-05-17,2023-05-16,Garrett,Under Investigation,,
 150962,"Non-Tidal Wetlands/Waterway, Sediment",2023-05-16,2023-05-12,Washington,Under Investigation,21742,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99745,Sediment,2022-07-13,2022-07-12,Harford,Incident Closed-Managed,21085,2022-10-27
 99745,Sediment,2022-07-13,2022-07-12,Harford,Incident Closed-Managed,21085,2022-10-27
 99743,Industrial,2022-07-13,2022-07-13,Baltimore,Incident Closed-Managed,21111,2023-04-25
-99742,Sediment,2022-07-13,2022-07-12,Baltimore,Under Investigation,,
