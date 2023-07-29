@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181315,Oil Release/Spill,2023-07-28,2023-07-27,Baltimore City,Under Investigation,21226,
 181310,Nontidal Wetlands,2023-07-27,2023-07-12,Talbot,Under Investigation,,
 181309,"Odor, Sewage/Sludge Release",2023-07-26,2023-07-26,Anne Arundel,Under Investigation,,
 181308,"Possible Permit Violation, Sediment",2023-07-25,2023-07-21,Calvert,Under Investigation,,
@@ -60,7 +61,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171220,Other,2023-07-06,2023-07-06,Frederick,Referred to Outside Agency,,
 171219,Nontidal Wetlands,2023-07-05,2023-06-30,Frederick,Incident Closed-Managed,21701,2023-07-05
 171216,Sediment,2023-07-05,2023-06-29,Wicomico,Under Investigation,21837,
-171215,Tidal Wetlands,2023-07-03,2023-07-03,Anne Arundel,Incident Closed-Managed,20764,2023-07-03
+171215,Tidal Wetlands,2023-07-03,2023-07-03,Anne Arundel,Incident Closed-Managed,20764,2023-07-28
 171214,Sediment,2023-07-03,2023-07-03,Anne Arundel,Incident Closed-Managed,,2023-07-21
 171208,Surface Water Quality Complaint,2023-06-29,2023-06-29,Baltimore,Under Investigation,,
 171207,Unknown Substance,2023-06-29,2023-06-29,Baltimore City,Under Investigation,,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99745,Sediment,2022-07-13,2022-07-12,Harford,Incident Closed-Managed,21085,2022-10-27
 99745,Sediment,2022-07-13,2022-07-12,Harford,Incident Closed-Managed,21085,2022-10-27
 99745,Sediment,2022-07-13,2022-07-12,Harford,Incident Closed-Managed,21085,2022-10-27
-99743,Industrial,2022-07-13,2022-07-13,Baltimore,Incident Closed-Managed,21111,2023-04-25
