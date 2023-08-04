@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181336,"Floodplain, Nontidal Wetlands",2023-08-03,2023-08-02,Anne Arundel,Under Investigation,,
+181335,Waste,2023-08-02,2023-08-02,Baltimore,Referred to Outside Agency,,
+181334,Possible Permit Violation,2023-08-02,2023-08-02,Anne Arundel,Referred to Outside Agency,,
 181333,"Oil Release/Spill, Other",2023-08-02,2023-08-02,Baltimore,Under Investigation,,
 181332,"Odor, Sewage/Sludge Release",2023-08-02,2023-08-02,Baltimore,Under Investigation,,
 181331,Nontidal Wetlands,2023-08-01,2023-07-25,Garrett,Under Investigation,21520,
@@ -21,7 +24,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181299,"Sediment, Stormwater",2023-07-25,2023-07-24,Baltimore,Under Investigation,,
 181298,"Oil Release/Spill, Suspected Operation without Permit",2023-07-25,2023-07-25,Anne Arundel,Under Investigation,20724,
 181288,Tidal Wetlands,2023-07-25,2023-07-25,Wicomico,Under Investigation,,
-181287,"Sediment, Stormwater",2023-07-25,2023-07-25,Anne Arundel,Under Investigation,,
+181287,"Sediment, Stormwater",2023-07-25,2023-07-25,Anne Arundel,Referred to Outside Agency,,
 181286,"Sediment, Tidal Wetlands",2023-07-25,2023-07-25,Anne Arundel,Incident Closed-Managed,21409,2023-07-31
 181285,Nontidal Wetlands,2023-07-24,2023-07-19,Dorchester,Under Investigation,,
 181282,Drinking Water,2023-07-22,2023-07-22,Baltimore City,,,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99788,Sewage/Sludge Release,2022-07-22,2022-07-22,Charles,Referred to Outside Agency,,
 99787,"Non-Tidal Wetlands/Waterway, Other",2022-07-21,2022-07-21,Harford,Incident Closed - No further action,21015,2022-10-27
 99776,Sediment,2022-07-20,2022-07-20,Baltimore,Under Investigation,,
-99775,Municipal,2022-07-20,2022-07-19,Washington,Under Investigation,,
-99774,Sewage/Sludge Release,2022-07-19,2022-07-19,Anne Arundel,Incident Closed-Managed,21037,2022-07-22
-99770,"Nontidal Wetlands, Suspected Operation without Permit",2022-07-19,2022-07-19,Harford,Referred to Outside Agency,,
