@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181341,Sediment,2023-08-04,2023-08-04,Frederick,Under Investigation,21778,
+181339,Tidal Wetlands,2023-08-04,2023-08-02,Cecil,Under Investigation,21914,
+181338,"Other, Unknown Substance",2023-08-04,2023-08-03,Harford,Under Investigation,,
 181336,"Floodplain, Nontidal Wetlands",2023-08-03,2023-08-02,Anne Arundel,Under Investigation,,
 181335,Waste,2023-08-02,2023-08-02,Baltimore,Referred to Outside Agency,,
 181334,Possible Permit Violation,2023-08-02,2023-08-02,Anne Arundel,Referred to Outside Agency,,
@@ -378,8 +381,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140694,Tidal Wetlands,2023-03-24,2023-03-24,Queen Anne's,Under Investigation,21617,
 140693,Sewage/Sludge Release,2023-03-24,2023-03-23,Anne Arundel,Incident Closed-Managed,21403,2023-04-11
 140692,Suspected Operation without Permit,2023-03-24,2023-03-24,Calvert,Referred to Outside Agency,,
-140691,Tidal Wetlands,2023-03-24,2023-03-22,Anne Arundel,Under Investigation,21403,
-140691,Tidal Wetlands,2023-03-24,2023-03-22,Anne Arundel,Under Investigation,21401,
+140691,Other,2023-03-24,2023-03-22,Anne Arundel,Incident Closed-Managed,21403,2023-08-04
+140691,Other,2023-03-24,2023-03-22,Anne Arundel,Incident Closed-Managed,21401,2023-08-04
 140689,Industrial,2023-03-24,2023-03-20,Frederick,Referred to Outside Agency,21770,
 140688,Other,2023-03-24,2023-03-23,Frederick,Referred to Outside Agency,,
 140687,Other,2023-03-24,2023-03-23,Washington,Referred to Outside Agency,21782,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99793,Illegal Discharge or Outfall,2022-07-25,2022-07-24,Baltimore,Incident Closed-Managed,21206,2022-07-27
 99792,Sewage/Sludge Release,2022-07-25,2022-07-25,Anne Arundel,Referred to Outside Agency,,
 99789,Sediment,2022-07-22,2022-07-21,Washington,Incident Closed-Managed,21742,2023-03-15
-99788,Sewage/Sludge Release,2022-07-22,2022-07-22,Charles,Referred to Outside Agency,,
-99787,"Non-Tidal Wetlands/Waterway, Other",2022-07-21,2022-07-21,Harford,Incident Closed - No further action,21015,2022-10-27
-99776,Sediment,2022-07-20,2022-07-20,Baltimore,Under Investigation,,
