@@ -1,5 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
 181370,Water Pollutant Release,2023-08-10,2023-07-25,Baltimore City,Referred to Outside Agency,,
+181369,"Sediment, Sediment/ Stormwater Problem",2023-08-10,2023-08-10,Baltimore,Under Investigation,,
 181368,"Floodplain, Nontidal Wetlands, Sediment, Water Pollutant Release",2023-08-10,2023-08-10,Anne Arundel,Under Investigation,21035,
 181367,Nontidal Wetlands,2023-08-10,2023-08-10,Anne Arundel,Under Investigation,21061,
 181366,"Fish Kill, Sewage/Sludge Release",2023-08-10,2023-08-10,Calvert,Under Investigation,,
@@ -28,7 +29,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181335,Waste,2023-08-02,2023-08-02,Baltimore,Referred to Outside Agency,,
 181334,Possible Permit Violation,2023-08-02,2023-08-02,Anne Arundel,Referred to Outside Agency,,
 181333,"Oil Release/Spill, Other",2023-08-02,2023-08-02,Baltimore,Referred to Outside Agency,,
-181332,"Odor, Sewage/Sludge Release",2023-08-02,2023-08-02,Baltimore,Under Investigation,,
+181332,"Odor, Sewage/Sludge Release",2023-08-02,2023-08-02,Baltimore,Incident Closed-No Violation Observed,21093,2023-08-10
 181331,Nontidal Wetlands,2023-08-01,2023-07-25,Garrett,Under Investigation,21520,
 181330,Other,2023-08-01,2023-08-01,Frederick,Incident Closed-Managed,,2023-08-02
 181329,Nontidal Wetlands,2023-08-01,2023-06-27,Allegany,Under Investigation,21530,
@@ -74,7 +75,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171265,Water Pollutant Release,2023-07-18,2023-07-16,Washington,Under Investigation,,
 171264,Fish Kill,2023-07-18,2023-07-18,Baltimore,Under Investigation,,
 171262,Nontidal Wetlands,2023-07-18,2023-07-18,Garrett,Under Investigation,21536,
-171260,Illegal Dumping,2023-07-17,2023-07-17,Charles,Under Investigation,,
+171260,Illegal Dumping,2023-07-17,2023-07-17,Charles,Under Investigation,20616,
 171259,Unknown Substance,2023-07-17,2023-07-17,Baltimore City,Referred to Outside Agency,,
 171258,Unknown Substance,2023-07-17,2023-07-17,Harford,Under Investigation,,
 171256,Sediment,2023-07-17,2023-07-14,Montgomery,Under Investigation,20877,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99831,Chemical Release/Spill,2022-08-02,2022-08-02,Harford,Incident Closed - No further action,21085,2022-08-04
 99830,"Nontidal Wetlands, Tidal Wetlands",2022-08-02,2022-08-01,Somerset,Under Investigation,21853,
 99829,Tidal Wetlands,2022-08-01,2022-08-01,Kent,Incident Closed - No further action,21620,2023-06-30
-99825,"Non-Tidal Wetlands/Waterway, Sewage/Sludge Release",2022-08-01,2022-08-01,Anne Arundel,Incident Closed - No further action,21401,2022-08-03
