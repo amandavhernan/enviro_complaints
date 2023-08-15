@@ -1,4 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181380,Stormwater,2023-08-14,2023-08-14,Baltimore,Referred to Outside Agency,,
+181378,Other,2023-08-14,2023-08-13,Frederick,Referred to Outside Agency,,
+181377,Sewage/Sludge Release,2023-08-14,2023-08-14,Baltimore,Referred to Outside Agency,,
+181374,Chemical Release/Spill,2023-08-14,2023-08-10,Washington,Under Investigation,,
+181373,Non-Tidal Wetlands/Waterway,2023-08-14,2023-08-11,Caroline,Referred to Enforcement/Compliance,,
 181370,Water Pollutant Release,2023-08-10,2023-07-25,Baltimore City,Referred to Outside Agency,,
 181369,"Sediment, Sediment/ Stormwater Problem",2023-08-10,2023-08-10,Baltimore,Under Investigation,,
 181368,"Floodplain, Nontidal Wetlands, Sediment, Water Pollutant Release",2023-08-10,2023-08-10,Anne Arundel,Under Investigation,21035,
@@ -95,6 +100,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171239,Industrial Non-Complying Discharge,2023-07-12,2023-07-11,Dorchester,Under Investigation,21613,
 171238,Tidal Wetlands,2023-07-12,2023-07-11,Worcester,Under Investigation,21842,
 171237,Sediment,2023-07-11,2023-07-10,Wicomico,Under Investigation,21801,
+171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
 171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
 171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
 171230,Lead Paint Poisoning Complaint,2023-07-07,2023-07-07,Baltimore,Referred to LMA,21211,
@@ -993,9 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99837,Tidal Wetlands,2022-08-03,2022-08-03,Queen Anne's,Incident Closed - No further action,21658,2023-07-11
 99836,Sediment,2022-08-03,2022-08-02,Talbot,Incident Closed - No further action,21601,2023-05-03
 99835,Nontidal Wetlands,2022-08-03,2022-08-02,Dorchester,Under Investigation,21643,
-99834,Tidal Wetlands,2022-08-03,2022-08-03,Dorchester,Under Investigation,21613,
-99833,"Illegal Wetland Alteration, Other",2022-08-03,2022-08-03,Baltimore,Under Investigation,21244,
-99832,Other,2022-08-03,2022-08-03,Allegany,Referred to LMA,,
-99831,Chemical Release/Spill,2022-08-02,2022-08-02,Harford,Incident Closed - No further action,21085,2022-08-04
-99830,"Nontidal Wetlands, Tidal Wetlands",2022-08-02,2022-08-01,Somerset,Under Investigation,21853,
-99829,Tidal Wetlands,2022-08-01,2022-08-01,Kent,Incident Closed - No further action,21620,2023-06-30
