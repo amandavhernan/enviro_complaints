@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181405,Sediment,2023-08-23,2023-08-23,Harford,Under Investigation,21085,
+181402,Sediment,2023-08-21,2023-08-21,Harford,Under Investigation,,
+181401,Illegal Discharge or Outfall,2023-08-21,2023-08-21,Baltimore,Under Investigation,,
+181401,Illegal Discharge or Outfall,2023-08-21,2023-08-21,Baltimore,Under Investigation,,
 181401,Illegal Discharge or Outfall,2023-08-21,2023-08-21,Baltimore,Under Investigation,,
 181397,Possible Permit Violation,2023-08-21,2023-08-21,Anne Arundel,Under Investigation,,
 181395,Tidal Wetlands,2023-08-21,2023-08-21,Charles,Under Investigation,,
@@ -163,6 +167,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161152,Sediment/ Stormwater Problem,2023-06-22,2023-06-14,Cecil,Under Investigation,21911,
 161151,Municipal,2023-06-22,2023-06-14,Howard,Under Investigation,21075,
 161150,Odor,2023-06-21,2023-06-21,Baltimore,Incident Closed-Managed,21224,2023-06-21
+161149,"Illegal Wetland Alteration, Nontidal Wetlands",2023-06-21,2023-06-21,Anne Arundel,Under Investigation,,
 161149,"Illegal Wetland Alteration, Nontidal Wetlands",2023-06-21,2023-06-21,Anne Arundel,Under Investigation,,
 161148,Sediment,2023-06-21,2023-06-21,Washington,Under Investigation,21740,
 161147,"Illegal Discharge or Outfall, Illegal Dumping, Odor, Sewage/Sludge Release",2023-06-21,2023-06-21,Baltimore,Under Investigation,21224,
@@ -352,6 +357,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150850,Nontidal Wetlands,2023-04-24,2023-04-24,Frederick,Incident Closed-Managed,,2023-04-26
 150849,Non-Tidal Wetlands/Waterway,2023-04-24,2023-04-24,Harford,Incident Closed - No further action,,2023-05-04
 150847,Tidal Wetlands,2023-04-24,2023-04-24,Anne Arundel,Under Investigation,21409,
+150847,Tidal Wetlands,2023-04-24,2023-04-24,Anne Arundel,Under Investigation,21409,
 150846,Tidal Wetlands,2023-04-24,2023-04-20,Anne Arundel,Incident Closed-Managed,20764,2023-04-27
 150845,Tidal Wetlands,2023-04-24,2023-04-24,Anne Arundel,Incident Closed-Managed,20764,2023-04-27
 150844,Industrial Non-Complying Discharge,2023-04-23,2023-04-21,Montgomery,Under Investigation,20910,
@@ -417,6 +423,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140721,Other,2023-03-30,2023-03-29,Washington,Referred to Outside Agency,,
 140718,Sediment/ Stormwater Problem,2023-03-29,2023-03-22,Harford,Under Investigation,21078,
 140717,Tidal Wetlands,2023-03-29,2023-03-29,Anne Arundel,Under Investigation,,
+140711,Suspected Operation without Permit,2023-03-28,2023-03-28,Anne Arundel,Under Investigation,21122,
 140711,Suspected Operation without Permit,2023-03-28,2023-03-28,Anne Arundel,Under Investigation,21122,
 140711,Suspected Operation without Permit,2023-03-28,2023-03-28,Anne Arundel,Under Investigation,21122,
 140702,Other,2023-03-27,2023-03-27,Washington,Incident Closed-Managed,,2023-04-26
@@ -992,10 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 99872,Illegal Dumping,2022-08-11,2022-08-11,Anne Arundel,Referred to Outside Agency,,
 99871,Illegal Wetland Alteration,2022-08-10,2022-08-10,Anne Arundel,Referred to Outside Agency,20764,
 99870,Sewage/Sludge Release,2022-08-10,2022-08-09,Anne Arundel,Incident Closed-No Violation Observed,21122,2022-08-10
-99869,Sewage/Sludge Release,2022-08-10,2022-08-10,Baltimore City,Incident Closed-No Violation Observed,21224,2022-10-27
-99866,Other,2022-08-10,2022-08-10,Garrett,Incident Closed-Managed,21541,2022-08-11
-99865,Illegal Dumping,2022-08-09,2022-08-09,Baltimore City,Under Investigation,21231,
-99864,"Possible Permit Violation, Sediment",2022-08-09,2022-08-09,Anne Arundel,Referred to Outside Agency,21401,
-99861,Nontidal Wetlands,2022-08-09,2022-08-04,Washington,Incident Closed-Managed,,2022-09-08
-99860,Industrial,2022-08-09,2022-08-08,Dorchester,Incident Closed - No further action,21835,2022-08-23
-99859,Other,2022-08-09,2022-08-09,Prince George's,Referred to Outside Agency,,
