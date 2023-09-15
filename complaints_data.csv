@@ -29,6 +29,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181449,Nontidal Wetlands,2023-09-05,2023-09-05,Frederick,Under Investigation,21702,
 181448,Sewage/Sludge Release,2023-09-05,2023-09-03,Anne Arundel,Under Investigation,21060,
 181446,"Non-Tidal Wetlands/Waterway, Sediment",2023-09-05,2023-09-05,Charles,Under Investigation,20602,
+181446,"Non-Tidal Wetlands/Waterway, Sediment",2023-09-05,2023-09-05,Charles,Under Investigation,20602,
 181445,Illegal Dumping,2023-09-05,2023-09-05,Charles,Referred to LMA,,
 181444,Tidal Wetlands,2023-09-01,2023-08-31,Baltimore,Under Investigation,21221,
 181443,"Stormwater, Surface Water Quality Complaint",2023-09-01,2023-09-01,Harford,Under Investigation,,
@@ -67,7 +68,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181386,"Odor, Sediment/ Stormwater Problem",2023-08-16,2023-08-16,Baltimore,Under Investigation,,
 181385,Nontidal Wetlands,2023-08-04,2023-08-04,Washington,Referred to WMA,,
 181384,Tidal Wetlands,2023-08-16,2023-08-07,Wicomico,Under Investigation,21837,
-181383,Tidal Wetlands,2023-08-15,2023-08-07,Caroline,Under Investigation,21655,
+181383,Tidal Wetlands,2023-08-15,2023-08-07,Caroline,Incident Closed - No further action,21655,2023-08-25
 181382,Municipal,2023-08-15,2023-08-14,Worcester,Under Investigation,21851,
 181381,"Chemical Release/Spill, Odor, Other",2023-08-15,2023-08-15,Baltimore,Under Investigation,,
 181380,Stormwater,2023-08-14,2023-08-14,Baltimore,Referred to Outside Agency,,
@@ -143,7 +144,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171275,Sediment,2023-07-20,2023-07-20,Washington,Under Investigation,21722,
 171274,Other,2023-07-20,2023-07-20,Washington,Under Investigation,21740,
 171274,Other,2023-07-20,2023-07-20,Washington,Under Investigation,21740,
-171273,"Other, Possible Permit Violation",2023-07-20,2023-07-20,Anne Arundel,Under Investigation,,
+171273,"Other, Possible Permit Violation",2023-07-20,2023-07-20,Anne Arundel,Under Investigation,21090,
 171272,Other,2023-07-20,2023-07-20,Frederick,Incident Closed-Managed,,2023-07-20
 171271,Stormwater,2023-07-19,2023-07-18,Montgomery,Under Investigation,,
 171270,Other,2023-07-19,2023-07-19,Baltimore,Under Investigation,,
@@ -328,7 +329,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 160996,Fumes,2023-05-23,2023-05-23,Charles,Under Investigation,,
 160995,Sediment,2023-05-23,2023-05-11,Dorchester,Incident Closed - No further action,21613,2023-07-13
 160994,Sewage/Sludge Release,2023-05-23,2023-05-23,Baltimore,Referred to Outside Agency,,
-160993,Nontidal Wetlands,2023-05-23,2023-05-15,Caroline,Under Investigation,21632,
+160993,Nontidal Wetlands,2023-05-23,2023-05-15,Caroline,Incident Closed - No further action,21632,2023-07-14
 160991,Possible Permit Violation,2023-05-22,2023-05-20,Anne Arundel,Under Investigation,,
 160988,Industrial,2023-05-19,2023-05-18,Montgomery,,,
 160987,"Illegal Discharge or Outfall, Sediment",2023-05-19,2023-05-18,Harford,Under Investigation,21005,
@@ -519,7 +520,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140661,"Industrial, Stormwater",2023-03-21,2023-03-17,Anne Arundel,Incident Closed-Managed,,2023-07-25
 140660,"Industrial, Stormwater",2023-03-21,2023-03-17,Anne Arundel,Incident Closed-Managed,20794,2023-07-21
 140659,Stormwater,2023-03-21,2023-03-17,Anne Arundel,Incident Closed-Managed,20724,2023-07-20
-140658,"Other, Waste",2023-03-21,2023-03-21,Anne Arundel,Referred to Outside Agency,,
+140658,"Other, Waste",2023-03-21,2023-03-21,Anne Arundel,Incident Closed-Managed,,2023-09-14
 140657,Sediment,2023-03-21,2023-03-21,Cecil,Under Investigation,21921,
 140656,Other,2023-03-20,2023-03-18,Garrett,Referred to Outside Agency,,
 140655,Tidal Wetlands,2023-03-20,2023-03-20,Dorchester,Incident Closed - No further action,21631,2023-07-11
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 109956,Industrial,2022-09-02,2022-08-11,Frederick,Referred to LMA,21788,
 109954,Sediment,2022-09-01,2022-08-31,Dorchester,Incident Closed - No further action,21613,2022-09-02
 109953,Industrial,2022-09-01,2022-07-20,Somerset,Under Investigation,21817,
-109952,Sediment,2022-09-01,2022-08-29,Wicomico,Under Investigation,21875,
