@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181522,Stormwater,2023-09-19,2023-09-18,Talbot,Under Investigation,21601,
 181520,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway",2023-09-18,2023-09-18,Harford,Under Investigation,21154,
 181518,"Stormwater, Structural Failure",2023-09-18,2023-09-18,Charles,Under Investigation,,
 181513,Non-Tidal Wetlands/Waterway,2023-09-18,2023-09-18,Frederick,Under Investigation,,
@@ -50,6 +51,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181431,Agricultural,2023-08-31,2023-08-30,Frederick,Under Investigation,21771,
 181429,Tidal Wetlands,2023-08-31,2023-08-25,Talbot,Under Investigation,21663,
 181428,Sediment,2023-08-30,2023-08-29,Frederick,Incident Closed-Managed,21774,2023-08-30
+181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Under Investigation,20657,
 181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Under Investigation,20657,
 181415,Nontidal Wetlands,2023-08-28,2023-08-18,Montgomery,Under Investigation,,
 181414,Industrial Non-Complying Discharge,2023-08-28,2023-08-28,Allegany,Under Investigation,21502,
@@ -137,7 +139,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181306,Suspected Operation without Permit,2023-07-26,2023-07-26,Anne Arundel,Incident Closed-Managed,21401,2023-08-17
 181305,Sediment,2023-07-26,2023-07-25,Montgomery,Under Investigation,,
 181299,"Sediment, Stormwater",2023-07-25,2023-07-24,Baltimore,Under Investigation,,
-181298,"Oil Release/Spill, Suspected Operation without Permit",2023-07-25,2023-07-25,Anne Arundel,Under Investigation,20724,
+181298,"Oil Release/Spill, Suspected Operation without Permit",2023-07-25,2023-07-25,Anne Arundel,Incident Closed-Managed,20724,2023-09-19
 181288,Tidal Wetlands,2023-07-25,2023-07-25,Wicomico,Incident Closed - No further action,21801,2023-07-26
 181287,"Sediment, Stormwater",2023-07-25,2023-07-25,Anne Arundel,Referred to Outside Agency,,
 181286,"Sediment, Tidal Wetlands",2023-07-25,2023-07-25,Anne Arundel,Incident Closed-Managed,21409,2023-07-31
@@ -225,7 +227,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171178,Illegal Wetland Alteration,2023-06-26,2023-06-22,Not Yet Determined,Referred to Outside Agency,20659,
 171169,Stormwater,2023-06-26,2023-06-22,Frederick,Referred to Outside Agency,21774,
 171168,Sediment,2023-06-26,2023-06-26,Allegany,Referred to Outside Agency,21530,
-171165,"Non-Tidal Wetlands/Waterway, Suspected Operation without Permit",2023-06-26,2023-06-26,Harford,Under Investigation,,
+171165,"Non-Tidal Wetlands/Waterway, Suspected Operation without Permit",2023-06-26,2023-06-26,Harford,Under Investigation,21161,
 171163,Tidal Wetlands,2023-06-26,2023-05-19,Somerset,Under Investigation,21865,
 171162,Sediment/ Stormwater Problem,2023-06-26,2023-06-26,Anne Arundel,Referred to Outside Agency,,
 171161,Tidal Wetlands,2023-06-26,2023-04-23,Talbot,Under Investigation,21652,
@@ -315,7 +317,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161022,Municipal Non-Complying Discharge,2023-05-31,2023-05-31,Dorchester,Incident Closed - No further action,21664,2023-06-01
 161021,Water Pollutant Release,2023-05-31,2023-05-31,Frederick,Incident Closed-Managed,21073,2023-06-15
 161020,Industrial,2023-05-31,2023-05-31,Frederick,Incident Closed-Managed,21770,2023-05-31
-161019,"Industrial, Stormwater",2023-05-31,2023-05-30,Baltimore,Under Investigation,21136,
+161019,"Industrial, Stormwater",2023-05-31,2023-05-30,Baltimore,Referred to Enforcement/Compliance,21136,
 161018,Floodplain,2023-05-30,2023-05-26,Garrett,Under Investigation,,
 161017,Groundwater Contamination,2023-05-30,2023-04-05,Allegany,Under Investigation,,
 161016,Non-Tidal Wetlands/Waterway,2023-05-30,2023-05-30,Allegany,Under Investigation,,
@@ -641,7 +643,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130475,"Other, Surface Water Quality Complaint",2023-02-09,2023-02-09,Harford,Incident Closed - No further action,21034,2023-03-07
 130474,Other,2023-02-09,2023-02-09,Garrett,Referred to LMA,21550,
 130471,Sediment,2023-02-09,2023-01-24,Baltimore,Referred to LMA,,
-130469,"Nontidal Wetlands, Sediment",2023-02-08,2022-12-15,Calvert,Under Investigation,,
+130469,"Nontidal Wetlands, Sediment",2023-02-08,2022-12-15,Calvert,Incident Closed-Managed,,2023-09-19
+130469,"Nontidal Wetlands, Sediment",2023-02-08,2022-12-15,Calvert,Incident Closed-Managed,,2023-09-19
 130468,"Air Pollutant Release, Odor, Waste",2023-02-08,2023-02-08,Baltimore,Referred to Outside Agency,,
 130467,Non-Tidal Wetlands/Waterway,2023-02-07,2023-02-06,Montgomery,Under Investigation,,
 130466,Sediment,2023-02-07,2023-02-07,Montgomery,Under Investigation,,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 109973,Tidal Wetlands,2022-09-08,2022-09-08,Dorchester,Incident Closed - No further action,21613,2023-07-11
 109972,Sediment,2022-09-08,2022-09-06,Wicomico,Incident Closed - No further action,21849,2022-09-13
 109971,Sediment,2022-09-08,2022-09-07,Baltimore,Under Investigation,,
-109970,Sediment,2022-09-08,2022-09-07,Baltimore,Referred to Outside Agency,,
-109969,Industrial,2022-09-08,2022-09-08,Baltimore,Incident Closed-Managed,21227,2022-10-27
-109968,Sediment,2022-09-08,2022-09-07,Dorchester,Under Investigation,21622,
