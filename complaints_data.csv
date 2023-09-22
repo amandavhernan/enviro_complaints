@@ -1,8 +1,15 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181539,Industrial,2023-09-21,2023-09-21,St. Mary's,Referred to Enforcement/Compliance,,
+181538,Sediment,2023-09-21,2023-09-21,Dorchester,Under Investigation,21613,
+181537,Nontidal Wetlands,2023-09-21,2023-09-20,Montgomery,Under Investigation,,
+181536,Tidal Wetlands,2023-09-21,2023-09-21,Charles,Under Investigation,20616,
+181535,Tidal Wetlands,2023-09-21,2023-09-21,Charles,Under Investigation,20616,
+181534,Stormwater,2023-09-21,2022-09-21,Baltimore,Referred to Outside Agency,,
+181533,Tidal Wetlands,2023-09-21,2023-09-21,Charles,Under Investigation,20625,
 181527,Fish Kill,2023-09-20,2023-09-20,Baltimore City,Under Investigation,,
 181522,Stormwater,2023-09-19,2023-09-18,Talbot,Under Investigation,21601,
 181520,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway",2023-09-18,2023-09-18,Harford,Under Investigation,21154,
-181518,"Stormwater, Structural Failure",2023-09-18,2023-09-18,Charles,Under Investigation,,
+181518,"Stormwater, Structural Failure",2023-09-18,2023-09-18,Charles,Under Investigation,20637,
 181513,Non-Tidal Wetlands/Waterway,2023-09-18,2023-09-18,Frederick,Under Investigation,,
 181511,Non-Tidal Wetlands/Waterway,2023-09-15,2023-09-15,Allegany,Referred to WMA,,
 181509,"Odor, Water Pollutant Release",2023-09-15,2023-09-15,Anne Arundel,Incident Closed-Managed,,2023-09-18
@@ -32,14 +39,14 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181467,Nontidal Wetlands,2023-09-07,2023-09-07,Washington,Under Investigation,,
 181466,Nontidal Wetlands,2023-09-07,2023-08-04,Montgomery,Under Investigation,20866,
 181465,Sediment,2023-09-07,2023-09-07,Washington,Under Investigation,,
-181464,"Chemical Release/Spill, Possible Permit Violation",2023-09-07,2023-08-25,Anne Arundel,Under Investigation,,
+181464,"Chemical Release/Spill, Possible Permit Violation",2023-09-07,2023-08-25,Anne Arundel,Incident Closed-Managed,,2023-09-21
 181463,Illegal Dumping,2023-09-07,2023-09-07,Anne Arundel,Under Investigation,21261,
 181461,Tidal Wetlands,2023-09-06,2023-09-06,Anne Arundel,Under Investigation,21122,
 181460,"Odor, Unknown Substance",2023-09-06,2023-09-06,Baltimore,Incident Closed-No Violation Observed,,2023-09-06
 181449,Nontidal Wetlands,2023-09-05,2023-09-05,Frederick,Under Investigation,21702,
 181448,Sewage/Sludge Release,2023-09-05,2023-09-03,Anne Arundel,Under Investigation,21060,
-181446,"Non-Tidal Wetlands/Waterway, Sediment",2023-09-05,2023-09-05,Charles,Under Investigation,20602,
-181446,"Non-Tidal Wetlands/Waterway, Sediment",2023-09-05,2023-09-05,Charles,Under Investigation,20602,
+181446,"Non-Tidal Wetlands/Waterway, Sediment",2023-09-05,2023-09-05,Charles,Referred to Outside Agency,20602,
+181446,"Non-Tidal Wetlands/Waterway, Sediment",2023-09-05,2023-09-05,Charles,Referred to Outside Agency,20602,
 181445,Illegal Dumping,2023-09-05,2023-09-05,Charles,Referred to LMA,,
 181444,Tidal Wetlands,2023-09-01,2023-08-31,Baltimore,Under Investigation,21221,
 181443,"Stormwater, Surface Water Quality Complaint",2023-09-01,2023-09-01,Harford,Under Investigation,,
@@ -992,10 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 109988,Surface Water Quality Complaint,2022-09-13,2022-09-12,Anne Arundel,Referred to Outside Agency,21037,
 109984,Sewage/Sludge Release,2022-09-13,2022-09-12,St. Mary's,Referred to Outside Agency,,
 109982,"Sediment, Suspected Operation without Permit",2022-09-12,2022-09-12,Harford,Under Investigation,,
-109982,"Sediment, Suspected Operation without Permit",2022-09-12,2022-09-12,Harford,Under Investigation,,
-109979,"Illegal Wetland Alteration, Nontidal Wetlands, Sediment",2022-09-12,2022-09-12,Calvert,Incident Closed - No further action,20639,2022-12-15
-109979,"Illegal Wetland Alteration, Nontidal Wetlands, Sediment",2022-09-12,2022-09-12,Calvert,Incident Closed - No further action,20639,2022-12-15
-109978,Municipal,2022-09-12,2022-09-12,Carroll,Under Investigation,,
-109977,Non-Tidal Wetlands/Waterway,2022-09-12,2022-09-12,Anne Arundel,Referred to Outside Agency,,
-109976,Sewage/Sludge Release,2022-09-12,2022-09-12,Anne Arundel,Incident Closed-Managed,21037,2022-09-26
-109974,Illegal Wetland Alteration,2022-09-08,2022-09-08,Anne Arundel,Referred to Outside Agency,,
