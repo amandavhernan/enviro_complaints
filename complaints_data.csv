@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181541,Municipal,2023-09-22,2023-09-21,Garrett,Under Investigation,,
+181540,Nontidal Wetlands,2023-09-22,2023-09-22,Allegany,Under Investigation,,
 181539,Industrial,2023-09-21,2023-09-21,St. Mary's,Referred to Enforcement/Compliance,,
 181538,Sediment,2023-09-21,2023-09-21,Dorchester,Under Investigation,21613,
 181537,Nontidal Wetlands,2023-09-21,2023-09-20,Montgomery,Under Investigation,,
@@ -10,7 +12,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181522,Stormwater,2023-09-19,2023-09-18,Talbot,Under Investigation,21601,
 181520,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway",2023-09-18,2023-09-18,Harford,Under Investigation,21154,
 181518,"Stormwater, Structural Failure",2023-09-18,2023-09-18,Charles,Under Investigation,20637,
-181513,Non-Tidal Wetlands/Waterway,2023-09-18,2023-09-18,Frederick,Under Investigation,,
+181513,Non-Tidal Wetlands/Waterway,2023-09-18,2023-09-18,Frederick,Referred to WMA,,
 181511,Non-Tidal Wetlands/Waterway,2023-09-15,2023-09-15,Allegany,Referred to WMA,,
 181509,"Odor, Water Pollutant Release",2023-09-15,2023-09-15,Anne Arundel,Incident Closed-Managed,,2023-09-18
 181508,Fish Kill,2023-09-15,2023-09-15,Calvert,Under Investigation,,
@@ -59,6 +61,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181431,Agricultural,2023-08-31,2023-08-30,Frederick,Under Investigation,21771,
 181429,Tidal Wetlands,2023-08-31,2023-08-25,Talbot,Under Investigation,21663,
 181428,Sediment,2023-08-30,2023-08-29,Frederick,Incident Closed-Managed,21774,2023-08-30
+181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Under Investigation,20657,
+181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Under Investigation,20657,
 181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Under Investigation,20657,
 181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Under Investigation,20657,
 181415,Nontidal Wetlands,2023-08-28,2023-08-18,Montgomery,Under Investigation,,
@@ -119,6 +123,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181345,Other,2023-08-08,2023-08-04,Allegany,Under Investigation,21562,
 181344,"Possible Permit Violation, Sediment",2023-08-08,2023-08-08,Calvert,Referred to Outside Agency,,
 181342,Sediment,2023-08-07,2023-08-07,Allegany,Under Investigation,21562,
+181341,Sediment,2023-08-04,2023-08-04,Frederick,Under Investigation,21778,
 181341,Sediment,2023-08-04,2023-08-04,Frederick,Under Investigation,21778,
 181340,"Non-Tidal Wetlands/Waterway, Sediment, Suspected Operation without Permit",2023-08-04,2023-08-04,Anne Arundel,Under Investigation,21122,
 181339,Tidal Wetlands,2023-08-04,2023-08-02,Cecil,Under Investigation,21914,
@@ -994,8 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 109992,Sewage/Sludge Release,2022-09-14,2022-09-07,Anne Arundel,Referred to Outside Agency,21060,
 109992,Sewage/Sludge Release,2022-09-14,2022-09-07,Anne Arundel,Referred to Outside Agency,21060,
 109992,Sewage/Sludge Release,2022-09-14,2022-09-07,Anne Arundel,Referred to Outside Agency,21060,
-109992,Sewage/Sludge Release,2022-09-14,2022-09-07,Anne Arundel,Referred to Outside Agency,21060,
-109990,Non-Tidal Wetlands/Waterway,2022-09-13,2022-09-12,Washington,Incident Closed-Managed,21783,2023-03-15
-109988,Surface Water Quality Complaint,2022-09-13,2022-09-12,Anne Arundel,Referred to Outside Agency,21037,
-109984,Sewage/Sludge Release,2022-09-13,2022-09-12,St. Mary's,Referred to Outside Agency,,
-109982,"Sediment, Suspected Operation without Permit",2022-09-12,2022-09-12,Harford,Under Investigation,,
