@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181560,"Air Pollutant Release, Other, Possible Permit Violation",2023-09-28,2023-09-28,Calvert,Under Investigation,20714,
+181559,Sewage/Sludge Release,2023-09-28,2023-09-28,Baltimore City,Under Investigation,,
+181558,Sediment,2023-09-28,2023-09-27,Talbot,Under Investigation,21601,
+181557,Tidal Wetlands,2023-09-28,2023-09-28,Queen Anne's,Under Investigation,21658,
 181556,"Illegal Dumping, Other, Possible Permit Violation",2023-09-27,2023-09-27,Anne Arundel,Under Investigation,,
 181555,Possible Permit Violation,2023-09-27,2023-09-27,Calvert,Under Investigation,20657,
 181553,Other,2023-09-27,2023-09-25,Allegany,Incident Closed-Managed,,2023-09-27
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 110034,Sediment,2022-09-22,2022-09-22,Carroll,Under Investigation,21157,
 110030,Industrial,2022-09-21,2022-09-16,Prince George's,Referred to LMA,20613,
 110008,Tidal Wetlands,2022-09-20,2022-09-12,Worcester,Under Investigation,21863,
-110007,Tidal Wetlands,2022-09-20,2022-09-08,Somerset,Incident Closed - No further action,21853,2023-03-20
-110006,Tidal Wetlands,2022-09-20,2022-09-16,Dorchester,Incident Closed - No further action,21643,2022-09-19
-110005,Other,2022-09-20,2022-09-19,Montgomery,Referred to Outside Agency,,
-110004,"Suspected Operation without Permit, Tidal Wetlands",2022-09-19,2022-09-19,Baltimore,Under Investigation,,
