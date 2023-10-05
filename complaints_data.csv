@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181580,"Municipal Non-Complying Discharge, Water Pollutant Release",2023-10-04,2023-10-04,Baltimore,Under Investigation,21204,
 181570,Hazardous Waste,2023-10-03,2023-09-24,Prince George's,Under Investigation,,
 181569,Illegal Dumping,2023-10-03,2023-10-03,Anne Arundel,Under Investigation,,
 181568,Stormwater,2023-10-03,2023-08-25,Carroll,Referred to Outside Agency,21158,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120055,Water Pollutant Release,2022-10-01,2022-10-01,Baltimore,Incident Closed-Managed,,2022-10-04
 120054,Nontidal Wetlands,2022-09-30,2022-09-30,Cecil,Under Investigation,21919,
 120053,Illegal Dumping,2022-09-29,2022-09-28,Washington,Referred to Outside Agency,,
-120052,Tidal Wetlands,2022-09-29,2022-09-22,Dorchester,Incident Closed - No further action,,2022-10-29
