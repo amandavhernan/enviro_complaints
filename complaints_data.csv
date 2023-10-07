@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181591,Sediment/ Stormwater Problem,2023-10-06,2023-10-06,Baltimore City,Referred to Outside Agency,,
+181590,Nontidal Wetlands,2023-10-06,2023-10-06,Washington,Under Investigation,21722,
+181589,Nontidal Wetlands,2023-10-06,2023-09-29,Caroline,Under Investigation,21639,
 181583,Other,2023-10-05,2023-10-05,St. Mary's,Under Investigation,20659,
 181581,Tidal Wetlands,2023-10-05,2023-09-08,Dorchester,Under Investigation,21613,
 181580,"Municipal Non-Complying Discharge, Water Pollutant Release",2023-10-04,2023-10-04,Baltimore,Under Investigation,21204,
@@ -233,7 +236,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
 171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
 171236,Sediment/ Stormwater Problem,2023-07-11,2023-07-03,Baltimore,Under Investigation,21234,
-171230,Lead Paint Poisoning Complaint,2023-07-07,2023-07-07,Baltimore,Referred to LMA,21211,
+171230,Lead Paint Poisoning Complaint,2023-07-07,2023-07-07,Baltimore,Referred to Enforcement/Compliance,21211,
 171229,Non-Tidal Wetlands/Waterway,2023-07-07,2023-07-02,Frederick,Referred to Outside Agency,,
 171228,Sediment,2023-07-07,2023-07-07,Harford,Under Investigation,21085,
 171224,Water Pollutant Release,2023-07-07,2023-07-07,Anne Arundel,Incident Closed - No further action,21122,2023-08-08
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120064,Suspected Operation without Permit,2022-10-04,2022-10-04,Baltimore,Under Investigation,,
 120063,Sediment/ Stormwater Problem,2022-10-04,2022-10-04,Baltimore,Referred to Outside Agency,,
 120062,Nontidal Wetlands,2022-10-04,2022-09-27,Worcester,Under Investigation,21872,
-120061,Sediment/ Stormwater Problem,2022-10-03,2022-10-03,Harford,Incident Closed-Managed,21085,2022-10-27
-120060,Sediment/ Stormwater Problem,2022-10-03,2022-10-03,Harford,Incident Closed-Managed,21085,2022-10-27
-120055,Water Pollutant Release,2022-10-01,2022-10-01,Baltimore,Incident Closed-Managed,,2022-10-04
