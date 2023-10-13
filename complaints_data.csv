@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181602,Tidal Wetlands,2023-10-12,2023-10-12,Charles,Referred to Enforcement/Compliance,,
+181601,Other,2023-10-12,2023-10-11,Washington,Referred to Outside Agency,,
+181600,"Unknown Substance, Water Seepage",2023-10-12,2023-10-12,Baltimore,Under Investigation,,
+181599,"Municipal/SSO, Other, Sewage/Sludge Release, Waste",2023-10-12,2023-10-12,Anne Arundel,Under Investigation,,
 181597,Illegal Discharge or Outfall,2023-10-11,2023-04-18,Frederick,Under Investigation,21754,
 181591,Sediment/ Stormwater Problem,2023-10-06,2023-10-06,Baltimore City,Referred to Outside Agency,,
 181590,Nontidal Wetlands,2023-10-06,2023-10-06,Washington,Under Investigation,21722,
@@ -71,7 +75,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181463,Illegal Dumping,2023-09-07,2023-09-07,Anne Arundel,Under Investigation,21261,
 181461,Tidal Wetlands,2023-09-06,2023-09-06,Anne Arundel,Under Investigation,21122,
 181460,"Odor, Unknown Substance",2023-09-06,2023-09-06,Baltimore,Incident Closed-No Violation Observed,,2023-09-06
-181449,Nontidal Wetlands,2023-09-05,2023-09-05,Frederick,Incident Closed-Managed,21702,2023-09-06
+181449,Nontidal Wetlands,2023-09-05,2023-09-05,Frederick,Incident Closed-Managed,21702,2023-09-07
 181448,Sewage/Sludge Release,2023-09-05,2023-09-03,Anne Arundel,Under Investigation,21060,
 181448,Sewage/Sludge Release,2023-09-05,2023-09-03,Anne Arundel,Under Investigation,21060,
 181446,"Non-Tidal Wetlands/Waterway, Sediment",2023-09-05,2023-09-05,Charles,Referred to Outside Agency,20602,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120072,Other,2022-10-07,2022-10-03,Outside of Maryland,Incident Closed-Managed,21502,2022-10-31
 120070,Sediment,2022-10-06,2022-10-06,Anne Arundel,Incident Closed-Managed,20764,2022-12-06
 120069,Sediment,2022-10-06,2022-10-06,Anne Arundel,Incident Closed-Managed,20764,2022-12-06
-120068,Sediment,2022-10-06,2022-09-30,Washington,Under Investigation,,
-120065,Nontidal Wetlands,2022-10-05,2022-10-05,Carroll,Incident Closed-Managed,21771,2022-10-18
-120064,Suspected Operation without Permit,2022-10-04,2022-10-04,Baltimore,Under Investigation,,
-120063,Sediment/ Stormwater Problem,2022-10-04,2022-10-04,Baltimore,Referred to Outside Agency,,
