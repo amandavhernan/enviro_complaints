@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181610,Sediment,2023-10-13,2023-10-05,Washington,Under Investigation,21756,
+181603,Illegal Discharge or Outfall,2023-10-12,2023-10-12,Baltimore,Under Investigation,21234,
 181602,Tidal Wetlands,2023-10-12,2023-10-12,Charles,Referred to Enforcement/Compliance,,
 181601,Other,2023-10-12,2023-10-11,Washington,Referred to Outside Agency,,
 181600,"Unknown Substance, Water Seepage",2023-10-12,2023-10-12,Baltimore,Under Investigation,,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120079,Oil Release/Spill,2022-10-07,2022-10-07,Baltimore,Incident Closed - No further action,,2022-10-11
 120073,Nontidal Wetlands,2022-10-07,2022-10-06,Cecil,Under Investigation,21917,
 120072,Other,2022-10-07,2022-10-03,Outside of Maryland,Incident Closed-Managed,21502,2022-10-31
-120070,Sediment,2022-10-06,2022-10-06,Anne Arundel,Incident Closed-Managed,20764,2022-12-06
-120069,Sediment,2022-10-06,2022-10-06,Anne Arundel,Incident Closed-Managed,20764,2022-12-06
