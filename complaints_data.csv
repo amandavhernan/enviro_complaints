@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+181623,Air,2023-10-18,2023-10-12,Allegany,Referred to ARA,21540-109,
 181620,Water Pollutant Release,2023-10-17,2023-08-03,Carroll,Under Investigation,,
 181619,"Agricultural, Industrial, Unknown Substance",2023-10-17,2023-10-05,Baltimore City,Under Investigation,21224,
 181618,"Possible Permit Violation, Tidal Wetlands",2023-10-17,2023-10-16,Anne Arundel,Under Investigation,21409,
@@ -20,9 +21,9 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181580,"Municipal Non-Complying Discharge, Water Pollutant Release",2023-10-04,2023-10-04,Baltimore,Under Investigation,21204,
 181580,"Municipal Non-Complying Discharge, Water Pollutant Release",2023-10-04,2023-10-04,Baltimore,Under Investigation,21204,
 181570,Hazardous Waste,2023-10-03,2023-09-24,Prince George's,Under Investigation,20783,
-181569,Illegal Dumping,2023-10-03,2023-10-03,Anne Arundel,Under Investigation,,
+181569,Illegal Dumping,2023-10-03,2023-10-03,Anne Arundel,Incident Closed-Managed,,2023-10-18
 181568,Stormwater,2023-10-03,2023-08-25,Carroll,Referred to Outside Agency,21158,
-181565,"Illegal Dumping, Industrial",2023-10-02,2023-10-02,Anne Arundel,Under Investigation,,
+181565,"Illegal Dumping, Industrial",2023-10-02,2023-10-02,Anne Arundel,Incident Closed-Managed,,2023-10-18
 181563,"Non-Tidal Wetlands/Waterway, Sediment",2023-09-29,2023-09-29,Baltimore,Under Investigation,21136,
 181563,"Non-Tidal Wetlands/Waterway, Sediment",2023-09-29,2023-09-29,Baltimore,Under Investigation,21136,
 181562,Municipal,2023-09-29,2023-09-29,Washington,Under Investigation,21713,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120092,Illegal Dumping,2022-10-13,2022-10-13,Anne Arundel,Incident Closed-Managed,21144,2022-10-14
 120092,Illegal Dumping,2022-10-13,2022-10-13,Anne Arundel,Incident Closed-Managed,21144,2022-10-14
 120091,Sediment,2022-10-13,2022-10-13,Washington,Referred to LMA,,
-120090,Nontidal Wetlands,2022-10-13,2022-10-12,Montgomery,Under Investigation,20876-420,
