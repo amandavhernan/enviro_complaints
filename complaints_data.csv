@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+191641,Tidal Wetlands,2023-10-23,2023-10-23,Kent,Under Investigation,,
+191640,Possible Permit Violation,2023-10-23,2023-10-23,Anne Arundel,Under Investigation,21401,
+191639,Sediment,2023-10-23,2023-10-18,Talbot,Under Investigation,21601,
 181630,Sediment,2023-10-19,2023-10-19,Calvert,Under Investigation,,
 181629,"Possible Permit Violation, Tidal Wetlands",2023-10-19,2023-10-19,Harford,Under Investigation,,
 181628,Municipal,2023-10-19,2023-10-19,Washington,Under Investigation,21782,
@@ -38,7 +41,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181556,"Illegal Dumping, Other, Possible Permit Violation",2023-09-27,2023-09-27,Anne Arundel,Under Investigation,,
 181555,Possible Permit Violation,2023-09-27,2023-09-27,Calvert,Under Investigation,20657,
 181553,Other,2023-09-27,2023-09-25,Allegany,Incident Closed-Managed,,2023-09-27
-181552,Non-Tidal Wetlands/Waterway,2023-09-27,2023-09-26,Calvert,Under Investigation,,
+181552,Non-Tidal Wetlands/Waterway,2023-09-27,2023-09-26,Calvert,Under Investigation,20639,
 181550,Sediment,2023-09-25,2023-09-25,Harford,Under Investigation,21078,
 181548,Tidal Wetlands,2023-09-25,2023-09-25,Cecil,Under Investigation,21903,
 181547,Nontidal Wetlands,2023-09-25,2023-09-22,Queen Anne's,Under Investigation,21668,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120099,Other,2022-10-14,2022-10-13,Anne Arundel,Incident Closed-Clean-up Completed,21012,2022-11-15
 120098,Sediment,2022-10-14,2022-10-12,Calvert,Incident Closed-No Violation Observed,20676,2022-10-25
 120097,Sediment,2022-10-14,2022-10-12,Calvert,Incident Closed-No Violation Observed,20676,2022-10-25
-120096,Other,2022-10-14,2022-10-13,Prince George's,Referred to Outside Agency,,
-120095,Sediment,2022-10-14,2022-10-13,Charles,Under Investigation,,
-120093,Municipal,2022-10-13,2022-10-12,Frederick,Referred to Outside Agency,21788,
