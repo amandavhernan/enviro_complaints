@@ -57,7 +57,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181538,Sediment,2023-09-21,2023-09-21,Dorchester,Under Investigation,21613,
 181537,Nontidal Wetlands,2023-09-21,2023-09-20,Montgomery,Under Investigation,,
 181536,Tidal Wetlands,2023-09-21,2023-09-21,Charles,Under Investigation,20616,
-181535,Tidal Wetlands,2023-09-21,2023-09-21,Charles,Under Investigation,20616,
+181535,Tidal Wetlands,2023-09-21,2023-09-21,Charles,Incident Closed-Clean-up Completed,20616,2023-10-26
 181534,Stormwater,2023-09-21,2022-09-21,Baltimore,Referred to Outside Agency,,
 181533,Tidal Wetlands,2023-09-21,2023-09-21,Charles,Under Investigation,20625,
 181527,Fish Kill,2023-09-20,2023-09-20,Baltimore City,Under Investigation,,
