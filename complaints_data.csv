@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+191669,"Possible Permit Violation, Sediment, Stormwater",2023-10-27,2023-10-27,Baltimore,Under Investigation,,
+191668,Illegal Discharge or Outfall,2023-10-27,2023-10-27,Baltimore City,Under Investigation,,
+191666,Sediment,2023-10-26,2023-10-26,Baltimore City,Under Investigation,,
 191654,Floodplain,2023-10-25,2023-10-24,Prince George's,Under Investigation,20772,
 191653,Water Pollutant Release,2023-10-25,2023-10-25,Baltimore City,Under Investigation,21230,
 191652,Other,2023-10-25,2023-10-25,Garrett,Under Investigation,,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120120,Sediment/ Stormwater Problem,2022-10-24,2022-10-24,Harford,Referred to Outside Agency,21085,
 120118,Nontidal Wetlands,2022-10-24,2022-09-06,St. Mary's,Under Investigation,20609,
 120117,Surface Water Quality Complaint,2022-10-24,2022-10-24,Baltimore,Under Investigation,21209,
-120116,"Air Pollutant Release, Odor",2022-10-21,2022-10-21,Baltimore,Referred to Outside Agency,,
-120114,Sediment/ Stormwater Problem,2022-10-21,2022-10-12,Harford,Referred to Outside Agency,21040,
-120113,Other,2022-10-21,2022-10-06,Washington,Referred to Outside Agency,,
