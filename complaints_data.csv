@@ -1,11 +1,14 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+191701,Sediment,2023-11-02,2023-10-26,Talbot,Under Investigation,21673,
+191698,"Illegal Discharge or Outfall, Water Pollutant Release",2023-11-02,2023-11-02,Baltimore,Under Investigation,21090,
+191695,Illegal Discharge or Outfall,2023-11-02,2023-11-02,Charles,Under Investigation,20602,
 191694,"Illegal Discharge or Outfall, Unknown Substance",2023-11-01,2023-11-01,Charles,Under Investigation,,
 191691,"Illegal Dam, Possible Permit Violation",2023-11-01,2023-11-01,St. Mary's,Under Investigation,20659,
 191687,Other,2023-11-01,2023-11-01,Frederick,Under Investigation,21788,
 191679,Sewage/Sludge Release,2023-10-31,2023-10-31,Charles,Under Investigation,,
 191678,Possible Permit Violation,2023-10-31,2023-10-31,Charles,Under Investigation,,
-191676,Other,2023-10-30,2023-10-30,Frederick,Under Investigation,,
-191669,"Possible Permit Violation, Sediment, Stormwater",2023-10-27,2023-10-27,Baltimore,Under Investigation,,
+191676,Other,2023-10-30,2023-10-30,Frederick,Referred to LMA,,
+191669,"Possible Permit Violation, Sediment, Stormwater",2023-10-27,2023-10-27,Baltimore,Under Investigation,21204,
 191668,Illegal Discharge or Outfall,2023-10-27,2023-10-27,Baltimore City,Under Investigation,,
 191666,Sediment,2023-10-26,2023-10-26,Baltimore City,Under Investigation,,
 191654,Floodplain,2023-10-25,2023-10-24,Prince George's,Under Investigation,20772,
@@ -71,7 +74,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181534,Stormwater,2023-09-21,2022-09-21,Baltimore,Referred to Outside Agency,,
 181533,Tidal Wetlands,2023-09-21,2023-09-21,Charles,Under Investigation,20625,
 181527,Fish Kill,2023-09-20,2023-09-20,Baltimore City,Under Investigation,,
-181522,Stormwater,2023-09-19,2023-09-18,Talbot,Incident Closed - No further action,21601,2023-09-28
+181522,Stormwater,2023-09-19,2023-09-18,Talbot,Incident Closed - No further action,21601,2023-10-03
 181520,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway",2023-09-18,2023-09-18,Harford,Under Investigation,21154,
 181518,"Stormwater, Structural Failure",2023-09-18,2023-09-18,Charles,Under Investigation,20637,
 181513,Non-Tidal Wetlands/Waterway,2023-09-18,2023-09-18,Frederick,Referred to WMA,,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120133,Possible Permit Violation,2022-10-31,2022-10-31,Baltimore,Under Investigation,21221,
 120132,Sediment,2022-10-31,2022-10-26,Washington,Under Investigation,21740,
 120131,Sewage/Sludge Release,2022-10-28,2022-10-28,Prince George's,Referred to Outside Agency,,
-120130,Municipal,2022-10-27,2022-10-18,Allegany,Incident Closed-Managed,21562,2022-10-31
-120129,Sediment,2022-10-27,2022-10-27,Anne Arundel,Referred to Outside Agency,,
-120128,Industrial,2022-10-27,2022-10-26,Montgomery,Referred to Outside Agency,20852,
