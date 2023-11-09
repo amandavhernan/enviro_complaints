@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+191722,Non-Tidal Wetlands/Waterway,2023-11-08,2023-11-08,Charles,Under Investigation,,
+191719,Tidal Wetlands,2023-11-08,2023-11-07,Dorchester,Under Investigation,21634,
+191717,"Non-Tidal Wetlands/Waterway, Stormwater",2023-11-07,2023-11-07,Baltimore,Referred to Outside Agency,,
 191716,Nontidal Wetlands,2023-11-07,2023-11-02,Queen Anne's,Under Investigation,21623,
 191714,Other,2023-11-06,2023-11-06,Frederick,Under Investigation,,
 191709,Industrial,2023-11-03,2023-11-03,Baltimore City,Incident Closed - No further action,21230,2023-11-07
@@ -10,7 +13,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 191691,"Illegal Dam, Possible Permit Violation",2023-11-01,2023-11-01,St. Mary's,Under Investigation,20659,
 191687,Other,2023-11-01,2023-11-01,Frederick,Under Investigation,21788,
 191679,Sewage/Sludge Release,2023-10-31,2023-10-31,Charles,Under Investigation,,
-191678,Possible Permit Violation,2023-10-31,2023-10-31,Charles,Under Investigation,,
+191678,Possible Permit Violation,2023-10-31,2023-10-31,Charles,Incident Closed - No further action,,2023-11-01
 191676,Other,2023-10-30,2023-10-30,Frederick,Referred to LMA,,
 191669,"Possible Permit Violation, Sediment, Stormwater",2023-10-27,2023-10-27,Baltimore,Under Investigation,21204,
 191668,Illegal Discharge or Outfall,2023-10-27,2023-10-27,Baltimore City,Under Investigation,,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120160,"Possible Permit Violation, Tidal Wetlands",2022-11-04,2022-11-03,Anne Arundel,Incident Closed-Managed,21401,2022-12-27
 120159,"Nontidal Wetlands, Suspected Operation without Permit",2022-11-03,2022-11-03,Cecil,Under Investigation,,
 120154,"Nontidal Wetlands, Sediment",2022-11-03,2022-11-03,Frederick,Referred to Outside Agency,21788,
-120153,Municipal,2022-11-03,2022-11-03,Washington,Referred to Outside Agency,21719,
-120150,Municipal,2022-11-02,2022-11-02,Cecil,Incident Closed-Clean-up Completed,21901,2023-07-21
-120139,"Odor, Stormwater",2022-11-01,2022-11-01,Baltimore City,Referred to Outside Agency,,
