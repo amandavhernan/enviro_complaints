@@ -40,7 +40,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181608,Sediment/ Stormwater Problem,2023-10-13,2023-10-13,Baltimore City,Referred to Outside Agency,21224,
 181603,Illegal Discharge or Outfall,2023-10-12,2023-10-12,Baltimore,Under Investigation,21234,
 181602,Tidal Wetlands,2023-10-12,2023-10-12,Charles,Referred to Enforcement/Compliance,,
-181601,Other,2023-10-12,2023-10-11,Washington,Referred to Outside Agency,,
+181601,Other,2023-10-12,2023-10-11,Washington,Referred to Outside Agency,21742,
 181600,"Unknown Substance, Water Seepage",2023-10-12,2023-10-12,Baltimore,Under Investigation,,
 181599,"Municipal/SSO, Other, Sewage/Sludge Release, Waste",2023-10-12,2023-10-12,Anne Arundel,Under Investigation,,
 181597,Illegal Discharge or Outfall,2023-10-11,2023-04-18,Frederick,Under Investigation,21754,
