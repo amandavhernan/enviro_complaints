@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+191740,"Illegal Discharge or Outfall, Industrial",2023-11-14,2023-11-14,Baltimore City,Under Investigation,21226,
 191733,Illegal Discharge or Outfall,2023-11-13,2023-11-09,Anne Arundel,Under Investigation,,
 191732,"Waste, Water Pollutant Release",2023-11-13,2023-11-13,Anne Arundel,Under Investigation,,
 191728,Non-Tidal Wetlands/Waterway,2023-11-13,2023-11-08,Frederick,Under Investigation,21771,
@@ -997,5 +998,4 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120166,Sediment,2022-11-04,2022-11-03,Baltimore,Incident Closed - No further action,21220,2022-12-28
 120166,Sediment,2022-11-04,2022-11-03,Baltimore,Incident Closed - No further action,21220,2022-12-28
 120166,Sediment,2022-11-04,2022-11-03,Baltimore,Incident Closed - No further action,21220,2022-12-28
-120165,Water Pollutant Release,2022-11-04,2022-11-04,Baltimore,Incident Closed - No further action,21220,2022-12-28
 120165,Water Pollutant Release,2022-11-04,2022-11-04,Baltimore,Incident Closed - No further action,21220,2022-12-28
