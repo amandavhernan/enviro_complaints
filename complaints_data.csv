@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+201808,"Illegal Discharge or Outfall, Illegal Dumping",2023-12-01,2023-11-30,Baltimore,Under Investigation,21228,
 191815,Illegal Discharge or Outfall,2023-11-30,2023-11-30,Montgomery,Under Investigation,,
 191814,Tidal Wetlands,2023-11-30,2023-11-30,Anne Arundel,Under Investigation,21037,
 191814,Tidal Wetlands,2023-11-30,2023-11-30,Anne Arundel,Under Investigation,21037,
@@ -254,8 +255,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181342,Sediment,2023-08-07,2023-08-07,Allegany,Under Investigation,21562,
 181341,Sediment,2023-08-04,2023-08-04,Frederick,Under Investigation,21778,
 181341,Sediment,2023-08-04,2023-08-04,Frederick,Under Investigation,21778,
-181340,"Non-Tidal Wetlands/Waterway, Sediment, Suspected Operation without Permit",2023-08-04,2023-08-04,Anne Arundel,Under Investigation,21122,
-181340,"Non-Tidal Wetlands/Waterway, Sediment, Suspected Operation without Permit",2023-08-04,2023-08-04,Anne Arundel,Under Investigation,21122,
+181340,"Non-Tidal Wetlands/Waterway, Sediment, Suspected Operation without Permit",2023-08-04,2023-08-04,Anne Arundel,Incident Closed-No Violation Observed,21122,2023-08-17
+181340,"Non-Tidal Wetlands/Waterway, Sediment, Suspected Operation without Permit",2023-08-04,2023-08-04,Anne Arundel,Incident Closed-No Violation Observed,21122,2023-08-17
 181339,Tidal Wetlands,2023-08-04,2023-08-02,Cecil,Under Investigation,21914,
 181338,"Other, Unknown Substance",2023-08-04,2023-08-03,Harford,Referred to Outside Agency,,
 181336,"Floodplain, Nontidal Wetlands",2023-08-03,2023-08-02,Anne Arundel,Under Investigation,,
@@ -993,7 +994,6 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120251,Sediment,2022-12-08,2022-12-08,Washington,Under Investigation,21742,
 120250,Sediment,2022-12-08,2022-12-08,Harford,Referred to Outside Agency,21085,
 120249,Water Pollutant Release,2022-12-08,2022-12-08,Baltimore,Incident Closed-Managed,,2022-12-09
-120244,Illegal Dumping,2022-12-07,2022-12-07,Anne Arundel,Incident Closed-Clean-up Completed,21054,2023-08-22
 120244,Illegal Dumping,2022-12-07,2022-12-07,Anne Arundel,Incident Closed-Clean-up Completed,21054,2023-08-22
 120244,Illegal Dumping,2022-12-07,2022-12-07,Anne Arundel,Incident Closed-Clean-up Completed,21054,2023-08-22
 120244,Illegal Dumping,2022-12-07,2022-12-07,Anne Arundel,Incident Closed-Clean-up Completed,21054,2023-08-22
