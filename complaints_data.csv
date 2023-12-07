@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+201824,"Possible Permit Violation, Unknown Substance",2023-12-06,2023-12-06,Baltimore,Under Investigation,,
 201817,Illegal Discharge or Outfall,2023-12-05,2023-11-28,Harford,Under Investigation,21078,
 201816,Illegal Dumping,2023-12-05,2023-12-05,Allegany,Referred to LMA,,
 201815,Non-Tidal Wetlands/Waterway,2023-12-05,2023-12-01,Garrett,Under Investigation,21550,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120252,Oil Release/Spill,2022-12-08,2022-12-08,Anne Arundel,Incident Closed-Clean-up Completed,,2022-12-08
 120251,Sediment,2022-12-08,2022-12-08,Washington,Under Investigation,21742,
 120250,Sediment,2022-12-08,2022-12-08,Harford,Referred to Outside Agency,21085,
-120249,Water Pollutant Release,2022-12-08,2022-12-08,Baltimore,Incident Closed-Managed,,2022-12-09
