@@ -64,6 +64,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 191732,"Waste, Water Pollutant Release",2023-11-13,2023-11-13,Anne Arundel,Incident Closed-Managed,20711,2023-11-28
 191728,Non-Tidal Wetlands/Waterway,2023-11-13,2023-11-08,Frederick,Under Investigation,21771,
 191727,Odor,2023-11-13,2023-11-13,Anne Arundel,Referred to ARA,21401,
+191727,Odor,2023-11-13,2023-11-13,Anne Arundel,Referred to ARA,21401,
 191725,Surface Water Quality Complaint,2023-11-11,2023-11-11,Howard,Under Investigation,20723,
 191725,Surface Water Quality Complaint,2023-11-11,2023-11-11,Howard,Under Investigation,21227,
 191722,Non-Tidal Wetlands/Waterway,2023-11-08,2023-11-08,Charles,Under Investigation,,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 120286,Sediment,2022-12-19,2022-12-17,Baltimore,Incident Closed - No further action,21202,2022-12-18
 120282,Sediment,2022-12-16,2022-12-16,Anne Arundel,Incident Closed-Managed,,2022-12-19
 120279,Sediment/ Stormwater Problem,2022-12-15,2022-12-15,Anne Arundel,Incident Closed-Managed,,2022-12-19
-120269,Sewage/Sludge Release,2022-12-14,2022-12-14,Anne Arundel,Incident Closed-Managed,,2022-12-27
