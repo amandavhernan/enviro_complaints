@@ -1,5 +1,12 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+201896,Sediment,2023-12-19,2023-12-18,Howard,Under Investigation,,
+201895,Sediment,2023-12-19,2023-12-18,Queen Anne's,Under Investigation,21638,
+201892,Illegal Discharge or Outfall,2023-12-19,2023-12-18,Anne Arundel,,,
+201891,Illegal Discharge or Outfall,2023-12-19,2023-12-18,Anne Arundel,Under Investigation,,
+201890,Sediment,2023-12-19,2023-12-18,Caroline,Under Investigation,21655,
+201888,"Industrial, Possible Permit Violation",2023-12-19,2023-12-19,Harford,Under Investigation,,
 201887,"Possible Permit Violation, Sediment",2023-12-18,2023-12-18,Anne Arundel,Under Investigation,,
+201886,Non-Tidal Wetlands/Waterway,2023-12-18,2023-12-18,Baltimore,Under Investigation,,
 201884,Possible Permit Violation,2023-12-18,2023-12-17,Baltimore,Under Investigation,21237,
 201884,Possible Permit Violation,2023-12-18,2023-12-17,Baltimore,Under Investigation,21236,
 201882,Non-Tidal Wetlands/Waterway,2023-12-18,2023-12-18,Washington,Under Investigation,21758,
@@ -79,7 +86,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 191727,Odor,2023-11-13,2023-11-13,Anne Arundel,Referred to ARA,21401,
 191725,Surface Water Quality Complaint,2023-11-11,2023-11-11,Howard,Under Investigation,20723,
 191725,Surface Water Quality Complaint,2023-11-11,2023-11-11,Howard,Under Investigation,21227,
-191722,Non-Tidal Wetlands/Waterway,2023-11-08,2023-11-08,Charles,Under Investigation,,
+191722,Non-Tidal Wetlands/Waterway,2023-11-08,2023-11-08,Charles,Incident Closed - No further action,,2023-12-19
 191719,Tidal Wetlands,2023-11-08,2023-11-07,Dorchester,Incident Closed - No further action,21634,2023-11-14
 191717,"Non-Tidal Wetlands/Waterway, Stormwater",2023-11-07,2023-11-07,Baltimore,Referred to Outside Agency,,
 191716,Nontidal Wetlands,2023-11-07,2023-11-02,Queen Anne's,Under Investigation,21623,
@@ -88,6 +95,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 191708,Sediment/ Stormwater Problem,2023-11-03,2023-11-02,St. Mary's,Referred to Enforcement/Compliance,,
 191701,Sediment,2023-11-02,2023-10-26,Talbot,Incident Closed - No further action,21673,2023-11-29
 191698,"Illegal Discharge or Outfall, Water Pollutant Release",2023-11-02,2023-11-02,Baltimore,Under Investigation,21090,
+191695,Illegal Discharge or Outfall,2023-11-02,2023-11-02,Charles,Under Investigation,20602,
 191695,Illegal Discharge or Outfall,2023-11-02,2023-11-02,Charles,Under Investigation,20602,
 191695,Illegal Discharge or Outfall,2023-11-02,2023-11-02,Charles,Under Investigation,20602,
 191694,"Illegal Discharge or Outfall, Unknown Substance",2023-11-01,2023-11-01,Charles,Under Investigation,,
@@ -991,11 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130312,Chemical Release/Spill,2023-01-03,2023-01-02,Baltimore,Referred to LMA,,
 130311,Tidal Wetlands,2022-12-31,2022-12-31,Anne Arundel,Incident Closed - No further action,,2022-12-31
 130310,"Sediment, Sediment/ Stormwater Problem",2022-12-30,2022-12-30,Calvert,Referred to Outside Agency,,
-130305,Stormwater,2022-12-30,2022-12-30,Anne Arundel,Referred to Outside Agency,,
-130304,"Sediment, Suspected Operation without Permit",2022-12-29,2022-12-29,Baltimore,Referred to Outside Agency,,
-130302,"Air Pollutant Release, Sediment",2022-12-28,2022-12-28,Baltimore,Referred to Outside Agency,21234,
-130301,Possible Permit Violation,2022-12-28,2022-12-28,Anne Arundel,Incident Closed-Managed,,2023-03-16
-130301,Possible Permit Violation,2022-12-28,2022-12-28,Anne Arundel,Incident Closed-Managed,,2023-03-16
-130301,Possible Permit Violation,2022-12-28,2022-12-28,Anne Arundel,Incident Closed-Managed,21401,2023-03-16
-130301,Possible Permit Violation,2022-12-28,2022-12-28,Anne Arundel,Incident Closed-Managed,21401,2023-03-16
-130300,Odor,2022-12-28,2022-12-28,Anne Arundel,Incident Closed - No further action,21226,2022-12-28
