@@ -19,7 +19,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 201897,Sewage/Sludge Release,2023-12-20,2023-12-19,Anne Arundel,Under Investigation,21122,
 201896,Sediment,2023-12-19,2023-12-18,Howard,Under Investigation,,
 201895,Sediment,2023-12-19,2023-12-18,Queen Anne's,Under Investigation,21638,
-201892,Illegal Discharge or Outfall,2023-12-19,2023-12-18,Anne Arundel,,,
+201893,Non-Tidal Wetlands/Waterway,2023-12-19,2023-12-19,Anne Arundel,Under Investigation,,
+201892,Illegal Discharge or Outfall,2023-12-19,2023-12-18,Anne Arundel,Under Investigation,,
 201891,Illegal Discharge or Outfall,2023-12-19,2023-12-18,Anne Arundel,Under Investigation,,
 201890,Sediment,2023-12-19,2023-12-18,Caroline,Under Investigation,21655,
 201888,"Industrial, Possible Permit Violation",2023-12-19,2023-12-19,Harford,Referred to Outside Agency,,
@@ -33,7 +34,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 201879,Oil Release/Spill (Open Water),2023-12-18,2023-12-17,Anne Arundel,Incident Closed-Managed,,2023-12-18
 201878,"Non-Tidal Wetlands/Waterway, Possible Permit Violation, Sediment",2023-12-15,2023-12-15,Calvert,Under Investigation,20605,
 201877,Non-Tidal Wetlands/Waterway,2023-12-15,2023-12-11,Frederick,Under Investigation,21703,
-201876,Other,2023-12-15,2023-12-12,Carroll,Under Investigation,21102-121,
+201876,Other,2023-12-15,2023-12-12,Carroll,Referred to Outside Agency,21102-121,
 201874,Possible Permit Violation,2023-12-14,2023-12-14,St. Mary's,Under Investigation,20619,
 201870,"Agricultural, Non-Tidal Wetlands/Waterway",2023-12-14,2023-12-14,Baltimore,Under Investigation,,
 201854,Sediment,2023-12-12,2023-12-05,Somerset,Under Investigation,21871,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130343,Industrial,2023-01-11,2023-01-11,Calvert,Referred to Enforcement/Compliance,20678,
 130343,Industrial,2023-01-11,2023-01-11,Calvert,Referred to Enforcement/Compliance,20678,
 130340,Non-Tidal Wetlands/Waterway,2023-01-10,2023-01-10,Montgomery,Under Investigation,,
-130337,Illegal Discharge or Outfall,2023-01-10,2023-01-10,Baltimore,Under Investigation,,
