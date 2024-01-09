@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+211954,Illegal Dumping,2024-01-08,2024-01-08,Harford,Under Investigation,21013,
 211952,Sediment,2024-01-05,2024-01-05,Prince George's,Under Investigation,,
 211951,Sediment,2024-01-05,2024-01-03,Washington,Under Investigation,21782,
 211950,"Non-Tidal Wetlands/Waterway, Possible Permit Violation",2024-01-04,2024-01-04,Baltimore,Under Investigation,,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130357,Nontidal Wetlands,2023-01-12,2023-01-06,Kent,Under Investigation,21620,
 130356,Tidal Wetlands,2023-01-12,2023-01-12,Somerset,Under Investigation,21871,
 130354,Non-Tidal Wetlands/Waterway,2023-01-11,2023-01-11,Carroll,Incident Closed-No Violation Observed,,2023-10-17
-130353,Non-Tidal Wetlands/Waterway,2023-01-11,2023-01-11,Carroll,Incident Closed-No Violation Observed,,2023-10-17
