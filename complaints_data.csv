@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+211962,Sediment,2024-01-09,2024-01-08,Montgomery,Under Investigation,,
+211958,"Agricultural, Sediment",2024-01-09,2024-01-08,Washington,Under Investigation,,
+211957,Oil Release/Spill,2024-01-09,2024-01-05,Carroll,Referred to LMA,,
 211954,Illegal Dumping,2024-01-08,2024-01-08,Harford,Under Investigation,21013,
 211952,Sediment,2024-01-05,2024-01-05,Prince George's,Under Investigation,,
 211951,Sediment,2024-01-05,2024-01-03,Washington,Under Investigation,21782,
@@ -18,7 +21,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 211931,Sediment,2023-12-29,2023-12-29,Harford,Under Investigation,21085,
 211931,Sediment,2023-12-29,2023-12-29,Harford,Under Investigation,21085,
 211929,"Illegal Wetland Alteration, Nontidal Wetlands, Possible Permit Violation, Sediment/ Stormwater Problem",2023-12-27,2023-12-27,Baltimore,Under Investigation,,
-211927,Industrial Non-Complying Discharge,2023-12-26,2023-12-26,Howard,Under Investigation,20723,
+211927,Industrial Non-Complying Discharge,2023-12-26,2023-12-26,Howard,Incident Closed-Managed,20723,2023-12-26
 211925,Nontidal Wetlands,2023-12-22,2023-12-22,Anne Arundel,Under Investigation,21113,
 211917,"Industrial, Water Pollutant Release",2023-12-22,2023-12-22,Baltimore,Under Investigation,21162,
 211915,Sediment/ Stormwater Problem,2023-12-22,2023-12-22,Baltimore,Referred to Outside Agency,,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130359,Oil Release/Spill (Surface),2023-01-12,2023-01-12,Anne Arundel,Incident Closed-Managed,21090,2023-08-15
 130359,Oil Release/Spill (Surface),2023-01-12,2023-01-12,Anne Arundel,Incident Closed-Managed,21090,2023-08-15
 130358,Non-Tidal Wetlands/Waterway,2023-01-12,2023-01-11,Howard,Under Investigation,21042,
-130357,Nontidal Wetlands,2023-01-12,2023-01-06,Kent,Under Investigation,21620,
-130356,Tidal Wetlands,2023-01-12,2023-01-12,Somerset,Under Investigation,21871,
-130354,Non-Tidal Wetlands/Waterway,2023-01-11,2023-01-11,Carroll,Incident Closed-No Violation Observed,,2023-10-17
