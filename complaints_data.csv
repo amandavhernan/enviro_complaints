@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+211969,Nontidal Wetlands,2024-01-10,2024-01-08,Montgomery,Under Investigation,,
+211966,Other,2024-01-10,2024-01-10,Calvert,Under Investigation,,
 211962,Sediment,2024-01-09,2024-01-08,Montgomery,Under Investigation,,
 211958,"Agricultural, Sediment",2024-01-09,2024-01-08,Washington,Under Investigation,,
 211957,Oil Release/Spill,2024-01-09,2024-01-05,Carroll,Referred to LMA,,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130361,Other,2023-01-13,2023-01-04,Frederick,Referred to Outside Agency,,
 130360,Unknown Substance,2023-01-12,2023-01-12,Anne Arundel,Incident Closed - No further action,,2023-01-13
 130359,Oil Release/Spill (Surface),2023-01-12,2023-01-12,Anne Arundel,Incident Closed-Managed,21090,2023-08-15
-130359,Oil Release/Spill (Surface),2023-01-12,2023-01-12,Anne Arundel,Incident Closed-Managed,21090,2023-08-15
-130358,Non-Tidal Wetlands/Waterway,2023-01-12,2023-01-11,Howard,Under Investigation,21042,
