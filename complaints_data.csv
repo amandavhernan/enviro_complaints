@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+211987,Industrial,2024-01-16,2024-01-16,Baltimore,Under Investigation,,
+211986,"Illegal Dumping, Non-Tidal Wetlands/Waterway",2024-01-16,2024-01-08,Anne Arundel,Under Investigation,21122,
 211978,Other,2024-01-12,2024-01-12,Allegany,Under Investigation,,
 211976,"Other, Sediment/ Stormwater Problem",2024-01-12,2024-01-12,Talbot,Under Investigation,,
 211975,Non-Tidal Wetlands/Waterway,2024-01-12,2024-01-02,Allegany,Under Investigation,,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130371,Other,2023-01-13,2023-01-05,Garrett,Referred to Outside Agency,,
 130370,Nontidal Wetlands,2023-01-13,2023-01-10,Washington,Incident Closed-No Violation Observed,21779,2023-02-14
 130369,Other,2023-01-13,2023-01-09,Washington,Under Investigation,21733,
-130368,Sediment,2023-01-13,2023-01-09,Washington,Under Investigation,21740,
-130367,Sediment,2023-01-13,2023-01-09,Washington,Under Investigation,21742,
