@@ -1,4 +1,10 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+222050,Other,2024-02-02,2024-02-01,Carroll,Under Investigation,21048,
+222049,Other,2024-02-02,2024-01-31,Allegany,Referred to Outside Agency,,
+222048,"Nontidal Wetlands, Sediment",2024-02-02,2024-02-01,Frederick,Referred to Outside Agency,21788,
+222047,Sediment,2024-02-02,2024-02-01,Frederick,Referred to Outside Agency,21788,
+222046,Sediment,2024-02-02,2024-02-01,Frederick,Referred to Outside Agency,21788,
+222045,Other,2024-02-02,2024-02-01,Frederick,Referred to Outside Agency,,
 222042,Sediment,2024-02-01,2026-01-31,Somerset,Under Investigation,21853,
 222038,Water Pollutant Release,2024-02-01,2024-02-01,Charles,Under Investigation,,
 222035,Unknown Substance,2024-01-31,2024-01-31,Baltimore City,Incident Closed - No further action,,2024-02-01
@@ -123,6 +129,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 191800,Illegal Dumping,2023-11-27,2023-11-27,Anne Arundel,Referred to Outside Agency,,
 191799,Unknown Substance,2023-11-27,2023-11-27,Baltimore,Incident Closed-Managed,,2023-11-28
 191798,Sewage/Sludge Release,2023-11-27,2023-11-27,Anne Arundel,Clean-up In Progress,21060,
+191798,Sewage/Sludge Release,2023-11-27,2023-11-27,Anne Arundel,Clean-up In Progress,21060,
 191797,Other,2023-11-27,2023-11-22,Frederick,Referred to Outside Agency,21788,
 191796,Possible Permit Violation,2023-11-27,2023-11-27,Anne Arundel,Under Investigation,,
 191795,"Nontidal Wetlands, Possible Permit Violation",2023-11-27,2023-11-27,Anne Arundel,Incident Closed-Managed,21146,2023-12-04
@@ -137,6 +144,10 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 191785,Sediment,2023-11-22,2023-11-22,Anne Arundel,Incident Closed-Managed,21122,2023-11-27
 191784,Sediment,2023-11-22,2023-11-22,Anne Arundel,Incident Closed-Managed,21122,2023-11-27
 191770,Other,2023-11-21,2023-11-16,Washington,Incident Closed-Managed,,2023-11-21
+191768,Sediment/ Stormwater Problem,2023-11-17,2023-11-17,Calvert,Under Investigation,20678,
+191768,Sediment/ Stormwater Problem,2023-11-17,2023-11-17,Calvert,Under Investigation,20678,
+191768,Sediment/ Stormwater Problem,2023-11-17,2023-11-17,Calvert,Under Investigation,20678,
+191768,Sediment/ Stormwater Problem,2023-11-17,2023-11-17,Calvert,Under Investigation,20678,
 191768,Sediment/ Stormwater Problem,2023-11-17,2023-11-17,Calvert,Under Investigation,20678,
 191768,Sediment/ Stormwater Problem,2023-11-17,2023-11-17,Calvert,Under Investigation,20678,
 191768,Sediment/ Stormwater Problem,2023-11-17,2023-11-17,Calvert,Under Investigation,20678,
@@ -988,14 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20610,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20736,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,Incident Closed-Managed,20639,2023-02-27
-130419,Sewage/Sludge Release,2023-01-26,2023-01-26,Anne Arundel,Incident Closed-Clean-up Completed,21060,2023-08-16
-130419,Sewage/Sludge Release,2023-01-26,2023-01-26,Anne Arundel,Incident Closed-Clean-up Completed,21060,2023-08-16
