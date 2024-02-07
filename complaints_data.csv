@@ -273,6 +273,7 @@ compliant,compliant_type,recieved_date,incident_date,county,zip,incident_status_
 181508,Fish Kill,2023-09-15,2023-09-15,Calvert,,Under Investigation,
 181507,"Non-Tidal Wetlands/Waterway, Stormwater",2023-09-15,2023-09-14,Frederick,21727,Under Investigation,
 181507,"Non-Tidal Wetlands/Waterway, Stormwater",2023-09-15,2023-09-14,Frederick,21727,Under Investigation,
+181507,"Non-Tidal Wetlands/Waterway, Stormwater",2023-09-15,2023-09-14,Frederick,21727,Under Investigation,
 181506,Municipal Non-Complying Discharge,2023-09-15,2023-09-14,Allegany,21502,Incident Closed-Managed,2023-10-18
 181498,"Illegal Discharge or Outfall, Water Pollutant Release",2023-09-13,2023-09-11,Baltimore City,21230,Under Investigation,
 181497,"Illegal Dumping, Other",2023-09-13,2023-09-13,Anne Arundel,,Under Investigation,
@@ -940,6 +941,7 @@ compliant,compliant_type,recieved_date,incident_date,county,zip,incident_status_
 130465,Sediment,2023-02-07,2023-02-07,Allegany,21766,Under Investigation,
 130465,Sediment,2023-02-07,2023-02-07,Allegany,21766,Under Investigation,
 130465,Sediment,2023-02-07,2023-02-07,Allegany,21766,Under Investigation,
+130465,Sediment,2023-02-07,2023-02-07,Allegany,21766,Under Investigation,
 130464,Non-Tidal Wetlands/Waterway,2023-02-07,2023-01-13,Frederick,,Referred to WMA,
 130463,Nontidal Wetlands,2023-02-07,2023-01-31,Frederick,21788,Under Investigation,
 130463,Nontidal Wetlands,2023-02-07,2023-01-31,Frederick,21788,Under Investigation,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,zip,incident_status_
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,20678,Incident Closed-Managed,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,20678,Incident Closed-Managed,2023-02-27
 130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,20678,Incident Closed-Managed,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,20678,Incident Closed-Managed,2023-02-27
-130420,Possible Permit Violation,2023-01-27,2023-01-25,Calvert,20610,Incident Closed-Managed,2023-02-27
