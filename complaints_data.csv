@@ -157,7 +157,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 201901,Water Pollutant Release,2023-12-20,2023-12-20,Baltimore,Under Investigation,21221,
 201897,Sewage/Sludge Release,2023-12-20,2023-12-19,Anne Arundel,Incident Closed-Managed,21122,2024-01-30
 201896,Sediment,2023-12-19,2023-12-18,Howard,Under Investigation,,
-201895,Sediment,2023-12-19,2023-12-18,Queen Anne's,Under Investigation,21638,
+201895,Sediment,2023-12-19,2023-12-18,Queen Anne's,Incident Closed - No further action,21638,2024-03-01
 201893,Non-Tidal Wetlands/Waterway,2023-12-19,2023-12-19,Anne Arundel,Incident Closed-Managed,,2024-02-29
 201892,Illegal Discharge or Outfall,2023-12-19,2023-12-18,Anne Arundel,Incident Closed-Managed,20711,2024-02-12
 201891,Illegal Discharge or Outfall,2023-12-19,2023-12-18,Anne Arundel,Incident Closed-Managed,20711,2024-02-12
@@ -474,10 +474,12 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181345,Other,2023-08-08,2023-08-04,Allegany,Incident Closed-Managed,21562,2023-09-27
 181344,"Possible Permit Violation, Sediment",2023-08-08,2023-08-08,Calvert,Referred to Outside Agency,,
 181342,Sediment,2023-08-07,2023-08-07,Allegany,Under Investigation,21562,
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed-Managed,21778,2023-09-22
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed-Managed,21778,2023-09-22
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed-Managed,21778,2023-09-22
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed-Managed,21778,2023-09-22
+181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
+181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
+181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
+181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
+181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
+181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
 181340,"Non-Tidal Wetlands/Waterway, Sediment, Suspected Operation without Permit",2023-08-04,2023-08-04,Anne Arundel,Incident Closed-No Violation Observed,21122,2023-08-17
 181340,"Non-Tidal Wetlands/Waterway, Sediment, Suspected Operation without Permit",2023-08-04,2023-08-04,Anne Arundel,Incident Closed-No Violation Observed,21122,2023-08-17
 181339,Tidal Wetlands,2023-08-04,2023-08-02,Cecil,Under Investigation,21914,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140559,Non-Tidal Wetlands/Waterway,2023-02-27,2023-02-27,Frederick,Under Investigation,21774,
 140557,"Illegal Dumping, Possible Permit Violation, Sediment",2023-02-27,2023-02-27,Baltimore City,Under Investigation,,
 140548,"Sediment, Sewage/Sludge Release",2023-02-24,2023-02-22,Baltimore City,Referred to Outside Agency,,
-140542,Tidal Wetlands,2023-02-24,2023-02-17,Somerset,Under Investigation,21824,
-140536,Industrial,2023-02-24,2023-02-24,Baltimore City,Under Investigation,21226,
