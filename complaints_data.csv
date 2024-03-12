@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+232276,Sewage/Sludge Release,2024-03-11,2024-03-12,Allegany,Under Investigation,,
+232272,Non-Tidal Wetlands/Waterway,2024-03-11,2024-03-08,Washington,Under Investigation,,
+232271,Other,2024-03-11,2024-03-08,Washington,Under Investigation,,
+232270,"Possible Permit Violation, Shellfish Waters, Unknown Substance",2024-03-11,2024-03-11,Baltimore,Under Investigation,21222,
 232266,Oil Release/Spill,2024-03-08,2024-03-02,Anne Arundel,Under Investigation,,
 232265,Sewage/Sludge Release,2024-03-08,2024-03-06,Frederick,Referred to Outside Agency,21788,
 232256,Other,2024-03-08,2024-03-04,Frederick,Under Investigation,21790,
@@ -18,7 +22,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232217,Sewage/Sludge Release,2024-03-06,2024-02-29,Prince George's,Under Investigation,20744,
 232213,"Illegal Dumping, Non-Tidal Wetlands/Waterway",2024-03-05,2024-03-05,Anne Arundel,Under Investigation,21060,
 232211,Tidal Wetlands,2024-03-05,2021-05-12,St. Mary's,Referred to WMA,,
-232210,Non-Tidal Wetlands/Waterway,2024-03-05,2024-03-05,Garrett,Under Investigation,,
+232210,Non-Tidal Wetlands/Waterway,2024-03-05,2024-03-05,Garrett,Incident Closed-Managed,,2024-03-06
 232209,"Air Pollutant Release, Nontidal Wetlands, Possible Permit Violation, Water Pollutant Release",2024-03-05,2024-02-23,Baltimore,Under Investigation,,
 232208,"Illegal Wetland Alteration, Suspected Operation without Permit",2024-03-04,2024-03-04,Calvert,Referred to Outside Agency,,
 232206,Illegal Dumping,2024-03-04,2024-02-29,Carroll,Under Investigation,21776,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140611,Tidal Wetlands,2023-03-10,2023-03-07,Dorchester,Incident Closed - No further action,21613,2023-03-10
 140609,Nontidal Wetlands,2023-03-10,2023-03-07,Dorchester,Under Investigation,21613,
 140608,Tidal Wetlands,2023-03-10,2023-03-07,Dorchester,Incident Closed - No further action,21613,2023-03-10
-140606,"Illegal Dumping, Sediment",2023-03-10,2023-03-10,Anne Arundel,Under Investigation,21076,
-140606,"Illegal Dumping, Sediment",2023-03-10,2023-03-10,Anne Arundel,Under Investigation,21076,
-140604,Tidal Wetlands,2023-03-10,2023-03-08,Talbot,Under Investigation,21601,
-140601,Waste,2023-03-09,2023-03-09,Anne Arundel,Referred to Outside Agency,,
