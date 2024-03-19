@@ -1,7 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+232349,Non-Tidal Wetlands/Waterway,2024-03-18,2024-03-15,Charles,Under Investigation,20640,
 232347,Sewage/Sludge Release,2024-03-16,2024-03-16,Dorchester,,,
 232346,Nontidal Wetlands,2024-03-15,2024-03-14,Washington,Under Investigation,21740,
 232345,Municipal,2024-03-15,2024-03-15,Howard,Under Investigation,20763,
+232344,"Floodplain, Nontidal Wetlands",2024-03-15,2024-03-15,Baltimore,Under Investigation,,
 232343,Sediment,2024-03-15,2024-03-13,Talbot,Under Investigation,,
 232339,Agricultural,2024-03-14,2024-03-14,Washington,Referred to Outside Agency,,
 232336,Tidal Wetlands,2024-03-14,2024-03-11,Worcester,Under Investigation,21842,
@@ -147,6 +149,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222023,Sediment,2024-01-26,2024-01-26,Allegany,Under Investigation,21562,
 222021,"Possible Permit Violation, Tidal Wetlands",2024-01-26,2024-01-26,Charles,Under Investigation,20693,
 222021,"Possible Permit Violation, Tidal Wetlands",2024-01-26,2024-01-26,Charles,Under Investigation,20693,
+222020,Sediment/ Stormwater Problem,2024-01-26,2024-01-26,Somerset,Under Investigation,21817,
 222020,Sediment/ Stormwater Problem,2024-01-26,2024-01-26,Somerset,Under Investigation,21817,
 222018,"Illegal Dumping, Possible Permit Violation",2024-01-26,2024-01-21,Baltimore City,Incident Closed - No further action,21230,2024-01-31
 222017,Possible Permit Violation,2024-01-26,2024-01-26,Anne Arundel,Under Investigation,21012,
@@ -993,9 +996,6 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140657,Sediment,2023-03-21,2023-03-21,Cecil,Under Investigation,21921,
 140656,Other,2023-03-20,2023-03-18,Garrett,Referred to Outside Agency,,
 140655,Tidal Wetlands,2023-03-20,2023-03-20,Dorchester,Incident Closed - No further action,21631,2024-03-12
-140650,Sediment,2023-03-20,2023-03-14,Allegany,Under Investigation,21502,
-140650,Sediment,2023-03-20,2023-03-14,Allegany,Under Investigation,21502,
-140650,Sediment,2023-03-20,2023-03-14,Allegany,Under Investigation,21502,
 140650,Sediment,2023-03-20,2023-03-14,Allegany,Under Investigation,21502,
 140650,Sediment,2023-03-20,2023-03-14,Allegany,Under Investigation,21502,
 140650,Sediment,2023-03-20,2023-03-14,Allegany,Under Investigation,21502,
