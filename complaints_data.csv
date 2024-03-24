@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,incident_closed_date,zip
+242394,Sewage/Sludge Release,2024-03-23,2024-03-23,Dorchester,,,
+242393,Oil Release/Spill (Open Water),2024-03-23,2024-03-23,Anne Arundel,,,
 242375,"Possible Permit Violation, Sediment/ Stormwater Problem",2024-03-22,2024-03-22,Anne Arundel,Under Investigation,,
 232380,Municipal/CSO,2024-03-21,2024-03-09,Allegany,Incident Closed-Managed,2024-03-21,21504
 232378,Non-Tidal Wetlands/Waterway,2024-03-21,2024-03-21,Washington,Under Investigation,,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140683,Illegal Dumping,2023-03-23,2023-03-22,Baltimore,Referred to Outside Agency,,
 140682,Non-Tidal Wetlands/Waterway,2023-03-23,2023-03-22,Charles,Under Investigation,,
 140681,Nontidal Wetlands,2023-03-23,2023-03-12,St. Mary's,Incident Closed-Managed,2024-02-13,20650
-140678,"Illegal Dumping, Possible Permit Violation, Sediment",2023-03-23,2023-03-22,Harford,Referred to Outside Agency,,21084
-140677,Sewage/Sludge Release,2023-03-22,2023-03-22,Baltimore City,Under Investigation,,
