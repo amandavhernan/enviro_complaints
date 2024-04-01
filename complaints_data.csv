@@ -3,9 +3,9 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242416,"Oil Release/Spill, Tidal Wetlands, Water Pollutant Release",2024-03-29,2024-03-26,Anne Arundel,Under Investigation,,
 242415,"Oil Release/Spill, Tidal Wetlands, Water Pollutant Release",2024-03-29,2024-03-26,Anne Arundel,Under Investigation,,
 242414,"Fish Kill, Odor",2024-03-29,2024-03-28,Baltimore City,Under Investigation,21226,
-242413,"Drinking Water, Illegal Discharge or Outfall",2024-03-29,2024-03-29,Anne Arundel,Under Investigation,21401,
+242413,"Drinking Water, Illegal Discharge or Outfall",2024-03-29,2024-03-29,Anne Arundel,Incident Closed-Managed,21401,2024-03-29
 242412,"Illegal Dumping, Sewage/Sludge Release",2024-03-29,2024-03-26,Charles,Under Investigation,,
-242411,"Oil Release/Spill, Sediment, Unknown Substance",2024-03-29,2024-03-29,Anne Arundel,Under Investigation,21054,
+242411,"Oil Release/Spill, Sediment, Unknown Substance",2024-03-29,2024-03-29,Anne Arundel,Incident Closed-Managed,21054,2024-03-29
 242406,Sediment/ Stormwater Problem,2024-03-28,2024-03-28,St. Mary's,Under Investigation,20650,
 242403,Other,2024-03-26,2024-03-25,Allegany,Under Investigation,21539,
 242402,Nontidal Wetlands,2024-03-26,2024-03-21,Somerset,Under Investigation,21853,
@@ -15,9 +15,9 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242398,Tidal Wetlands,2024-03-25,2024-01-09,Dorchester,Under Investigation,21672,
 242397,"Illegal Wetland Alteration, Possible Permit Violation, Tidal Wetlands",2024-03-25,2024-03-25,Baltimore,Under Investigation,21222,
 242396,Sediment,2024-03-25,2024-03-23,Harford,Under Investigation,21085,
-242395,Sediment,2024-03-25,2024-03-05,Anne Arundel,Under Investigation,,
+242395,Sediment,2024-03-25,2024-03-05,Anne Arundel,Incident Closed-Managed,21122,2024-03-28
 242394,Sewage/Sludge Release,2024-03-23,2024-03-23,Dorchester,,,
-242393,Oil Release/Spill (Open Water),2024-03-23,2024-03-23,Anne Arundel,Under Investigation,21032,
+242393,"Oil Release/Spill (Open Water), Sediment/ Stormwater Problem",2024-03-23,2024-03-23,Anne Arundel,Incident Closed-Managed,21032,2024-03-29
 242375,"Possible Permit Violation, Sediment/ Stormwater Problem",2024-03-22,2024-03-22,Anne Arundel,Under Investigation,,
 232380,Municipal/CSO,2024-03-21,2024-03-09,Allegany,Incident Closed-Managed,21504,2024-03-21
 232378,Non-Tidal Wetlands/Waterway,2024-03-21,2024-03-21,Washington,Under Investigation,21740,
