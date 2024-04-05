@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+242442,"Chemical Release/Spill, Illegal Discharge or Outfall, Nontidal Wetlands",2024-04-04,2024-04-01,Anne Arundel,Under Investigation,21409,
+242440,Non-Tidal Wetlands/Waterway,2024-04-04,2024-04-04,Frederick,Under Investigation,21793,
+242439,Non-Tidal Wetlands/Waterway,2024-04-04,2024-04-04,Frederick,Under Investigation,21702,
+242438,Non-Tidal Wetlands/Waterway,2024-04-04,2024-04-01,Frederick,Under Investigation,21727,
 242431,Sediment,2024-04-03,2024-04-03,Garrett,Under Investigation,21561,
 242429,Industrial,2024-04-03,2024-03-11,Frederick,Under Investigation,21777,
 242427,Non-Tidal Wetlands/Waterway,2024-04-02,2024-03-29,Allegany,Under Investigation,21532,
@@ -131,6 +135,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222134,Nontidal Wetlands,2024-02-15,2024-02-15,Washington,Under Investigation,21795,
 222134,Nontidal Wetlands,2024-02-15,2024-02-15,Washington,Under Investigation,21795,
 222128,Nontidal Wetlands,2024-02-15,2024-02-14,Dorchester,Under Investigation,21677,
+222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Under Investigation,21817,
 222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Under Investigation,21817,
 222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Under Investigation,21817,
 222126,"Non-Tidal Wetlands/Waterway, Nontidal Wetlands",2024-02-15,2024-02-13,Howard,Under Investigation,21041,
@@ -994,8 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 140762,Tidal Wetlands,2023-04-05,2023-04-05,St. Mary's,Referred to Enforcement/Compliance,20692,
 140759,Tidal Wetlands,2023-04-05,2023-04-04,Talbot,Incident Closed-Managed,21601,2024-03-28
 140758,"Illegal Discharge or Outfall, Illegal Dumping",2023-04-05,2021-04-05,Baltimore,Under Investigation,21093,
-140754,Chemical Release/Spill,2023-04-04,2023-03-30,Anne Arundel,Incident Closed-No Violation Observed,20776,2023-04-13
-140753,Sewage/Sludge Release,2023-04-04,2023-03-30,Baltimore,Incident Closed - No further action,,2023-04-06
-140748,Nontidal Wetlands,2023-04-03,2023-03-09,Dorchester,Incident Closed-Managed,21613,2024-03-28
-140747,Sediment,2023-04-03,2023-04-03,Allegany,Referred to Outside Agency,21502,
-140746,Tidal Wetlands,2023-04-03,2023-04-03,St. Mary's,Under Investigation,20692,
