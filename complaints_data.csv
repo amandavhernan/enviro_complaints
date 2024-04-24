@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+242540,Possible Permit Violation,2024-04-23,2024-04-23,Baltimore,Under Investigation,,
 242538,Sediment/ Stormwater Problem,2024-04-22,2024-04-19,Allegany,Under Investigation,21502,
 242531,Industrial Non-Complying Discharge,2024-04-19,2024-04-19,Worcester,Under Investigation,21811,
 242529,Non-Tidal Wetlands/Waterway,2024-04-19,2024-04-19,Anne Arundel,Under Investigation,21113,
@@ -116,6 +117,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232276,Sewage/Sludge Release,2024-03-11,2024-03-12,Allegany,Incident Closed-Managed,21557,2024-03-13
 232275,Sediment/ Stormwater Problem,2024-03-11,2024-03-11,Baltimore,Under Investigation,21093,
 232274,Hazardous Waste,2024-03-11,2024-03-11,Calvert,Referred to Enforcement/Compliance,20657,
+232274,Hazardous Waste,2024-03-11,2024-03-11,Calvert,Referred to Enforcement/Compliance,20657,
 232272,Non-Tidal Wetlands/Waterway,2024-03-11,2024-03-08,Washington,Under Investigation,21740,
 232271,Other,2024-03-11,2024-03-08,Washington,Under Investigation,21740,
 232270,"Possible Permit Violation, Shellfish Waters, Unknown Substance",2024-03-11,2024-03-11,Baltimore,Under Investigation,21222,
@@ -167,9 +169,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222171,Sediment/ Stormwater Problem,2024-02-22,2024-02-22,Prince George's,Under Investigation,20715,
 222170,"Hazardous Waste, Illegal Dumping",2024-02-22,2024-02-21,Baltimore,Referred to Outside Agency,21220,
 222168,Other,2024-02-22,2024-02-20,Washington,Incident Closed-Managed,21750,2024-03-08
-222167,"Non-Tidal Wetlands/Waterway, Possible Permit Violation",2024-02-21,2024-02-21,Harford,Under Investigation,21084,
-222167,"Non-Tidal Wetlands/Waterway, Possible Permit Violation",2024-02-21,2024-02-21,Harford,Under Investigation,21084,
-222167,"Non-Tidal Wetlands/Waterway, Possible Permit Violation",2024-02-21,2024-02-21,Harford,Under Investigation,21084,
+222167,"Non-Tidal Wetlands/Waterway, Possible Permit Violation",2024-02-21,2024-02-21,Harford,Incident Closed-Managed,21084,2024-03-25
 222166,Sediment,2024-02-21,2024-02-21,Baltimore,Referred to Outside Agency,,
 222164,"Air Pollutant Release, Fumes, Odor, Unknown Substance, Water Pollutant Release",2024-02-21,2024-02-12,Baltimore City,Referred to WMA,,
 222163,"Non-Tidal Wetlands/Waterway, Sediment",2024-02-21,2024-02-14,Talbot,Under Investigation,21625,
