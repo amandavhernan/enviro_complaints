@@ -1,5 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
-242540,Possible Permit Violation,2024-04-23,2024-04-23,Baltimore,Under Investigation,,
+242541,Sediment,2024-04-24,2024-04-24,Frederick,Under Investigation,,
+242540,Possible Permit Violation,2024-04-23,2024-04-23,Baltimore,Under Investigation,21117,
 242538,Sediment/ Stormwater Problem,2024-04-22,2024-04-19,Allegany,Under Investigation,21502,
 242531,Industrial Non-Complying Discharge,2024-04-19,2024-04-19,Worcester,Under Investigation,21811,
 242529,Non-Tidal Wetlands/Waterway,2024-04-19,2024-04-19,Anne Arundel,Under Investigation,21113,
@@ -312,8 +313,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 211917,"Industrial, Water Pollutant Release",2023-12-22,2023-12-22,Baltimore,Incident Closed - No further action,21162,2024-04-10
 211915,Sediment/ Stormwater Problem,2023-12-22,2023-12-22,Baltimore,Referred to Outside Agency,,
 201906,Chemical Release/Spill,2023-12-21,2023-12-21,Baltimore,Under Investigation,21030,
-201903,"Floodplain, Non-Tidal Wetlands/Waterway",2023-12-20,2023-11-21,Harford,Under Investigation,21015,
-201903,"Floodplain, Non-Tidal Wetlands/Waterway",2023-12-20,2023-11-21,Harford,Under Investigation,21015,
+201903,"Floodplain, Non-Tidal Wetlands/Waterway",2023-12-20,2023-11-21,Harford,Incident Closed-Managed,21015,2024-03-12
+201903,"Floodplain, Non-Tidal Wetlands/Waterway",2023-12-20,2023-11-21,Harford,Incident Closed-Managed,21015,2024-03-12
 201901,Water Pollutant Release,2023-12-20,2023-12-20,Baltimore,Under Investigation,21221,
 201897,Sewage/Sludge Release,2023-12-20,2023-12-19,Anne Arundel,Incident Closed-Managed,21122,2024-01-30
 201896,Sediment,2023-12-19,2023-12-18,Howard,Under Investigation,,
@@ -332,6 +333,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 201882,Non-Tidal Wetlands/Waterway,2023-12-18,2023-12-18,Washington,Under Investigation,21758,
 201882,Non-Tidal Wetlands/Waterway,2023-12-18,2023-12-18,Washington,Under Investigation,21758,
 201881,Odor,2023-12-18,2023-12-18,Anne Arundel,Incident Closed - No further action,21060,2024-02-29
+201880,Tidal Wetlands,2023-12-18,2023-12-06,Somerset,Under Investigation,21817,
 201880,Tidal Wetlands,2023-12-18,2023-12-06,Somerset,Under Investigation,21817,
 201880,Tidal Wetlands,2023-12-18,2023-12-06,Somerset,Under Investigation,21817,
 201880,Tidal Wetlands,2023-12-18,2023-12-06,Somerset,Under Investigation,21817,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150850,Nontidal Wetlands,2023-04-24,2023-04-24,Frederick,Incident Closed-Managed,,2023-04-26
 150849,Non-Tidal Wetlands/Waterway,2023-04-24,2023-04-24,Harford,Incident Closed - No further action,,2023-05-04
 150847,Tidal Wetlands,2023-04-24,2023-04-24,Anne Arundel,Incident Closed-Clean-up Completed,21409,2023-12-08
-150847,Tidal Wetlands,2023-04-24,2023-04-24,Anne Arundel,Incident Closed-Clean-up Completed,21409,2023-12-08
-150846,Tidal Wetlands,2023-04-24,2023-04-20,Anne Arundel,Incident Closed-Managed,20764,2024-03-08
