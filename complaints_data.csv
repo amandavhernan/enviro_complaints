@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+242552,Nontidal Wetlands,2024-04-26,2024-04-25,Montgomery,Referred to WMA,,
+242551,Illegal Dumping,2024-04-26,2024-04-25,Prince George's,Referred to Outside Agency,,
+242548,"Stormwater, Tidal Wetlands",2024-04-26,2024-04-12,Calvert,Under Investigation,20657,
+242547,Tidal Wetlands,2024-04-26,2024-04-26,Queen Anne's,Under Investigation,21623,
 242541,Sediment,2024-04-24,2024-04-24,Frederick,Under Investigation,,
 242540,Possible Permit Violation,2024-04-23,2024-04-23,Baltimore,Under Investigation,21117,
 242538,Sediment/ Stormwater Problem,2024-04-22,2024-04-19,Allegany,Under Investigation,21502,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150857,Chemical Release/Spill,2023-04-25,2023-04-21,Anne Arundel,Under Investigation,21403,
 150856,Industrial,2023-04-25,2023-04-25,Cecil,Under Investigation,21921,
 150855,Nontidal Wetlands,2023-04-25,2023-04-23,Carroll,Incident Closed-Managed,21102,2023-10-17
-150853,Tidal Wetlands,2023-04-24,2023-04-24,Calvert,Referred to Outside Agency,,
-150852,Non-Tidal Wetlands/Waterway,2023-04-24,2023-04-23,Montgomery,Under Investigation,20815,
-150851,Nontidal Wetlands,2023-04-24,2023-04-24,Washington,Under Investigation,,
-150850,Nontidal Wetlands,2023-04-24,2023-04-24,Frederick,Incident Closed-Managed,,2023-04-26
