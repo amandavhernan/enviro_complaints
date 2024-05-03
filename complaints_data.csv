@@ -26,6 +26,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242515,Sediment,2024-04-16,2024-04-03,Wicomico,Under Investigation,21849,
 242509,Water Pollutant Release,2024-04-16,2024-04-15,Baltimore,Under Investigation,,
 242505,Tidal Wetlands,2024-04-16,2023-04-16,Caroline,Under Investigation,21629,
+242505,Tidal Wetlands,2024-04-16,2023-04-16,Caroline,Under Investigation,21629,
 242501,"Non-Tidal Wetlands/Waterway, Sediment",2024-04-15,2024-04-15,Calvert,Under Investigation,20678,
 242485,Waste,2024-04-12,2024-04-12,St. Mary's,Under Investigation,20609,
 242481,Possible Permit Violation,2024-04-11,2024-04-11,Calvert,Under Investigation,,
@@ -354,6 +355,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 201879,Oil Release/Spill (Open Water),2023-12-18,2023-12-17,Anne Arundel,Incident Closed-Managed,21403,2024-02-29
 201878,"Non-Tidal Wetlands/Waterway, Possible Permit Violation, Sediment",2023-12-15,2023-12-15,Calvert,Referred to Enforcement/Compliance,20605,
 201878,"Non-Tidal Wetlands/Waterway, Possible Permit Violation, Sediment",2023-12-15,2023-12-15,Calvert,Referred to Enforcement/Compliance,20605,
+201877,Non-Tidal Wetlands/Waterway,2023-12-15,2023-12-11,Frederick,Under Investigation,21703,
 201877,Non-Tidal Wetlands/Waterway,2023-12-15,2023-12-11,Frederick,Under Investigation,21703,
 201876,Other,2023-12-15,2023-12-12,Carroll,Referred to Outside Agency,21102-121,
 201874,Possible Permit Violation,2023-12-14,2023-12-14,St. Mary's,Under Investigation,20619,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150884,Sediment,2023-05-01,2023-05-01,Dorchester,Under Investigation,21613,
 150883,Municipal,2023-05-01,2023-05-01,Dorchester,Under Investigation,21613,
 150882,Nontidal Wetlands,2023-05-01,2023-04-29,Anne Arundel,Incident Closed-Managed,21037,2024-02-13
-150881,Non-Tidal Wetlands/Waterway,2023-04-28,2023-04-28,Baltimore,Referred to Outside Agency,,
-150879,"Other, Water Seepage",2023-04-28,2023-04-28,Harford,Under Investigation,,
