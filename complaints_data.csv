@@ -1,6 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+242644,Tidal Wetlands,2024-05-13,2024-05-13,Cecil,Under Investigation,21638,
+242641,Non-Tidal Wetlands/Waterway,2024-05-13,2024-05-09,Baltimore,Under Investigation,21117,
 242637,Industrial Non-Complying Discharge,2024-05-10,2024-05-07,Somerset,Under Investigation,21853,
 242636,Industrial Non-Complying Discharge,2024-05-10,2024-05-07,Dorchester,Under Investigation,,
+242632,Sediment/ Stormwater Problem,2024-05-10,2024-05-08,Howard,Under Investigation,21046,
 242632,Sediment/ Stormwater Problem,2024-05-10,2024-05-08,Howard,Under Investigation,21046,
 242631,"Nontidal Wetlands, Sediment",2024-05-10,2024-05-10,Baltimore,Under Investigation,21136,
 242630,Other,2024-05-10,2024-05-10,Anne Arundel,Under Investigation,21061,
@@ -9,7 +12,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242625,Sediment,2024-05-08,2024-05-06,Harford,Under Investigation,21085,
 242624,Non-Tidal Wetlands/Waterway,2024-05-08,2024-05-07,Prince George's,Under Investigation,,
 242623,Sediment,2024-05-08,2024-05-07,Garrett,Under Investigation,21526,
-242619,Non-Tidal Wetlands/Waterway,2024-05-08,2024-05-08,Washington,Under Investigation,,
+242619,Non-Tidal Wetlands/Waterway,2024-05-08,2024-05-08,Washington,Under Investigation,21779,
 242618,Illegal Discharge or Outfall,2024-05-08,2024-05-03,Frederick,Referred to Outside Agency,,
 242617,Nontidal Wetlands,2024-05-08,2024-05-03,Howard,Under Investigation,21029,
 242616,Sediment,2024-05-08,2024-05-07,Somerset,Under Investigation,,
@@ -75,6 +78,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242462,Other,2024-04-08,2024-04-08,Frederick,Referred to Outside Agency,,
 242457,Non-Tidal Wetlands/Waterway,2024-04-08,2024-04-05,Allegany,Under Investigation,26750,
 242449,Sediment,2024-04-05,2024-04-05,Carroll,Under Investigation,21771,
+242449,Sediment,2024-04-05,2024-04-05,Carroll,Under Investigation,21771,
 242448,"Chemical Release/Spill, Illegal Discharge or Outfall",2024-04-05,2024-03-29,Anne Arundel,Referred to Outside Agency,20724,
 242447,Sinkhole,2024-04-05,2024-04-03,Calvert,Incident Closed - No further action,,2024-04-12
 242446,"Water Pollutant Release, Water Seepage",2024-04-05,2024-04-05,Anne Arundel,Incident Closed-Managed,21403,2024-04-09
@@ -115,7 +119,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242400,Sediment,2024-03-25,2024-03-18,Worcester,Under Investigation,21841,
 242399,Nontidal Wetlands,2024-03-25,2024-03-20,Dorchester,Under Investigation,21622,
 242398,Tidal Wetlands,2024-03-25,2024-01-09,Dorchester,Under Investigation,21672,
-242397,"Illegal Wetland Alteration, Possible Permit Violation, Tidal Wetlands",2024-03-25,2024-03-25,Baltimore,Under Investigation,21222,
+242397,"Illegal Wetland Alteration, Possible Permit Violation, Tidal Wetlands",2024-03-25,2024-03-25,Baltimore,Incident Closed-Managed,21222,2024-04-22
 242396,Sediment,2024-03-25,2024-03-23,Harford,Referred to Attorney General's Office,21085,
 242395,Sediment,2024-03-25,2024-03-05,Anne Arundel,Incident Closed-Managed,21122,2024-03-28
 242394,Sewage/Sludge Release,2024-03-23,2024-03-23,Dorchester,,,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150960,Tidal Wetlands,2023-05-15,2023-05-15,Anne Arundel,Referred to Outside Agency,21122,
 150959,Oil Release/Spill,2023-05-15,2023-05-12,Garrett,Under Investigation,21536,
 150955,"Other, Sediment/ Stormwater Problem",2023-05-15,2023-05-15,Baltimore City,Referred to Enforcement/Compliance,21224,
-150955,"Other, Sediment/ Stormwater Problem",2023-05-15,2023-05-15,Baltimore City,Referred to Enforcement/Compliance,21224,
-150952,"Illegal Wetland Alteration, Possible Permit Violation",2023-05-15,2023-05-13,Anne Arundel,Referred to Outside Agency,,
-150944,Chemical Release/Spill,2023-05-11,2023-04-22,Anne Arundel,Incident Closed - No further action,,2023-05-17
-150943,"Suspected Operation without Permit, Tidal Wetlands",2023-05-11,2023-05-11,Baltimore,Incident Closed - No further action,21222,2023-11-07
