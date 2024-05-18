@@ -1,4 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+242669,"Chemical Release/Spill, Oil Release/Spill (Surface)",2024-05-17,2024-05-17,Baltimore City,Under Investigation,21225,
+242668,Non-Tidal Wetlands/Waterway,2024-05-17,2024-05-09,Frederick,Under Investigation,21788,
+242667,Sediment,2024-05-17,2024-05-17,Washington,Under Investigation,21779,
+242666,"Chemical Release/Spill, Nontidal Wetlands, Unknown Substance",2024-05-17,2024-05-17,Baltimore,Incident Closed - No further action,21030,2024-05-17
+242665,"Illegal Dumping, Possible Permit Violation, Tidal Wetlands",2024-05-17,2024-05-17,Anne Arundel,Under Investigation,21401,
 242660,Nontidal Wetlands,2024-05-16,2024-05-15,Montgomery,Under Investigation,20855,
 242659,Other,2024-05-16,2024-05-15,Washington,Under Investigation,21713,
 242658,Sediment,2024-05-15,2024-05-15,Washington,Under Investigation,,
@@ -59,7 +64,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242526,"Groundwater Contamination, Hazardous Waste, Well Contamination",2024-04-18,2024-04-18,Carroll,Referred to Outside Agency,,
 242525,Nontidal Wetlands,2024-04-17,2024-04-17,Howard,Under Investigation,21044,
 242523,Tidal Wetlands,2024-04-17,2024-04-17,Baltimore,Under Investigation,21162,
-242521,Non-Tidal Wetlands/Waterway,2024-04-17,2024-04-17,Anne Arundel,Incident Closed-Managed,20779,2024-05-10
+242521,Non-Tidal Wetlands/Waterway,2024-04-17,2024-04-17,Anne Arundel,Incident Closed-Managed,20779,2024-05-17
 242520,Water Seepage,2024-04-17,2024-04-17,Anne Arundel,Incident Closed-Managed,20779,2024-05-10
 242519,"Oil Release/Spill (Surface), Sewage/Sludge Release",2024-04-17,2024-04-17,Anne Arundel,Under Investigation,21122,
 242517,Oil Release/Spill (Surface),2024-04-17,2024-04-17,Anne Arundel,Incident Closed-Managed,21403,2024-05-10
@@ -994,8 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 150976,"Possible Permit Violation, Tidal Wetlands",2023-05-17,2023-05-17,Calvert,Incident Closed-No Violation Observed,20685,2023-07-14
 150975,Water Pollutant Release,2023-05-17,2023-05-15,Garrett,Incident Closed-Managed,21536,2023-05-22
 150975,Water Pollutant Release,2023-05-17,2023-05-15,Garrett,Incident Closed-Managed,21536,2023-05-22
-150974,Tidal Wetlands,2023-05-17,2023-05-15,Somerset,Incident Closed - No further action,21853,2023-08-31
-150973,Sediment,2023-05-17,2023-05-11,Kent,Incident Closed - No further action,21620,2023-06-30
-150972,Non-Tidal Wetlands/Waterway,2023-05-17,2023-05-12,Washington,Under Investigation,21779,
-150972,Non-Tidal Wetlands/Waterway,2023-05-17,2023-05-12,Washington,Under Investigation,21779,
-150971,Sediment,2023-05-17,2023-05-11,Kent,Under Investigation,21645,
