@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+252724,Sediment,2024-06-05,2024-06-03,Washington,Under Investigation,21722,
+252723,Tidal Wetlands,2024-06-05,2024-06-05,Anne Arundel,Under Investigation,21122,
+252722,Sediment,2024-06-05,2024-06-04,Washington,Under Investigation,21722,
+252721,Sediment,2024-06-05,2024-06-04,Washington,Under Investigation,21750,
 252719,Tidal Wetlands,2024-06-03,2024-05-01,St. Mary's,Under Investigation,20628,
 252715,Illegal Discharge or Outfall,2024-06-03,2024-06-03,Baltimore City,Under Investigation,21234,
 252714,Sediment,2024-06-03,2024-05-31,Harford,Incident Closed - No further action,21085,2024-06-03
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161043,Nontidal Wetlands,2023-06-02,2023-04-17,Carroll,Incident Closed-Managed,21074,2024-04-17
 161039,Stormwater,2023-06-02,2023-06-02,Harford,Incident Not Applicable to MDE,,
 161038,Floodplain,2023-06-02,2023-06-02,Washington,Under Investigation,21740,
-161038,Floodplain,2023-06-02,2023-06-02,Washington,Under Investigation,21740,
-161037,"Floodplain, Nontidal Wetlands",2023-06-02,2023-06-01,Washington,Under Investigation,21740,
-161037,"Floodplain, Nontidal Wetlands",2023-06-02,2023-06-01,Washington,Under Investigation,21740,
-161036,Tidal Wetlands,2023-06-02,2023-05-31,Kent,Incident Closed - No further action,21661,2023-06-23
