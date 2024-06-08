@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+252734,Sediment,2024-06-07,2024-06-07,Talbot,Under Investigation,,
 252732,Illegal Discharge or Outfall,2024-06-06,2024-06-03,Baltimore,Under Investigation,,
 252731,Unknown Substance,2024-06-06,2024-05-29,Anne Arundel,Referred to Outside Agency,,
 252730,"Illegal Discharge or Outfall, Suspected Operation without Permit",2024-06-06,2024-06-05,Baltimore,Under Investigation,21228,
@@ -15,7 +16,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 252715,Illegal Discharge or Outfall,2024-06-03,2024-06-03,Baltimore City,Under Investigation,21234,
 252714,Sediment,2024-06-03,2024-05-31,Harford,Incident Closed - No further action,21085,2024-06-03
 252713,Sediment,2024-06-03,2024-06-03,Talbot,Under Investigation,21601,
-252709,Sediment/ Stormwater Problem,2024-05-30,2024-05-30,Anne Arundel,Under Investigation,,
+252709,Sediment/ Stormwater Problem,2024-05-30,2024-05-30,Anne Arundel,Incident Closed-Managed,21403,2024-06-07
 252708,Dam Breach,2024-05-30,2024-05-28,Frederick,Under Investigation,21773,
 252707,Other,2024-05-30,2024-05-23,Frederick,Referred to ARA,,
 252706,"Non-Tidal Wetlands/Waterway, Sediment, Stormwater",2024-05-29,2024-03-20,Anne Arundel,Incident Closed-Managed,21122,2024-03-28
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161053,Tidal Wetlands,2023-06-06,2023-06-05,Worcester,Under Investigation,21811,
 161052,Non-Tidal Wetlands/Waterway,2023-06-06,2023-06-04,Frederick,Under Investigation,21788,
 161051,Non-Tidal Wetlands/Waterway,2023-06-06,2023-05-30,Frederick,Under Investigation,21769,
-161050,Municipal/SSO,2023-06-05,2023-06-05,Montgomery,Under Investigation,,
