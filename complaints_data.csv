@@ -67,8 +67,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242630,Other,2024-05-10,2024-05-10,Anne Arundel,Incident Closed - No further action,21061,2024-05-16
 242628,Unknown Substance,2024-05-09,2024-05-09,Anne Arundel,Under Investigation,21401,
 242627,Other,2024-05-09,2024-05-09,Anne Arundel,Incident Closed - No further action,21122,2024-05-16
-242625,Sediment,2024-05-08,2024-05-06,Harford,Under Investigation,21085,
-242625,Sediment,2024-05-08,2024-05-06,Harford,Under Investigation,21085,
+242625,Sediment,2024-05-08,2024-05-06,Harford,Incident Closed - No further action,21085,2024-06-07
+242625,Sediment,2024-05-08,2024-05-06,Harford,Incident Closed - No further action,21085,2024-06-07
 242624,Non-Tidal Wetlands/Waterway,2024-05-08,2024-05-07,Prince George's,Under Investigation,,
 242623,Sediment,2024-05-08,2024-05-07,Garrett,Under Investigation,21526,
 242619,Non-Tidal Wetlands/Waterway,2024-05-08,2024-05-08,Washington,Under Investigation,21779,
