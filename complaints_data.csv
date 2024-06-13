@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+252763,Nontidal Wetlands,2024-06-12,2024-06-11,Worcester,Under Investigation,21851,
+252762,Industrial,2024-06-12,2024-06-11,Talbot,Under Investigation,21601,
+252755,"Nontidal Wetlands, Sediment",2024-06-12,2024-06-11,Garrett,Under Investigation,21550,
 252754,"Sewage/Sludge Release, Tidal Wetlands",2024-06-11,2024-06-06,Anne Arundel,Under Investigation,,
 252753,Tidal Wetlands,2024-06-11,2024-05-24,Cecil,Under Investigation,21901,
 252747,Tidal Wetlands,2024-06-11,2024-05-22,Worcester,Under Investigation,21811,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161094,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway, Sediment",2023-06-08,2023-06-08,Baltimore,Incident Closed-Managed,21152,2024-02-13
 161091,Possible Permit Violation,2023-06-08,2023-06-08,Anne Arundel,Referred to Outside Agency,,
 161090,"Illegal Dumping, Non-Tidal Wetlands/Waterway",2023-06-08,2023-06-08,Carroll,Incident Closed-Managed,,2023-06-22
-161088,Water Pollutant Release,2023-06-08,2023-06-04,Frederick,Under Investigation,21073,
-161088,Water Pollutant Release,2023-06-08,2023-06-04,Frederick,Under Investigation,21073,
-161087,Odor,2023-06-08,2023-06-01,Washington,Under Investigation,21740,
