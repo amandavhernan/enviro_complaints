@@ -1,8 +1,11 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+252774,"Nontidal Wetlands, Sediment",2024-06-13,2024-06-06,Washington,Under Investigation,21750,
+252773,Non-Tidal Wetlands/Waterway,2024-06-13,2024-04-11,Prince George's,Under Investigation,,
+252771,Tidal Wetlands,2024-06-13,2024-06-11,Queen Anne's,Under Investigation,21666,
 252763,Nontidal Wetlands,2024-06-12,2024-06-11,Worcester,Under Investigation,21851,
 252762,Industrial,2024-06-12,2024-06-11,Talbot,Under Investigation,21601,
 252755,"Nontidal Wetlands, Sediment",2024-06-12,2024-06-11,Garrett,Under Investigation,21550,
-252754,"Sewage/Sludge Release, Tidal Wetlands",2024-06-11,2024-06-06,Anne Arundel,Under Investigation,,
+252754,"Sewage/Sludge Release, Tidal Wetlands",2024-06-11,2024-06-06,Anne Arundel,Incident Closed-Managed,,2024-06-13
 252753,Tidal Wetlands,2024-06-11,2024-05-24,Cecil,Under Investigation,21901,
 252747,Tidal Wetlands,2024-06-11,2024-05-22,Worcester,Under Investigation,21811,
 252746,Nontidal Wetlands,2024-06-11,2024-06-03,Worcester,Under Investigation,21851,
@@ -312,6 +315,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222134,Nontidal Wetlands,2024-02-15,2024-02-15,Washington,Under Investigation,21795,
 222134,Nontidal Wetlands,2024-02-15,2024-02-15,Washington,Under Investigation,21795,
 222128,Nontidal Wetlands,2024-02-15,2024-02-14,Dorchester,Under Investigation,21677,
+222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Under Investigation,21817,
 222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Under Investigation,21817,
 222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Under Investigation,21817,
 222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Under Investigation,21817,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161098,Tidal Wetlands,2023-06-09,2023-06-08,Queen Anne's,Incident Closed - No further action,21638,2023-07-20
 161097,Industrial,2023-06-09,2023-06-07,Kent,Incident Closed-Clean-up Completed,21620,2023-07-05
 161096,Nontidal Wetlands,2023-06-09,2023-06-05,Frederick,Referred to Outside Agency,,
-161095,Oil Release/Spill (Open Water),2023-06-08,2023-06-07,St. Mary's,Under Investigation,,
-161094,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway, Sediment",2023-06-08,2023-06-08,Baltimore,Incident Closed-Managed,21152,2024-02-13
-161091,Possible Permit Violation,2023-06-08,2023-06-08,Anne Arundel,Referred to Outside Agency,,
-161090,"Illegal Dumping, Non-Tidal Wetlands/Waterway",2023-06-08,2023-06-08,Carroll,Incident Closed-Managed,,2023-06-22
