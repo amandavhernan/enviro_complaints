@@ -1,11 +1,14 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+252778,Sediment/ Stormwater Problem,2024-06-14,2024-06-14,Washington,Under Investigation,,
+252776,Chemical Release/Spill,2024-06-14,2024-06-12,Baltimore,Under Investigation,21224,
+252775,"Odor, Sewage/Sludge Release",2024-06-14,2024-06-14,Baltimore,Under Investigation,21234,
 252774,"Nontidal Wetlands, Sediment",2024-06-13,2024-06-06,Washington,Under Investigation,21750,
 252773,Non-Tidal Wetlands/Waterway,2024-06-13,2024-04-11,Prince George's,Under Investigation,,
 252771,Tidal Wetlands,2024-06-13,2024-06-11,Queen Anne's,Under Investigation,21666,
 252763,Nontidal Wetlands,2024-06-12,2024-06-11,Worcester,Under Investigation,21851,
 252762,Industrial,2024-06-12,2024-06-11,Talbot,Under Investigation,21601,
 252755,"Nontidal Wetlands, Sediment",2024-06-12,2024-06-11,Garrett,Under Investigation,21550,
-252754,"Sewage/Sludge Release, Tidal Wetlands",2024-06-11,2024-06-06,Anne Arundel,Incident Closed-Managed,,2024-06-13
+252754,"Sewage/Sludge Release, Tidal Wetlands",2024-06-11,2024-06-06,Anne Arundel,Under Investigation,20779,
 252753,Tidal Wetlands,2024-06-11,2024-05-24,Cecil,Under Investigation,21901,
 252747,Tidal Wetlands,2024-06-11,2024-05-22,Worcester,Under Investigation,21811,
 252746,Nontidal Wetlands,2024-06-11,2024-06-03,Worcester,Under Investigation,21851,
@@ -223,6 +226,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232339,Agricultural,2024-03-14,2024-03-14,Washington,Referred to Outside Agency,,
 232337,Sewage/Sludge Release,2024-03-14,2024-03-14,Charles,Clean-up Initiated,20602,
 232337,Sewage/Sludge Release,2024-03-14,2024-03-14,Charles,Clean-up Initiated,20602,
+232336,Tidal Wetlands,2024-03-14,2024-03-11,Worcester,Under Investigation,21842,
 232336,Tidal Wetlands,2024-03-14,2024-03-11,Worcester,Under Investigation,21842,
 232336,Tidal Wetlands,2024-03-14,2024-03-11,Worcester,Under Investigation,21842,
 232333,Illegal Discharge or Outfall,2024-03-14,2024-03-08,Carroll,Under Investigation,21074,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161103,Nontidal Wetlands,2023-06-09,2023-06-08,Harford,Under Investigation,21132,
 161100,Chemical Release/Spill,2023-06-09,2023-06-08,Harford,Incident Closed-Managed,21017,2024-03-07
 161099,Sediment,2023-06-09,2023-06-05,Wicomico,Incident Closed - No further action,21801,2023-07-20
-161099,Sediment,2023-06-09,2023-06-05,Wicomico,Incident Closed - No further action,21801,2023-07-20
-161098,Tidal Wetlands,2023-06-09,2023-06-08,Queen Anne's,Incident Closed - No further action,21638,2023-07-20
-161097,Industrial,2023-06-09,2023-06-07,Kent,Incident Closed-Clean-up Completed,21620,2023-07-05
-161096,Nontidal Wetlands,2023-06-09,2023-06-05,Frederick,Referred to Outside Agency,,
