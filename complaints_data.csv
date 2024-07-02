@@ -17,6 +17,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 252798,"Floodplain, Possible Permit Violation, Sediment",2024-06-20,2024-06-20,Anne Arundel,Under Investigation,21108,
 252796,"Sewage/Sludge Release, Water Pollutant Release",2024-06-20,2024-06-19,Charles,Incident Closed - No further action,20658,2024-06-20
 252795,"Other, Stormwater",2024-06-18,2024-06-18,Calvert,Under Investigation,20688,
+252795,"Other, Stormwater",2024-06-18,2024-06-18,Calvert,Under Investigation,20688,
 252794,Tidal Wetlands,2024-06-18,2024-06-18,Queen Anne's,Under Investigation,21619,
 252791,Illegal Discharge or Outfall,2024-06-18,2024-06-18,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-06-24
 252790,Nontidal Wetlands,2024-06-18,2024-04-10,Dorchester,Under Investigation,21613,
@@ -30,6 +31,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 252780,Non-Tidal Wetlands/Waterway,2024-06-17,2024-06-15,Allegany,Under Investigation,21502,
 252778,Sediment/ Stormwater Problem,2024-06-14,2024-06-14,Washington,Under Investigation,21711,
 252776,Chemical Release/Spill,2024-06-14,2024-06-12,Baltimore,Under Investigation,21224,
+252775,"Odor, Sewage/Sludge Release",2024-06-14,2024-06-14,Baltimore,Under Investigation,21234,
 252775,"Odor, Sewage/Sludge Release",2024-06-14,2024-06-14,Baltimore,Under Investigation,21234,
 252774,"Nontidal Wetlands, Sediment",2024-06-13,2024-06-06,Washington,Under Investigation,21750,
 252773,Non-Tidal Wetlands/Waterway,2024-06-13,2024-04-11,Prince George's,Under Investigation,,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 161149,"Illegal Wetland Alteration, Nontidal Wetlands",2023-06-21,2023-06-21,Anne Arundel,Incident Closed-Clean-up Completed,21201,2024-02-14
 161149,"Illegal Wetland Alteration, Nontidal Wetlands",2023-06-21,2023-06-21,Anne Arundel,Incident Closed-Clean-up Completed,21201,2024-02-14
 161148,Sediment,2023-06-21,2023-06-21,Washington,Under Investigation,21740,
-161147,"Illegal Discharge or Outfall, Illegal Dumping, Odor, Sewage/Sludge Release",2023-06-21,2023-06-21,Baltimore,Referred to Outside Agency,21224,
-161145,Illegal Discharge or Outfall,2023-06-21,2023-05-23,Frederick,Referred to Outside Agency,,
