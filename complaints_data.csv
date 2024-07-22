@@ -1,4 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+272912,Industrial,2024-07-21,2024-05-20,Queen Anne's,Under Investigation,21619,
+272911,Sediment,2024-07-21,2024-07-12,Queen Anne's,Under Investigation,21657,
+272910,Stormwater,2024-07-21,2024-07-15,Talbot,Under Investigation,21601,
+272909,Tidal Wetlands,2024-07-21,2024-07-18,Cecil,Under Investigation,21901,
+272908,Sediment,2024-07-21,2024-07-19,Talbot,Under Investigation,21601,
 272907,Illegal Dam,2024-07-19,2024-07-19,Washington,Under Investigation,,
 272906,Sediment,2024-07-19,2024-07-19,Baltimore,Under Investigation,,
 272905,Non-Tidal Wetlands/Waterway,2024-07-19,2024-07-18,Carroll,Under Investigation,,
@@ -994,8 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 171275,Sediment,2023-07-20,2023-07-20,Washington,Under Investigation,21722,
 171274,Other,2023-07-20,2023-07-20,Washington,Under Investigation,21740,
 171274,Other,2023-07-20,2023-07-20,Washington,Under Investigation,21740,
-171274,Other,2023-07-20,2023-07-20,Washington,Under Investigation,21740,
-171273,"Other, Possible Permit Violation",2023-07-20,2023-07-20,Anne Arundel,Incident Closed-Managed,21090,2023-08-07
-171272,Other,2023-07-20,2023-07-20,Frederick,Incident Closed-Managed,,2023-07-20
-171271,Stormwater,2023-07-19,2023-07-18,Montgomery,Under Investigation,,
-171270,Other,2023-07-19,2023-07-19,Baltimore,Under Investigation,,
