@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+272919,Illegal Dam,2024-07-23,2024-07-19,Prince George's,Under Investigation,20607,
+272918,Tidal Wetlands,2024-07-23,2024-07-19,Calvert,Under Investigation,20688,
+272917,"Illegal Discharge or Outfall, Municipal Non-Complying Discharge, Stormwater",2024-07-23,2024-07-23,Charles,Under Investigation,20616,
 272914,Fish Kill,2024-07-22,2024-07-19,Carroll,Under Investigation,21158,
 272912,Industrial,2024-07-21,2024-05-20,Queen Anne's,Under Investigation,21619,
 272911,Sediment,2024-07-21,2024-07-12,Queen Anne's,Under Investigation,21657,
@@ -106,6 +109,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 252795,"Other, Stormwater",2024-06-18,2024-06-18,Calvert,Incident Closed-Clean-up Completed,20688,2024-07-02
 252794,Tidal Wetlands,2024-06-18,2024-06-18,Queen Anne's,Under Investigation,21619,
 252791,Illegal Discharge or Outfall,2024-06-18,2024-06-18,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-07-17
+252790,Nontidal Wetlands,2024-06-18,2024-04-10,Dorchester,Under Investigation,21613,
 252790,Nontidal Wetlands,2024-06-18,2024-04-10,Dorchester,Under Investigation,21613,
 252790,Nontidal Wetlands,2024-06-18,2024-04-10,Dorchester,Under Investigation,21613,
 252789,Municipal,2024-06-18,2024-06-17,Allegany,Under Investigation,21502,
@@ -347,8 +351,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232367,Illegal Dumping,2024-03-20,2024-03-20,Anne Arundel,Referred to Outside Agency,,
 232366,Odor,2024-03-20,2024-03-15,Anne Arundel,Incident Closed - No further action,,2024-03-20
 232362,Tidal Wetlands,2024-03-19,2024-03-18,Worcester,Under Investigation,21842,
-232349,Non-Tidal Wetlands/Waterway,2024-03-18,2024-03-15,Charles,Under Investigation,20640,
-232349,Non-Tidal Wetlands/Waterway,2024-03-18,2024-03-15,Charles,Under Investigation,20640,
+232349,Non-Tidal Wetlands/Waterway,2024-03-18,2024-03-15,Charles,Incident Closed-No Violation Observed,20640,2024-07-23
+232349,Non-Tidal Wetlands/Waterway,2024-03-18,2024-03-15,Charles,Incident Closed-No Violation Observed,20640,2024-07-23
 232347,Sewage/Sludge Release,2024-03-16,2024-03-16,Dorchester,,,
 232346,Nontidal Wetlands,2024-03-15,2024-03-14,Washington,Under Investigation,21740,
 232345,Municipal,2024-03-15,2024-03-15,Howard,Under Investigation,20763,
@@ -365,8 +369,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232328,Nontidal Wetlands,2024-03-13,2024-03-12,Washington,Under Investigation,21713,
 232327,"Illegal Dumping, Non-Tidal Wetlands/Waterway, Sediment",2024-03-13,2024-03-13,Baltimore,Incident Closed-No Violation Observed,21208,2024-03-20
 232318,"Industrial, Stormwater",2024-03-12,2024-03-12,Charles,Referred to Outside Agency,20640,
-232317,Non-Tidal Wetlands/Waterway,2024-03-12,2024-02-12,Charles,Under Investigation,20640,
-232317,Non-Tidal Wetlands/Waterway,2024-03-12,2024-02-12,Charles,Under Investigation,20640,
+232317,Non-Tidal Wetlands/Waterway,2024-03-12,2024-02-12,Charles,Incident Closed-No Violation Observed,20640,2024-07-23
+232317,Non-Tidal Wetlands/Waterway,2024-03-12,2024-02-12,Charles,Incident Closed-No Violation Observed,20640,2024-07-23
 232310,Sediment,2024-03-12,2024-03-12,Anne Arundel,Incident Closed-Managed,21410,2024-06-18
 232297,"Non-Tidal Wetlands/Waterway, Suspected Operation without Permit",2024-03-12,2024-03-12,Calvert,Incident Closed-No Violation Observed,20639,2024-05-07
 232297,"Non-Tidal Wetlands/Waterway, Suspected Operation without Permit",2024-03-12,2024-03-12,Calvert,Incident Closed-No Violation Observed,20639,2024-05-07
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181279,Illegal Dumping,2023-07-22,2023-07-22,Baltimore City,Incident Closed-No Violation Observed,,2024-03-06
 181277,Illegal Dumping,2023-07-21,2023-07-21,Anne Arundel,Under Investigation,21032,
 181276,Water Pollutant Release,2023-07-21,2023-07-19,Outside of Maryland,Incident Closed-Managed,21795,2024-02-13
-171277,Sediment,2023-07-20,2023-07-20,St. Mary's,Referred to Enforcement/Compliance,20653,
-171276,Sediment,2023-07-20,2023-06-07,Harford,Incident Closed-Managed,,2023-08-21
-171275,Sediment,2023-07-20,2023-07-20,Washington,Under Investigation,21722,
-171274,Other,2023-07-20,2023-07-20,Washington,Under Investigation,21740,
