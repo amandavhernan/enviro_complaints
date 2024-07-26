@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+272927,Industrial Non-Complying Discharge,2024-07-25,2024-07-25,Queen Anne's,Under Investigation,21623,
+272926,"Industrial Non-Complying Discharge, Oil Release/Spill (Surface), Possible Permit Violation",2024-07-25,2024-07-25,Baltimore City,Under Investigation,21224,
 272925,Illegal Discharge or Outfall,2024-07-24,2024-07-24,Baltimore,Under Investigation,,
 272924,Non-Tidal Wetlands/Waterway,2024-07-24,2024-07-24,Washington,Under Investigation,,
 272923,Tidal Wetlands,2024-07-24,2024-07-23,Wicomico,Under Investigation,21837,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181288,Tidal Wetlands,2023-07-25,2023-07-25,Wicomico,Incident Closed-Managed,21801,2023-07-26
 181287,"Sediment, Stormwater",2023-07-25,2023-07-25,Anne Arundel,Referred to Outside Agency,,
 181286,"Sediment, Tidal Wetlands",2023-07-25,2023-07-25,Anne Arundel,Incident Closed-Managed,21409,2024-03-06
-181285,Nontidal Wetlands,2023-07-24,2023-07-19,Dorchester,Under Investigation,21648,
-181282,Drinking Water,2023-07-22,2023-07-22,Baltimore City,Under Investigation,,
