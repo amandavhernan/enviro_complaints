@@ -1,9 +1,14 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+272957,Sediment,2024-08-02,2024-08-02,Harford,Under Investigation,21085,
+272956,Surface Water Quality Complaint,2024-08-02,2024-08-02,Anne Arundel,Under Investigation,21122,
+272955,Sewage/Sludge Release,2024-08-02,2024-08-02,Baltimore,Referred to Outside Agency,,
+272953,Sediment/ Stormwater Problem,2024-08-02,2024-07-30,Allegany,Under Investigation,21766,
+272952,Sediment,2024-08-02,2024-08-01,Talbot,Under Investigation,21601,
 272951,Tidal Wetlands,2024-08-01,2024-07-29,Cecil,Under Investigation,,
 272950,Stormwater,2024-08-01,2024-07-24,Cecil,Under Investigation,21915,
 272949,Non-Tidal Wetlands/Waterway,2024-07-31,2024-07-09,Garrett,Under Investigation,21531,
 272948,"Illegal Wetland Alteration, Nontidal Wetlands",2024-07-31,2024-07-24,Anne Arundel,Under Investigation,,
-272947,Agricultural,2024-07-31,2024-07-26,Washington,Under Investigation,,
+272947,Agricultural,2024-07-31,2024-07-26,Washington,Under Investigation,21795,
 272946,Oil Release/Spill,2024-07-31,2024-07-31,Charles,Under Investigation,20625,
 272945,Illegal Discharge or Outfall,2024-07-31,2024-07-31,Baltimore City,Under Investigation,21202,
 272944,Sediment,2024-07-31,2024-07-31,St. Mary's,Referred to Enforcement/Compliance,20653,
@@ -454,6 +459,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232256,Other,2024-03-08,2024-03-04,Frederick,Under Investigation,21790,
 232256,Other,2024-03-08,2024-03-04,Frederick,Under Investigation,21790,
 232256,Other,2024-03-08,2024-03-04,Frederick,Under Investigation,21790,
+232256,Other,2024-03-08,2024-03-04,Frederick,Under Investigation,21790,
 232255,"Illegal Discharge or Outfall, Nontidal Wetlands, Oil Release/Spill, Waste",2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21144,2024-03-22
 232255,"Illegal Discharge or Outfall, Nontidal Wetlands, Oil Release/Spill, Waste",2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21144,2024-03-22
 232254,Oil Release/Spill,2024-03-07,2024-02-28,Prince George's,Referred to Outside Agency,,
@@ -591,6 +597,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222013,Water Pollutant Release,2024-01-25,2024-01-25,Baltimore City,Under Investigation,21230,
 222011,"Suspected Operation without Permit, Water Pollutant Release",2024-01-24,2024-01-24,Baltimore,Under Investigation,21227,
 222006,Suspected Operation without Permit,2024-01-24,2024-01-24,Anne Arundel,Incident Closed-Managed,21409,2024-02-05
+222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
@@ -992,10 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181345,Other,2023-08-08,2023-08-04,Allegany,Incident Closed-Managed,21562,2023-09-27
 181344,"Possible Permit Violation, Sediment",2023-08-08,2023-08-08,Calvert,Referred to Outside Agency,,
 181342,Sediment,2023-08-07,2023-08-07,Allegany,Incident Closed - No further action,21562,2024-03-21
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
-181341,Sediment,2023-08-04,2023-08-04,Frederick,Incident Closed - No further action,21778,2023-09-22
-181340,"Non-Tidal Wetlands/Waterway, Sediment, Suspected Operation without Permit",2023-08-04,2023-08-04,Anne Arundel,Incident Closed-No Violation Observed,21122,2023-08-17
