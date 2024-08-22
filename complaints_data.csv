@@ -1,6 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
 273023,Illegal Discharge or Outfall,2024-08-20,2024-08-20,Baltimore,Under Investigation,,
 273022,Suspected Operation without Permit,2024-08-20,2024-08-20,Baltimore City,Under Investigation,21218,
+273021,Drinking Water,2024-08-20,2023-06-21,Garrett,Referred to WMA,,
 273020,"Non-Tidal Wetlands/Waterway, Sediment/ Stormwater Problem",2024-08-20,2024-08-16,Frederick,Under Investigation,21771,
 273018,Tidal Wetlands,2024-08-19,2024-08-16,Anne Arundel,Under Investigation,21409-621,
 273017,Other,2024-08-19,2024-08-19,Baltimore City,Under Investigation,,
@@ -10,7 +11,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 273011,"Drinking Water, Illegal Discharge or Outfall",2024-08-16,2024-08-15,Baltimore,Referred to Enforcement/Compliance,21128,
 273010,Illegal Discharge or Outfall,2024-08-16,2024-08-16,Baltimore,Under Investigation,21031,
 273009,Municipal/SSO,2024-08-16,2024-07-11,Baltimore City,Under Investigation,21218,
-273008,"Equipment Malfunction, Municipal Non-Complying Discharge",2024-08-16,2024-08-16,Charles,Incident Closed-Clean-up Completed,20646,2024-08-19
+273008,"Equipment Malfunction, Municipal Non-Complying Discharge",2024-08-16,2024-08-16,Charles,Incident Closed-Clean-up Completed,20646,2024-08-21
 273006,Sewage/Sludge Release,2024-08-15,2024-08-11,Baltimore City,Under Investigation,21209,
 273005,Sediment,2024-08-15,2024-08-13,Wicomico,Under Investigation,21850,
 273005,Sediment,2024-08-15,2024-08-13,Wicomico,Under Investigation,21850,
@@ -28,7 +29,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 272993,Industrial,2024-08-09,2024-08-09,Baltimore,Under Investigation,21220,
 272990,Agricultural,2024-08-09,2024-08-08,Carroll,Under Investigation,21787,
 272988,Sediment,2024-08-08,2024-08-08,Harford,Under Investigation,21078,
-272984,"Non-Tidal Wetlands/Waterway, Other",2024-08-08,2024-08-08,Calvert,Under Investigation,20657,
+272984,"Non-Tidal Wetlands/Waterway, Other",2024-08-08,2024-08-08,Calvert,Incident Closed-No Violation Observed,20657,2024-08-21
 272983,Sediment,2024-08-08,2024-08-08,St. Mary's,Referred to Enforcement/Compliance,,
 272982,"Illegal Discharge or Outfall, Odor, Possible Permit Violation, Stormwater",2024-08-08,2024-08-08,Baltimore City,Under Investigation,21226,
 272981,Sediment,2024-08-08,2024-08-08,Washington,Under Investigation,21758,
@@ -73,7 +74,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 272927,Industrial Non-Complying Discharge,2024-07-25,2024-07-25,Queen Anne's,Under Investigation,21623,
 272926,"Industrial Non-Complying Discharge, Oil Release/Spill (Surface), Possible Permit Violation",2024-07-25,2024-07-25,Baltimore City,Incident Closed-No Violation Observed,21224,2024-07-29
 272925,Illegal Discharge or Outfall,2024-07-24,2024-07-24,Baltimore,Incident Closed - No further action,,2024-07-26
-272924,Non-Tidal Wetlands/Waterway,2024-07-24,2024-07-24,Washington,Under Investigation,,
+272924,Non-Tidal Wetlands/Waterway,2024-07-24,2024-07-24,Washington,Under Investigation,25419,
 272923,Tidal Wetlands,2024-07-24,2024-07-23,Wicomico,Under Investigation,21837,
 272919,Illegal Dam,2024-07-23,2024-07-19,Prince George's,Under Investigation,20607,
 272919,Illegal Dam,2024-07-23,2024-07-19,Prince George's,Under Investigation,20607,
@@ -99,6 +100,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 272894,Possible Permit Violation,2024-07-16,2024-07-16,Charles,Referred to Outside Agency,,
 272893,"Groundwater Contamination, Stormwater, Water Pollutant Release",2024-07-16,2024-07-15,St. Mary's,Under Investigation,,
 272892,Nontidal Wetlands,2024-07-16,2024-07-12,Queen Anne's,Under Investigation,,
+272891,Nontidal Wetlands,2024-07-16,2024-07-01,Worcester,Under Investigation,,
 272891,Nontidal Wetlands,2024-07-16,2024-07-01,Worcester,Under Investigation,,
 272890,Possible Permit Violation,2024-07-16,2024-07-16,St. Mary's,Under Investigation,,
 272889,Sediment,2024-07-16,2024-07-15,Washington,Under Investigation,21795,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Incident Closed-No Violation Observed,20657,2023-09-25
 181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Incident Closed-No Violation Observed,20657,2023-09-25
 181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Incident Closed-No Violation Observed,20657,2023-09-25
-181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Incident Closed-No Violation Observed,20657,2023-09-25
-181415,Nontidal Wetlands,2023-08-28,2023-08-18,Montgomery,Incident Closed-Managed,20872,2024-06-24
