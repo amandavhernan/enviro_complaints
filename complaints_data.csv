@@ -1,5 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
-273023,Illegal Discharge or Outfall,2024-08-20,2024-08-20,Baltimore,Under Investigation,,
+273028,Illegal Dumping,2024-08-22,2024-07-26,Harford,Under Investigation,21078,
+273027,Suspected Operation without Permit,2024-08-22,2024-08-22,Baltimore,Referred to Outside Agency,21030,
+273026,Tidal Wetlands,2024-08-19,2024-08-19,Calvert,Under Investigation,20685,
+273024,"Other, Water Pollutant Release",2024-08-20,2024-08-20,Baltimore,Under Investigation,21031,
+273023,Illegal Discharge or Outfall,2024-08-20,2024-08-20,Baltimore,Incident Closed - No further action,,2024-08-21
 273022,Suspected Operation without Permit,2024-08-20,2024-08-20,Baltimore City,Under Investigation,21218,
 273021,Drinking Water,2024-08-20,2023-06-21,Garrett,Referred to WMA,,
 273020,"Non-Tidal Wetlands/Waterway, Sediment/ Stormwater Problem",2024-08-20,2024-08-16,Frederick,Under Investigation,21771,
@@ -13,6 +17,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 273009,Municipal/SSO,2024-08-16,2024-07-11,Baltimore City,Under Investigation,21218,
 273008,"Equipment Malfunction, Municipal Non-Complying Discharge",2024-08-16,2024-08-16,Charles,Incident Closed-Clean-up Completed,20646,2024-08-21
 273006,Sewage/Sludge Release,2024-08-15,2024-08-11,Baltimore City,Under Investigation,21209,
+273005,Sediment,2024-08-15,2024-08-13,Wicomico,Under Investigation,21850,
 273005,Sediment,2024-08-15,2024-08-13,Wicomico,Under Investigation,21850,
 273005,Sediment,2024-08-15,2024-08-13,Wicomico,Under Investigation,21850,
 273004,"Fish Kill, Water Pollutant Release",2024-08-14,2024-08-14,Anne Arundel,Incident Closed-Managed,,2024-08-19
@@ -657,7 +662,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222017,Possible Permit Violation,2024-01-26,2024-01-26,Anne Arundel,Incident Closed-Managed,21012,2024-01-31
 222013,Water Pollutant Release,2024-01-25,2024-01-25,Baltimore City,Under Investigation,21230,
 222011,"Suspected Operation without Permit, Water Pollutant Release",2024-01-24,2024-01-24,Baltimore,Under Investigation,21227,
-222006,Suspected Operation without Permit,2024-01-24,2024-01-24,Anne Arundel,Incident Closed-Managed,21409,2024-08-19
+222006,Suspected Operation without Permit,2024-01-24,2024-01-24,Anne Arundel,Under Investigation,21409,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
@@ -994,8 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181432,"Illegal Dumping, Other, Sediment",2023-08-31,2023-08-31,Baltimore City,Under Investigation,,
 181431,Agricultural,2023-08-31,2023-08-30,Frederick,Under Investigation,21771,
 181431,Agricultural,2023-08-31,2023-08-30,Frederick,Under Investigation,21771,
-181429,Tidal Wetlands,2023-08-31,2023-08-25,Talbot,Incident Closed - No further action,21663,2023-10-03
-181428,Sediment,2023-08-30,2023-08-29,Frederick,Incident Closed-Managed,21774,2023-08-30
-181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Incident Closed-No Violation Observed,20657,2023-09-25
-181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Incident Closed-No Violation Observed,20657,2023-09-25
-181423,"Illegal Dumping, Sewage/Sludge Release",2023-08-29,2023-08-29,Calvert,Incident Closed-No Violation Observed,20657,2023-09-25
