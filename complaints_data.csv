@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+283077,"Illegal Discharge or Outfall, Industrial Non-Complying Discharge",2024-09-02,2024-09-02,Baltimore City,Under Investigation,,
 283076,Tidal Wetlands,2024-08-30,2024-08-30,Anne Arundel,Under Investigation,21122,
 283074,"Sediment/ Stormwater Problem, Suspected Operation without Permit",2024-08-30,2024-08-30,Harford,Under Investigation,21085,
 283074,"Sediment/ Stormwater Problem, Suspected Operation without Permit",2024-08-30,2024-08-30,Harford,Under Investigation,21047,
@@ -63,8 +64,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 272977,Sediment/ Stormwater Problem,2024-08-07,2024-08-07,Anne Arundel,Incident Closed-Managed,21035,2024-08-30
 272975,Other,2024-08-07,2024-08-07,Allegany,Incident Closed-Managed,21502,2024-08-07
 272973,Sewage/Sludge Release,2024-08-06,2024-08-06,Baltimore,Referred to Outside Agency,,
-272968,Sediment,2024-08-05,2024-07-29,Charles,Under Investigation,,
-272967,Suspected Operation without Permit,2024-08-05,2024-08-05,Charles,Under Investigation,20693,
+272968,Sediment,2024-08-05,2024-07-29,Charles,Referred to Outside Agency,20603,
+272967,Suspected Operation without Permit,2024-08-05,2024-08-05,Charles,Incident Closed-Managed,20693,2024-09-02
 272965,Tidal Wetlands,2024-08-05,2024-08-02,Anne Arundel,Incident Closed-Managed,21037,2024-08-15
 272964,"Sediment, Sediment/ Stormwater Problem",2024-08-05,2024-08-05,Baltimore,Referred to Outside Agency,21111,
 272960,Oil Release/Spill (Surface),2024-08-05,2024-08-05,Calvert,Incident Closed-Managed,20657,2024-08-06
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181469,Tidal Wetlands,2023-09-08,2023-08-23,Wicomico,Under Investigation,21837,
 181468,Tidal Wetlands,2023-09-07,2023-08-21,Prince George's,Under Investigation,20744,
 181468,Tidal Wetlands,2023-09-07,2023-08-21,Prince George's,Under Investigation,20744,
-181467,Nontidal Wetlands,2023-09-07,2023-09-07,Washington,Under Investigation,,
