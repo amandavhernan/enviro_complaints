@@ -1,6 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+293198,Nontidal Wetlands,2024-09-30,2024-09-26,Talbot,Under Investigation,,
+293197,Tidal Wetlands,2024-09-30,2024-09-17,Anne Arundel,Under Investigation,21060,
+293196,Nontidal Wetlands,2024-09-30,2024-09-25,Somerset,Under Investigation,21821,
 293194,Sediment/ Stormwater Problem,2024-09-27,2024-09-27,Charles,Under Investigation,20646,
-293193,"Industrial, Sediment/ Stormwater Problem",2024-09-27,2024-09-27,Anne Arundel,Under Investigation,21122,
+293193,"Industrial, Sediment/ Stormwater Problem",2024-09-27,2024-09-27,Anne Arundel,Referred to Outside Agency,21122,
 293191,Sewage/Sludge Release,2024-09-26,2024-09-26,Baltimore,Incident Closed - No further action,,2024-09-27
 293190,Non-Tidal Wetlands/Waterway,2024-09-26,2024-09-24,Garrett,Under Investigation,21550,
 293189,Tidal Wetlands,2024-09-25,2024-09-24,Wicomico,Under Investigation,21804,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 181623,Air,2023-10-18,2023-10-12,Allegany,Referred to ARA,21540-109,
 181620,Water Pollutant Release,2023-10-17,2023-08-03,Carroll,Under Investigation,21158,
 181619,"Agricultural, Industrial, Unknown Substance",2023-10-17,2023-10-05,Baltimore City,Incident Closed-Clean-up Completed,21224,2024-02-05
-181618,"Possible Permit Violation, Tidal Wetlands",2023-10-17,2023-10-16,Anne Arundel,Incident Closed-Managed,21409,2024-02-12
-181614,Sediment,2023-10-16,2023-10-16,Washington,Incident Closed-Managed,21740,2024-09-17
-181610,Sediment,2023-10-13,2023-10-05,Washington,Incident Closed-Managed,21756,2024-09-17
