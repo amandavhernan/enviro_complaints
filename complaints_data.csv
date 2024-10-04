@@ -1,9 +1,13 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+293235,"Illegal Dumping, Sewage/Sludge Release",2024-10-03,2024-09-30,Charles,Under Investigation,,
+293234,"Possible Permit Violation, Sediment/ Stormwater Problem",2024-10-03,2024-10-03,Baltimore City,Under Investigation,21231,
+293233,Suspected Operation without Permit,2024-10-03,2024-10-03,Baltimore,Under Investigation,21286,
+293232,"Stormwater, Structural Failure",2024-10-02,2024-10-02,Baltimore,Referred to Outside Agency,21208,
 293223,Non-Tidal Wetlands/Waterway,2024-10-02,2024-09-27,Outside of Maryland,Under Investigation,25419,
 293222,Sediment,2024-10-02,2024-09-27,Washington,Under Investigation,21742,
 293221,Tidal Wetlands,2024-10-02,2024-10-02,St. Mary's,Under Investigation,20653,
-293211,Nontidal Wetlands,2024-10-01,2019-06-24,Anne Arundel,Under Investigation,21037,
-293206,Nontidal Wetlands,2024-10-01,2019-05-13,Anne Arundel,Under Investigation,20751,
+293211,Nontidal Wetlands,2024-10-01,2019-06-24,Anne Arundel,Incident Closed-Managed,21037,2024-10-03
+293206,Nontidal Wetlands,2024-10-01,2019-05-13,Anne Arundel,Incident Closed-Managed,20751,2024-10-03
 293202,Sediment,2024-10-01,2024-09-25,Garrett,Under Investigation,21550,
 293201,Sediment/ Stormwater Problem,2024-10-01,2024-09-23,Garrett,Under Investigation,21550,
 293200,Sediment/ Stormwater Problem,2024-10-01,2024-10-01,Charles,Referred to WMA,20646,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 191668,Illegal Discharge or Outfall,2023-10-27,2023-10-27,Baltimore City,Under Investigation,,
 191666,Sediment,2023-10-26,2023-10-26,Baltimore City,Under Investigation,,
 191654,Floodplain,2023-10-25,2023-10-24,Prince George's,Under Investigation,20772,
-191653,Water Pollutant Release,2023-10-25,2023-10-25,Baltimore City,Incident Closed-No Violation Observed,21230,2023-10-25
-191652,Other,2023-10-25,2023-10-25,Garrett,Incident Closed - No further action,21550,2024-03-21
-191651,"Illegal Wetland Alteration, Industrial",2023-10-25,2023-10-25,Baltimore,Under Investigation,21222,
-191649,"Illegal Wetland Alteration, Industrial",2023-10-25,2023-10-25,Baltimore,Under Investigation,21222,
