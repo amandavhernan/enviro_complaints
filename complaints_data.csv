@@ -1,9 +1,10 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+303347,Oil Release/Spill (Open Water),2024-11-04,2024-11-04,St. Mary's,Referred to Outside Agency,,
 303345,Unknown Substance,2024-11-03,2024-10-30,Anne Arundel,Referred to Outside Agency,,
 303344,Oil Release/Spill (Open Water),2024-11-01,2024-10-30,Calvert,Under Investigation,,
 303343,Air,2024-11-01,2024-11-01,Allegany,Under Investigation,21501,
-303338,Odor,2024-10-31,2024-10-31,Baltimore City,Under Investigation,,
-303336,Water Pollutant Release,2024-10-31,2024-10-31,Baltimore City,Under Investigation,,
+303338,Odor,2024-10-31,2024-10-31,Baltimore City,Incident Closed-Managed,21230,2024-10-31
+303336,Water Pollutant Release,2024-10-31,2024-10-31,Baltimore City,Incident Closed-Managed,21230,2024-10-31
 303334,"Sediment, Structural Failure, Tidal Wetlands",2024-10-31,2024-10-31,Charles,Under Investigation,20625,
 303333,Illegal Dumping,2024-10-31,2024-10-30,Carroll,Referred to Outside Agency,,
 303332,Non-Tidal Wetlands/Waterway,2024-10-31,2024-10-30,Carroll,Under Investigation,,
@@ -114,6 +115,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 283145,Tidal Wetlands,2024-09-16,2024-09-12,Queen Anne's,Under Investigation,21666,
 283144,Sediment/ Stormwater Problem,2024-09-16,2024-09-10,Anne Arundel,Incident Closed-No Violation Observed,21054,2024-09-13
 283144,Sediment/ Stormwater Problem,2024-09-16,2024-09-10,Anne Arundel,Incident Closed-No Violation Observed,21054,2024-09-13
+283143,Other,2024-09-16,2024-09-16,Baltimore,Referred to Outside Agency,,
 283142,Sewage/Sludge Release,2024-09-16,2024-09-16,Harford,Incident Closed-Managed,21078,2024-09-18
 283140,Tidal Wetlands,2024-09-16,2024-09-13,Harford,Incident Closed - No further action,21085,2024-10-01
 283137,"Illegal Wetland Alteration, Suspected Operation without Permit",2024-09-13,2024-09-13,Harford,Incident Closed-No Violation Observed,21161,2024-10-08
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 191815,Illegal Discharge or Outfall,2023-11-30,2023-11-30,Montgomery,Incident Closed-No Violation Observed,20879,2024-10-21
 191814,Tidal Wetlands,2023-11-30,2023-11-30,Anne Arundel,Incident Closed-Managed,21037,2024-02-29
 191814,Tidal Wetlands,2023-11-30,2023-11-30,Anne Arundel,Incident Closed-Managed,21037,2024-02-29
-191813,Tidal Wetlands,2023-11-30,2023-11-30,Anne Arundel,Incident Closed-Managed,21037,2024-02-12
-191811,Oil Release/Spill,2023-11-30,2023-11-30,Anne Arundel,Incident Closed-Managed,21122,2023-12-05
