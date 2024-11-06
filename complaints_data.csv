@@ -53,8 +53,10 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 293261,Tidal Wetlands,2024-10-11,2024-10-11,Queen Anne's,Under Investigation,21658,
 293259,Nontidal Wetlands,2024-10-10,2024-10-09,Frederick,Referred to Outside Agency,21771,
 293258,"Illegal Wetland Alteration, Tidal Wetlands",2024-10-10,2024-10-10,Harford,Under Investigation,21034,
-293257,"Sediment, Sediment/ Stormwater Problem",2024-10-10,2024-10-10,Anne Arundel,Under Investigation,20755,
-293257,"Sediment, Sediment/ Stormwater Problem",2024-10-10,2024-10-10,Anne Arundel,Under Investigation,20755,
+293257,"Sediment, Sediment/ Stormwater Problem",2024-10-10,2024-10-10,Anne Arundel,Incident Closed-Managed,20755,2024-10-15
+293257,"Sediment, Sediment/ Stormwater Problem",2024-10-10,2024-10-10,Anne Arundel,Incident Closed-Managed,20755,2024-10-15
+293257,"Sediment, Sediment/ Stormwater Problem",2024-10-10,2024-10-10,Anne Arundel,Incident Closed-Managed,20755,2024-10-15
+293257,"Sediment, Sediment/ Stormwater Problem",2024-10-10,2024-10-10,Anne Arundel,Incident Closed-Managed,20755,2024-10-15
 293256,"Suspected Operation without Permit, Tidal Wetlands",2024-10-09,2024-10-08,Calvert,Incident Closed - No further action,20639,2024-10-09
 293255,Sediment,2024-10-09,2024-09-27,Somerset,Under Investigation,21817,
 293253,"Illegal Dumping, Non-Tidal Wetlands/Waterway",2024-10-07,2024-10-07,Anne Arundel,Incident Closed-Managed,21403,2024-10-17
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 201812,Possible Permit Violation,2023-12-04,2023-12-04,Anne Arundel,Incident Closed-Managed,21122,2023-12-28
 201808,"Illegal Discharge or Outfall, Illegal Dumping",2023-12-01,2023-11-30,Baltimore,Incident Closed-Managed,21228,2023-12-01
 191815,Illegal Discharge or Outfall,2023-11-30,2023-11-30,Montgomery,Incident Closed-No Violation Observed,20879,2024-10-21
-191814,Tidal Wetlands,2023-11-30,2023-11-30,Anne Arundel,Incident Closed-Managed,21037,2024-02-29
-191814,Tidal Wetlands,2023-11-30,2023-11-30,Anne Arundel,Incident Closed-Managed,21037,2024-02-29
