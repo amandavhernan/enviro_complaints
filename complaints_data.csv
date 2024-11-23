@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+313412,Sediment,2024-11-22,2024-11-21,Montgomery,Under Investigation,20850,
+313410,Other,2024-11-22,2024-11-21,Washington,Referred to LMA,,
+313407,Industrial,2024-11-22,2024-11-15,Prince George's,Under Investigation,20814,
 303407,Sediment,2024-11-21,2024-11-21,Charles,Referred to Outside Agency,,
 303406,Sediment,2024-11-20,2024-11-14,Worcester,Under Investigation,21863,
 303405,Nontidal Wetlands,2024-11-20,2024-11-14,Dorchester,Under Investigation,21869,
@@ -20,7 +23,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 303368,"Illegal Discharge or Outfall, Odor, Oil Release/Spill (Surface), Sewage/Sludge Release",2024-11-12,2024-11-12,Baltimore City,Referred to Outside Agency,21213,
 303367,Industrial Non-Complying Discharge,2024-11-12,2024-11-08,Worcester,Referred to Outside Agency,21842,
 303360,"Illegal Dumping, Industrial",2024-11-08,2024-11-08,St. Mary's,Under Investigation,20619,
-303359,Illegal Discharge or Outfall,2024-11-07,2024-11-07,Howard,Referred to Outside Agency,21740,
+303359,Illegal Discharge or Outfall,2024-11-07,2024-11-07,Howard,Referred to Outside Agency,,
 303358,Sediment,2024-11-07,2024-11-07,Washington,Under Investigation,21740,
 303357,Sediment/ Stormwater Problem,2024-11-07,2024-11-07,Baltimore City,Under Investigation,21211,
 303356,Odor,2024-11-07,2024-11-07,Baltimore City,Incident Closed-No Violation Observed,21224,2024-11-12
@@ -37,6 +40,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 303334,"Sediment, Structural Failure, Tidal Wetlands",2024-10-31,2024-10-31,Charles,Incident Closed - No further action,20625,2024-11-20
 303333,Illegal Dumping,2024-10-31,2024-10-30,Carroll,Referred to Outside Agency,,
 303332,Non-Tidal Wetlands/Waterway,2024-10-31,2024-10-30,Carroll,Under Investigation,,
+303331,Sediment,2024-10-31,2024-10-28,Wicomico,Under Investigation,21801,
 303331,Sediment,2024-10-31,2024-10-28,Wicomico,Under Investigation,21801,
 303330,Nontidal Wetlands,2024-10-30,2024-10-30,Montgomery,Under Investigation,20901,
 303330,Nontidal Wetlands,2024-10-30,2024-10-30,Montgomery,Under Investigation,20901,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 201897,Sewage/Sludge Release,2023-12-20,2023-12-19,Anne Arundel,Incident Closed-Managed,21122,2024-01-30
 201896,Sediment,2023-12-19,2023-12-18,Howard,Incident Closed-Managed,,2024-10-23
 201895,Sediment,2023-12-19,2023-12-18,Queen Anne's,Incident Closed - No further action,21638,2024-02-23
-201893,Non-Tidal Wetlands/Waterway,2023-12-19,2023-12-19,Anne Arundel,Incident Closed-Managed,,2024-02-29
-201892,Illegal Discharge or Outfall,2023-12-19,2023-12-18,Anne Arundel,Incident Closed-Managed,20711,2024-05-09
-201891,Illegal Discharge or Outfall,2023-12-19,2023-12-18,Anne Arundel,Incident Closed-Managed,20711,2024-02-12
-201890,Sediment,2023-12-19,2023-12-18,Caroline,Incident Closed - No further action,21655,2024-03-15
