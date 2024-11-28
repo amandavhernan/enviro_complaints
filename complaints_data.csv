@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+313417,"Stormwater, Suspected Operation without Permit",2024-11-27,2024-11-27,Baltimore,Under Investigation,21222,
+313415,"Equipment Malfunction, Oil Release/Spill (Surface), Stormwater",2024-11-27,2024-11-14,Harford,Under Investigation,21005,
 313414,Non-Tidal Wetlands/Waterway,2024-11-26,2024-11-25,Garrett,Under Investigation,21550,
 313412,Sediment,2024-11-22,2024-11-21,Montgomery,Under Investigation,20850,
 313410,Other,2024-11-22,2024-11-21,Washington,Referred to LMA,,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 201906,Chemical Release/Spill,2023-12-21,2023-12-21,Baltimore,Incident Closed-Restored,21030,2024-11-01
 201903,"Floodplain, Non-Tidal Wetlands/Waterway",2023-12-20,2023-11-21,Harford,Incident Closed-Managed,21015,2024-03-12
 201903,"Floodplain, Non-Tidal Wetlands/Waterway",2023-12-20,2023-11-21,Harford,Incident Closed-Managed,21015,2024-03-12
-201901,Water Pollutant Release,2023-12-20,2023-12-20,Baltimore,Incident Closed-Managed,21221,2024-10-25
-201897,Sewage/Sludge Release,2023-12-20,2023-12-19,Anne Arundel,Incident Closed-Managed,21122,2024-01-30
