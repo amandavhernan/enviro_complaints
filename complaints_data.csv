@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+313421,Nontidal Wetlands,2024-12-04,2024-12-04,Somerset,Under Investigation,,
+313420,Sediment,2024-12-04,2024-12-04,Washington,Under Investigation,21742,
 313419,Sewage/Sludge Release,2024-12-03,2024-12-03,Calvert,Under Investigation,20732,
 313418,Nontidal Wetlands,2024-12-02,2024-11-27,Worcester,Under Investigation,21851,
 313417,"Stormwater, Suspected Operation without Permit",2024-11-27,2024-11-27,Baltimore,Under Investigation,21222,
@@ -72,7 +74,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 303307,Sediment/ Stormwater Problem,2024-10-26,2024-10-24,Baltimore,Under Investigation,21117,
 303306,Waste,2024-10-25,2024-10-25,Harford,Referred to Outside Agency,,
 303305,Sediment,2024-10-25,2024-10-25,Washington,Under Investigation,,
-303303,"Illegal Discharge or Outfall, Industrial Non-Complying Discharge, Possible Permit Violation",2024-10-25,2024-10-24,Baltimore City,Under Investigation,21226,
+303303,"Illegal Discharge or Outfall, Industrial Non-Complying Discharge, Possible Permit Violation",2024-10-25,2024-10-24,Baltimore City,Referred to Outside Agency,21226,
 303300,Industrial Non-Complying Discharge,2024-10-23,2024-10-23,Anne Arundel,Under Investigation,,
 303299,Non-Tidal Wetlands/Waterway,2024-10-23,2024-10-11,Frederick,Under Investigation,21702,
 303296,Industrial,2024-10-23,2024-10-17,Queen Anne's,Under Investigation,21666,
@@ -502,6 +504,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 252747,Tidal Wetlands,2024-06-11,2024-05-22,Worcester,Under Investigation,21811,
 252747,Tidal Wetlands,2024-06-11,2024-05-22,Worcester,Under Investigation,21811,
 252746,Nontidal Wetlands,2024-06-11,2024-06-03,Worcester,Under Investigation,21851,
+252745,Non-Tidal Wetlands/Waterway,2024-06-10,2024-06-07,Howard,Under Investigation,20794,
 252745,Non-Tidal Wetlands/Waterway,2024-06-10,2024-06-07,Howard,Under Investigation,20794,
 252745,Non-Tidal Wetlands/Waterway,2024-06-10,2024-06-07,Howard,Under Investigation,20794,
 252745,Non-Tidal Wetlands/Waterway,2024-06-10,2024-06-07,Howard,Under Investigation,20794,
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 211927,Industrial Non-Complying Discharge,2023-12-26,2023-12-26,Howard,Incident Closed-Managed,20723,2023-12-26
 211925,Nontidal Wetlands,2023-12-22,2023-12-22,Anne Arundel,Incident Closed-No Violation Observed,21113,2024-01-05
 211917,"Industrial, Water Pollutant Release",2023-12-22,2023-12-22,Baltimore,Incident Closed - No further action,21162,2024-04-10
-211917,"Industrial, Water Pollutant Release",2023-12-22,2023-12-22,Baltimore,Incident Closed - No further action,21162,2024-04-10
-211915,Sediment/ Stormwater Problem,2023-12-22,2023-12-22,Baltimore,Referred to Outside Agency,,
-201906,Chemical Release/Spill,2023-12-21,2023-12-21,Baltimore,Incident Closed-Restored,21030,2024-11-01
