@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+313478,"Sediment, Sediment/ Stormwater Problem",2024-12-12,2024-12-11,Baltimore City,Under Investigation,21231,
+313476,Oil Release/Spill,2024-12-12,2024-12-03,Baltimore City,Referred to LMA,21224,
+313475,Agricultural,2024-12-12,2024-12-11,Carroll,Referred to Outside Agency,,
 313474,Oil Release/Spill (Surface),2024-12-11,2024-12-11,Washington,Referred to LMA,,
 313473,Nontidal Wetlands,2024-12-11,2024-12-11,Howard,Under Investigation,,
 313459,"Surface Water Quality Complaint, Unknown Substance, Water Pollutant Release",2024-12-10,2024-12-10,Montgomery,Under Investigation,20817,
@@ -9,7 +12,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 313455,"Nontidal Wetlands, Sediment/ Stormwater Problem, Suspected Operation without Permit, Water Pollutant Release",2024-12-09,2024-12-07,Baltimore City,Under Investigation,21209,
 313454,Fish Kill,2024-12-09,2024-12-09,Anne Arundel,Under Investigation,21037,
 313452,"Industrial, Other",2024-12-06,2024-12-06,Anne Arundel,Under Investigation,21403,
-313451,Municipal,2024-12-06,2024-12-05,Baltimore City,Under Investigation,,
+313451,Municipal,2024-12-06,2024-12-05,Baltimore City,Incident Closed-Managed,21218,2024-12-06
+313451,Municipal,2024-12-06,2024-12-05,Baltimore City,Incident Closed-Managed,21218,2024-12-06
 313436,"Possible Permit Violation, Suspected Operation without Permit, Tidal Wetlands",2024-12-05,2024-12-05,Anne Arundel,Under Investigation,21122,
 313421,Nontidal Wetlands,2024-12-04,2024-12-04,Somerset,Under Investigation,21853,
 313420,Sediment,2024-12-04,2024-12-04,Washington,Under Investigation,21742,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 211945,Other,2024-01-03,2023-12-21,Caroline,Under Investigation,21660,
 211944,Sediment,2024-01-03,2024-01-02,Worcester,Under Investigation,21863,
 211944,Sediment,2024-01-03,2024-01-02,Worcester,Under Investigation,21863,
-211944,Sediment,2024-01-03,2024-01-02,Worcester,Under Investigation,21863,
-211944,Sediment,2024-01-03,2024-01-02,Worcester,Under Investigation,21863,
-211941,Illegal Dumping,2024-01-03,2024-01-03,Baltimore,Incident Closed-Restored,21222,2024-01-05
-211940,Sediment,2024-01-03,2024-01-03,Dorchester,Incident Closed - No further action,21613,2024-09-20
