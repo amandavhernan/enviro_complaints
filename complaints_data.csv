@@ -1,4 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+313489,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-12,Baltimore,Under Investigation,21111,
+313483,Suspected Operation without Permit,2024-12-13,2024-12-12,Calvert,Create in Error,,
+313482,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-13,Baltimore,Under Investigation,21208,
+313481,Sediment,2024-12-13,2024-12-13,Dorchester,Under Investigation,21835,
+313479,"Suspected Operation without Permit, Tidal Wetlands",2024-12-13,2024-12-13,Calvert,Referred to Outside Agency,20639,
 313478,"Sediment, Sediment/ Stormwater Problem",2024-12-12,2024-12-11,Baltimore City,Under Investigation,21231,
 313476,Oil Release/Spill,2024-12-12,2024-12-03,Baltimore City,Referred to LMA,21224,
 313475,Agricultural,2024-12-12,2024-12-11,Carroll,Referred to Outside Agency,,
@@ -770,6 +775,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232336,Tidal Wetlands,2024-03-14,2024-03-11,Worcester,Under Investigation,21842,
 232336,Tidal Wetlands,2024-03-14,2024-03-11,Worcester,Under Investigation,21842,
 232336,Tidal Wetlands,2024-03-14,2024-03-11,Worcester,Under Investigation,21842,
+232336,Tidal Wetlands,2024-03-14,2024-03-11,Worcester,Under Investigation,21842,
 232333,Illegal Discharge or Outfall,2024-03-14,2024-03-08,Carroll,Under Investigation,21074,
 232329,Tidal Wetlands,2024-03-13,2024-02-01,Prince George's,Incident Closed-Managed,20744,2024-10-23
 232328,Nontidal Wetlands,2024-03-13,2024-03-12,Washington,Incident Closed-Managed,21713,2024-09-17
@@ -993,9 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 211952,Sediment,2024-01-05,2024-01-05,Prince George's,Referred to Enforcement/Compliance,20770,
 211952,Sediment,2024-01-05,2024-01-05,Prince George's,Referred to Enforcement/Compliance,20770,
 211952,Sediment,2024-01-05,2024-01-05,Prince George's,Referred to Enforcement/Compliance,20770,
-211952,Sediment,2024-01-05,2024-01-05,Prince George's,Referred to Enforcement/Compliance,20770,
-211951,Sediment,2024-01-05,2024-01-03,Washington,Incident Closed-Managed,21782,2024-09-19
-211950,"Non-Tidal Wetlands/Waterway, Possible Permit Violation",2024-01-04,2024-01-04,Baltimore,Incident Closed-Managed,,2024-01-08
-211945,Other,2024-01-03,2023-12-21,Caroline,Under Investigation,21660,
-211944,Sediment,2024-01-03,2024-01-02,Worcester,Under Investigation,21863,
-211944,Sediment,2024-01-03,2024-01-02,Worcester,Under Investigation,21863,
