@@ -1,7 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
 313491,Nontidal Wetlands,2024-12-16,2024-12-16,Worcester,Under Investigation,21842,
 313489,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-12,Baltimore,Under Investigation,21111,
+313487,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-09,Washington,Under Investigation,21722-185,
 313483,Suspected Operation without Permit,2024-12-13,2024-12-12,Calvert,Create in Error,,
+313482,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-13,Baltimore,Under Investigation,21202,
 313482,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-13,Baltimore,Under Investigation,21208,
 313481,Sediment,2024-12-13,2024-12-13,Dorchester,Under Investigation,21835,
 313479,"Suspected Operation without Permit, Tidal Wetlands",2024-12-13,2024-12-13,Calvert,Referred to Outside Agency,20639,
@@ -10,6 +12,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 313475,Agricultural,2024-12-12,2024-12-11,Carroll,Referred to Outside Agency,,
 313474,Oil Release/Spill (Surface),2024-12-11,2024-12-11,Washington,Referred to LMA,,
 313473,Nontidal Wetlands,2024-12-11,2024-12-11,Howard,Under Investigation,,
+313459,"Surface Water Quality Complaint, Unknown Substance, Water Pollutant Release",2024-12-10,2024-12-10,Montgomery,Under Investigation,20817,
 313459,"Surface Water Quality Complaint, Unknown Substance, Water Pollutant Release",2024-12-10,2024-12-10,Montgomery,Under Investigation,20817,
 313456,"Possible Permit Violation, Suspected Operation without Permit, Tidal Wetlands",2024-12-09,2024-11-06,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-12-09
 313456,"Possible Permit Violation, Suspected Operation without Permit, Tidal Wetlands",2024-12-09,2024-11-06,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-12-09
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 211962,Sediment,2024-01-09,2024-01-08,Montgomery,Incident Closed-Managed,20833,2024-02-12
 211958,"Agricultural, Sediment",2024-01-09,2024-01-08,Washington,Referred to Outside Agency,21783,
 211957,Oil Release/Spill,2024-01-09,2024-01-05,Carroll,Referred to LMA,,
-211954,Illegal Dumping,2024-01-08,2024-01-08,Harford,Incident Closed - No further action,21013,2024-03-06
-211952,Sediment,2024-01-05,2024-01-05,Prince George's,Referred to Enforcement/Compliance,20770,
-211952,Sediment,2024-01-05,2024-01-05,Prince George's,Referred to Enforcement/Compliance,20770,
