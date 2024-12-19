@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+313496,"Oil Release/Spill (Surface), Water Pollutant Release",2024-12-18,2024-12-17,Anne Arundel,Referred to LMA,21037,
 313491,Nontidal Wetlands,2024-12-16,2024-12-16,Worcester,Under Investigation,21842,
 313489,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-12,Baltimore,Under Investigation,21111,
 313487,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-09,Washington,Under Investigation,21722-185,
@@ -63,7 +64,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 303356,Odor,2024-11-07,2024-11-07,Baltimore City,Incident Closed-No Violation Observed,21224,2024-11-12
 303352,Other,2024-11-07,2024-11-06,Outside of Maryland,Incident Closed-Managed,21501,2024-11-06
 303351,Nontidal Wetlands,2024-11-06,2024-10-30,Somerset,Under Investigation,21853,
-303350,Non-Tidal Wetlands/Waterway,2024-11-06,2024-11-06,Anne Arundel,Under Investigation,21054,
+303350,Non-Tidal Wetlands/Waterway,2024-11-06,2024-11-06,Anne Arundel,Referred to Enforcement/Compliance,21054,
 303349,Sewage/Sludge Release,2024-11-06,2024-11-06,Anne Arundel,Referred to Outside Agency,21060,
 303347,Oil Release/Spill (Open Water),2024-11-04,2024-11-04,St. Mary's,Referred to Outside Agency,,
 303345,Unknown Substance,2024-11-03,2024-10-30,Anne Arundel,Referred to Outside Agency,,
@@ -998,4 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 211962,Sediment,2024-01-09,2024-01-08,Montgomery,Incident Closed-Managed,20833,2024-02-12
 211962,Sediment,2024-01-09,2024-01-08,Montgomery,Incident Closed-Managed,20833,2024-02-12
 211958,"Agricultural, Sediment",2024-01-09,2024-01-08,Washington,Referred to Outside Agency,21783,
-211957,Oil Release/Spill,2024-01-09,2024-01-05,Carroll,Referred to LMA,,
