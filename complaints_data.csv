@@ -114,7 +114,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 303306,Waste,2024-10-25,2024-10-25,Harford,Referred to Outside Agency,,
 303305,Sediment,2024-10-25,2024-10-25,Washington,Under Investigation,,
 303303,"Illegal Discharge or Outfall, Industrial Non-Complying Discharge, Possible Permit Violation",2024-10-25,2024-10-24,Baltimore City,Referred to Outside Agency,,21226
-303300,Industrial Non-Complying Discharge,2024-10-23,2024-10-23,Anne Arundel,Under Investigation,,
+303300,Industrial Non-Complying Discharge,2024-10-23,2024-10-23,Anne Arundel,Incident Closed-Managed,2024-12-27,21401
 303299,Non-Tidal Wetlands/Waterway,2024-10-23,2024-10-11,Frederick,Under Investigation,,21702
 303296,Industrial,2024-10-23,2024-10-17,Queen Anne's,Under Investigation,,21666
 303294,Industrial,2024-10-23,2024-10-09,Queen Anne's,Incident Closed - No further action,2024-10-25,21657
