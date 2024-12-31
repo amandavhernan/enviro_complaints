@@ -2,7 +2,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 323504,Sediment,2024-12-23,2024-12-20,Frederick,Referred to Outside Agency,,
 323503,"Possible Permit Violation, Sediment",2024-12-20,2024-12-20,Calvert,Incident Closed-Managed,2024-12-23,20688
 323502,Oil Release/Spill,2024-12-23,2024-12-20,Washington,Referred to LMA,,
-323500,"Sediment, Tidal Wetlands",2024-12-20,2024-12-20,Anne Arundel,Under Investigation,,20765
+323500,"Sediment, Tidal Wetlands",2024-12-20,2024-12-20,Anne Arundel,Incident Closed-Managed,2024-12-30,20765
 323498,Non-Tidal Wetlands/Waterway,2024-12-20,2024-12-20,Anne Arundel,Referred to WMA,,
 313500,Oil Release/Spill (Open Water),2024-12-19,2024-12-19,Baltimore City,Under Investigation,,
 313498,Sediment/ Stormwater Problem,2024-12-19,2024-12-19,Charles,Incident Closed-Managed,2024-12-23,
@@ -12,6 +12,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 313487,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-09,Washington,Under Investigation,,21722-185
 313483,Suspected Operation without Permit,2024-12-13,2024-12-12,Calvert,Create in Error,,
 313482,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-13,Baltimore,Under Investigation,,21202
+313482,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-13,Baltimore,Under Investigation,,21202
+313482,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-13,Baltimore,Under Investigation,,21208
 313482,Non-Tidal Wetlands/Waterway,2024-12-13,2024-12-13,Baltimore,Under Investigation,,21208
 313481,Sediment,2024-12-13,2024-12-13,Dorchester,Under Investigation,,21835
 313479,"Suspected Operation without Permit, Tidal Wetlands",2024-12-13,2024-12-13,Calvert,Referred to Outside Agency,,20639
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 211994,Fish Kill,2024-01-18,2024-01-17,Montgomery,Referred to WMA,,20707
 211993,"Agricultural, Sediment/ Stormwater Problem",2024-01-18,2024-01-18,Anne Arundel,Incident Closed-Managed,2024-03-15,21108
 211991,"Illegal Dumping, Possible Permit Violation, Sediment",2024-01-17,2024-01-17,Anne Arundel,Incident Closed-Managed,2024-03-12,21410
-211987,Industrial,2024-01-16,2024-01-16,Baltimore,Incident Closed-Managed,2024-07-30,21222
-211987,Industrial,2024-01-16,2024-01-16,Baltimore,Incident Closed-Managed,2024-07-30,21222
