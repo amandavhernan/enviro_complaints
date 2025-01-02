@@ -1,5 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,incident_closed_date,zip
 323511,Sediment,2024-12-31,2024-12-31,Washington,Under Investigation,,
+323510,Non-Tidal Wetlands/Waterway,2024-12-31,2024-12-31,Baltimore,Incident Closed-Managed,2024-12-31,
 323504,Sediment,2024-12-23,2024-12-20,Frederick,Referred to Outside Agency,,
 323503,"Possible Permit Violation, Sediment",2024-12-20,2024-12-20,Calvert,Incident Closed-Managed,2024-12-23,20688
 323502,Oil Release/Spill,2024-12-23,2024-12-20,Washington,Referred to LMA,,
@@ -116,6 +117,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 303307,Sediment/ Stormwater Problem,2024-10-26,2024-10-24,Baltimore,Under Investigation,,21117
 303306,Waste,2024-10-25,2024-10-25,Harford,Referred to Outside Agency,,
 303305,Sediment,2024-10-25,2024-10-25,Washington,Under Investigation,,
+303304,Suspected Operation without Permit,2024-10-25,2024-10-25,Baltimore,Referred to Outside Agency,,
 303303,"Illegal Discharge or Outfall, Industrial Non-Complying Discharge, Possible Permit Violation",2024-10-25,2024-10-24,Baltimore City,Referred to Outside Agency,,21226
 303300,Industrial Non-Complying Discharge,2024-10-23,2024-10-23,Anne Arundel,Incident Closed-Managed,2024-12-27,21401
 303299,Non-Tidal Wetlands/Waterway,2024-10-23,2024-10-11,Frederick,Under Investigation,,21702
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 221994,Municipal/SSO,2024-01-22,2024-01-15,Dorchester,Incident Closed - No further action,2024-01-17,21613
 221993,"Illegal Dumping, Water Pollutant Release",2024-01-19,2024-01-16,Baltimore,Incident Closed-Managed,2024-11-14,21222
 211994,Fish Kill,2024-01-18,2024-01-17,Montgomery,Referred to WMA,,20707
-211994,Fish Kill,2024-01-18,2024-01-17,Montgomery,Referred to WMA,,20707
-211993,"Agricultural, Sediment/ Stormwater Problem",2024-01-18,2024-01-18,Anne Arundel,Incident Closed-Managed,2024-03-15,21108
