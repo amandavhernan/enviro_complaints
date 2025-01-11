@@ -1,9 +1,13 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
-323533,Tidal Wetlands,2025-01-09,2025-01-09,Anne Arundel,Under Investigation,20733,
-323533,Tidal Wetlands,2025-01-09,2025-01-09,Anne Arundel,Under Investigation,20733,
+323541,Industrial,2025-01-10,2025-01-10,Baltimore,Create in Error,21228,
+323539,"Equipment Malfunction, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Under Investigation,21228,
+323538,"Equipment Malfunction, Industrial Non-Complying Discharge, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Under Investigation,21228,
+323537,"Possible Permit Violation, Tidal Wetlands",2025-01-10,2025-01-10,Anne Arundel,Under Investigation,21403,
+323533,Tidal Wetlands,2025-01-09,2025-01-09,Anne Arundel,Incident Closed-Managed,20733,2025-01-10
+323533,Tidal Wetlands,2025-01-09,2025-01-09,Anne Arundel,Incident Closed-Managed,20733,2025-01-10
 323532,Tidal Wetlands,2025-01-09,2025-01-08,St. Mary's,Under Investigation,20609,
 323526,Nontidal Wetlands,2025-01-08,2024-01-02,Kent,Under Investigation,21919,
-323525,Nontidal Wetlands,2025-01-08,2025-01-02,Cecil,Under Investigation,21919,
+323525,Nontidal Wetlands,2025-01-08,2025-01-02,Cecil,Incident Closed - No further action,21919,2025-01-10
 323519,Sewage/Sludge Release,2025-01-04,2025-01-04,Montgomery,Incident Closed - No further action,,2025-01-04
 323517,Sediment,2025-01-02,2024-12-30,Anne Arundel,Under Investigation,21060,
 323511,Sediment,2024-12-31,2024-12-31,Washington,Under Investigation,21740,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
-222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
-222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
-222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
-222001,Tidal Wetlands,2024-01-23,2024-01-23,Talbot,Under Investigation,21662,
