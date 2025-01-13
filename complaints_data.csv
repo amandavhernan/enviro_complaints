@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+323542,"Illegal Dumping, Other, Unknown Substance, Water Pollutant Release",2025-01-12,2025-01-12,Prince George's,Referred to Enforcement/Compliance,,
 323541,Industrial,2025-01-10,2025-01-10,Baltimore,Create in Error,21228,
 323539,"Equipment Malfunction, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Under Investigation,21228,
 323538,"Equipment Malfunction, Industrial Non-Complying Discharge, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Under Investigation,21228,
@@ -996,6 +997,5 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222013,Water Pollutant Release,2024-01-25,2024-01-25,Baltimore City,Incident Closed-No Violation Observed,21230,2024-11-14
 222011,"Suspected Operation without Permit, Water Pollutant Release",2024-01-24,2024-01-24,Baltimore,Referred to Enforcement/Compliance,21227,
 222006,Suspected Operation without Permit,2024-01-24,2024-01-24,Anne Arundel,Incident Closed-Managed,21409,2024-09-17
-222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
 222003,Municipal Non-Complying Discharge,2024-01-24,2023-12-27,Somerset,Under Investigation,21853,
