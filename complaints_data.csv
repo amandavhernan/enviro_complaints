@@ -1,4 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+323558,Industrial,2025-01-15,2025-01-13,Baltimore,Under Investigation,21222,
+323557,Tidal Wetlands,2025-01-15,2025-01-15,Anne Arundel,Under Investigation,21037,
+323555,Sediment/ Stormwater Problem,2025-01-15,2025-01-15,Baltimore,Under Investigation,,
 323549,Tidal Wetlands,2025-01-14,2025-01-07,St. Mary's,Under Investigation,20670,
 323547,Sediment,2025-01-14,2024-12-30,Worcester,Under Investigation,21851,
 323545,"Illegal Discharge or Outfall, Nontidal Wetlands, Sewage/Sludge Release, Suspected Operation without Permit, Water Pollutant Release",2025-01-14,2025-01-10,St. Mary's,Referred to Outside Agency,20659,
@@ -6,9 +9,10 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 323543,Tidal Wetlands,2025-01-13,2025-01-09,Dorchester,Under Investigation,21613,
 323542,"Illegal Dumping, Other, Tidal Wetlands, Unknown Substance, Water Pollutant Release",2025-01-12,2025-01-12,Prince George's,Under Investigation,20745,
 323541,Industrial,2025-01-10,2025-01-10,Baltimore,Create in Error,21228,
-323539,"Equipment Malfunction, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Under Investigation,21228,
+323539,"Equipment Malfunction, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Create in Error,21228,
 323538,"Equipment Malfunction, Industrial Non-Complying Discharge, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Under Investigation,21228,
 323537,"Possible Permit Violation, Tidal Wetlands",2025-01-10,2025-01-10,Anne Arundel,Under Investigation,21403,
+323536,"Possible Permit Violation, Sediment/ Stormwater Problem",2025-01-10,2025-01-10,Baltimore,Under Investigation,21237,
 323533,Tidal Wetlands,2025-01-09,2025-01-09,Anne Arundel,Incident Closed-Managed,20733,2025-01-10
 323533,Tidal Wetlands,2025-01-09,2025-01-09,Anne Arundel,Incident Closed-Managed,20733,2025-01-10
 323532,Tidal Wetlands,2025-01-09,2025-01-08,St. Mary's,Under Investigation,20609,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222023,Sediment,2024-01-26,2024-01-26,Allegany,Incident Closed-Managed,21562,2024-05-22
 222021,"Possible Permit Violation, Tidal Wetlands",2024-01-26,2024-01-26,Charles,Under Investigation,20693,
 222021,"Possible Permit Violation, Tidal Wetlands",2024-01-26,2024-01-26,Charles,Under Investigation,20693,
-222020,Sediment/ Stormwater Problem,2024-01-26,2024-01-26,Somerset,Incident Closed - No further action,21817,2024-07-30
-222020,Sediment/ Stormwater Problem,2024-01-26,2024-01-26,Somerset,Incident Closed - No further action,21817,2024-07-30
-222020,Sediment/ Stormwater Problem,2024-01-26,2024-01-26,Somerset,Incident Closed - No further action,21817,2024-07-30
-222018,"Illegal Dumping, Possible Permit Violation",2024-01-26,2024-01-21,Baltimore City,Incident Closed - No further action,21230,2024-01-31
