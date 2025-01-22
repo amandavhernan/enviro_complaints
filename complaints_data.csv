@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+323567,"Sediment, Sediment/ Stormwater Problem",2025-01-21,2025-01-15,Baltimore City,Under Investigation,21231,
+323566,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Under Investigation,,
+323565,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Under Investigation,21401,
+323564,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Under Investigation,21401,
 323559,Other,2025-01-17,2025-01-17,Frederick,Under Investigation,,
 323558,Industrial,2025-01-15,2025-01-13,Baltimore,Under Investigation,21222,
 323557,Tidal Wetlands,2025-01-15,2025-01-15,Anne Arundel,Under Investigation,21037,
@@ -13,6 +17,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 323539,"Equipment Malfunction, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Create in Error,21228,
 323538,"Equipment Malfunction, Industrial Non-Complying Discharge, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Under Investigation,21228,
 323537,"Possible Permit Violation, Tidal Wetlands",2025-01-10,2025-01-10,Anne Arundel,Under Investigation,21403,
+323536,"Possible Permit Violation, Sediment/ Stormwater Problem",2025-01-10,2025-01-10,Baltimore,Under Investigation,21237,
+323536,"Possible Permit Violation, Sediment/ Stormwater Problem",2025-01-10,2025-01-10,Baltimore,Under Investigation,21237,
 323536,"Possible Permit Violation, Sediment/ Stormwater Problem",2025-01-10,2025-01-10,Baltimore,Under Investigation,21237,
 323533,Tidal Wetlands,2025-01-09,2025-01-09,Anne Arundel,Incident Closed-Managed,20733,2025-01-10
 323533,Tidal Wetlands,2025-01-09,2025-01-09,Anne Arundel,Incident Closed-Managed,20733,2025-01-10
@@ -56,8 +62,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 313456,"Possible Permit Violation, Suspected Operation without Permit, Tidal Wetlands",2024-12-09,2024-11-06,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-12-09
 313456,"Possible Permit Violation, Suspected Operation without Permit, Tidal Wetlands",2024-12-09,2024-11-06,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-12-09
 313455,"Nontidal Wetlands, Sediment/ Stormwater Problem, Suspected Operation without Permit, Water Pollutant Release",2024-12-09,2024-12-07,Baltimore City,Under Investigation,21209,
-313454,Fish Kill,2024-12-09,2024-12-09,Anne Arundel,Under Investigation,21037,
-313452,"Industrial, Other",2024-12-06,2024-12-06,Anne Arundel,Under Investigation,21403,
+313454,Fish Kill,2024-12-09,2024-12-09,Anne Arundel,Incident Closed-Managed,21037,2025-01-21
+313452,"Illegal Dumping, Waste",2024-12-06,2024-12-06,Anne Arundel,Referred to Outside Agency,21403,
 313451,Municipal,2024-12-06,2024-12-05,Baltimore City,Incident Closed-Managed,21218,2024-12-06
 313451,Municipal,2024-12-06,2024-12-05,Baltimore City,Incident Closed-Managed,21218,2024-12-06
 313436,"Possible Permit Violation, Suspected Operation without Permit, Tidal Wetlands",2024-12-05,2024-12-05,Anne Arundel,Under Investigation,21122,
@@ -993,9 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
 222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
 222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
-222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
-222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
-222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
-222024,"Sewage/Sludge Release, Water Pollutant Release",2024-01-26,2024-01-26,Anne Arundel,Incident Closed - No further action,21032,2024-01-29
-222023,Sediment,2024-01-26,2024-01-26,Allegany,Incident Closed-Managed,21562,2024-05-22
-222023,Sediment,2024-01-26,2024-01-26,Allegany,Incident Closed-Managed,21562,2024-05-22
