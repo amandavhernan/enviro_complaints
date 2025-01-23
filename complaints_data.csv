@@ -1,4 +1,5 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+323568,Other,2025-01-22,2025-01-13,Frederick,Referred to Outside Agency,,
 323567,"Sediment, Sediment/ Stormwater Problem",2025-01-21,2025-01-15,Baltimore City,Under Investigation,21231,
 323566,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Under Investigation,,
 323565,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Under Investigation,21401,
@@ -190,7 +191,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 293236,Non-Tidal Wetlands/Waterway,2024-10-04,2024-09-11,Carroll,Under Investigation,21157,
 293235,"Illegal Dumping, Sewage/Sludge Release",2024-10-03,2024-09-30,Charles,Referred to ECU,,
 293234,"Possible Permit Violation, Sediment/ Stormwater Problem",2024-10-03,2024-10-03,Baltimore City,Under Investigation,21231,
-293233,Suspected Operation without Permit,2024-10-03,2024-10-03,Baltimore,Incident Closed-Managed,21286,2024-10-11
+293233,Suspected Operation without Permit,2024-10-03,2024-10-03,Baltimore,Incident Closed-Managed,21286,2025-01-22
 293232,"Stormwater, Structural Failure",2024-10-02,2024-10-02,Baltimore,Referred to Outside Agency,21208,
 293223,Non-Tidal Wetlands/Waterway,2024-10-02,2024-09-27,Outside of Maryland,Under Investigation,25419,
 293222,Sediment,2024-10-02,2024-09-27,Washington,Under Investigation,21742,
@@ -993,7 +994,6 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222030,Sediment,2024-01-29,2024-01-25,Washington,Incident Closed-Managed,21713,2024-09-17
 222029,Sediment,2024-01-29,2024-01-25,Washington,Incident Closed-Managed,21742,2024-09-17
 222028,Industrial Non-Complying Discharge,2024-01-29,2024-01-29,Howard,Incident Closed - No further action,20794,2024-10-23
-222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
 222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
 222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
 222025,"Odor, Water Pollutant Release",2024-01-27,2024-01-27,Baltimore City,Incident Closed - No further action,21226,2024-10-02
