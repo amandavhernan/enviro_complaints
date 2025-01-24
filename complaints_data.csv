@@ -73,7 +73,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 313419,Sewage/Sludge Release,2024-12-03,2024-12-03,Calvert,Referred to Enforcement/Compliance,20732,
 313419,Sewage/Sludge Release,2024-12-03,2024-12-03,Calvert,Referred to Enforcement/Compliance,20732,
 313418,Nontidal Wetlands,2024-12-02,2024-11-27,Worcester,Under Investigation,21851,
-313417,"Stormwater, Suspected Operation without Permit",2024-11-27,2024-11-27,Baltimore,Under Investigation,21222,
+313417,"Stormwater, Suspected Operation without Permit",2024-11-27,2024-11-27,Baltimore,Incident Closed-Clean-up Completed,21222,2025-01-23
 313415,"Equipment Malfunction, Oil Release/Spill (Surface), Stormwater",2024-11-27,2024-11-14,Harford,Under Investigation,21005,
 313414,Non-Tidal Wetlands/Waterway,2024-11-26,2024-11-25,Garrett,Under Investigation,21550,
 313412,Sediment,2024-11-22,2024-11-21,Montgomery,Under Investigation,20850,
