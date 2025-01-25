@@ -35,7 +35,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 323502,Oil Release/Spill,2024-12-23,2024-12-20,Washington,Referred to LMA,,
 323500,"Sediment, Tidal Wetlands",2024-12-20,2024-12-20,Anne Arundel,Incident Closed-Managed,20765,2024-12-30
 323498,Non-Tidal Wetlands/Waterway,2024-12-20,2024-12-20,Anne Arundel,Referred to WMA,,
-313500,Oil Release/Spill (Open Water),2024-12-19,2024-12-19,Baltimore City,Under Investigation,,
+313500,Oil Release/Spill (Open Water),2024-12-19,2024-12-19,Baltimore City,Incident Closed - No further action,,2025-01-24
 313498,Sediment/ Stormwater Problem,2024-12-19,2024-12-19,Charles,Incident Closed-Managed,,2024-12-23
 313496,"Oil Release/Spill (Surface), Water Pollutant Release",2024-12-18,2024-12-17,Anne Arundel,Referred to LMA,21037,
 313491,Nontidal Wetlands,2024-12-16,2024-12-16,Worcester,Under Investigation,21842,
@@ -191,7 +191,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 293236,Non-Tidal Wetlands/Waterway,2024-10-04,2024-09-11,Carroll,Under Investigation,21157,
 293235,"Illegal Dumping, Sewage/Sludge Release",2024-10-03,2024-09-30,Charles,Referred to ECU,,
 293234,"Possible Permit Violation, Sediment/ Stormwater Problem",2024-10-03,2024-10-03,Baltimore City,Under Investigation,21231,
-293233,Suspected Operation without Permit,2024-10-03,2024-10-03,Baltimore,Incident Closed-Managed,21286,2025-01-22
+293233,Suspected Operation without Permit,2024-10-03,2024-10-03,Baltimore,Under Investigation,21286,
 293232,"Stormwater, Structural Failure",2024-10-02,2024-10-02,Baltimore,Referred to Outside Agency,21208,
 293223,Non-Tidal Wetlands/Waterway,2024-10-02,2024-09-27,Outside of Maryland,Under Investigation,25419,
 293222,Sediment,2024-10-02,2024-09-27,Washington,Under Investigation,21742,
@@ -889,8 +889,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232217,Sewage/Sludge Release,2024-03-06,2024-02-29,Prince George's,Under Investigation,20744,
 232217,Sewage/Sludge Release,2024-03-06,2024-02-29,Prince George's,Under Investigation,20744,
 232213,"Illegal Dumping, Non-Tidal Wetlands/Waterway",2024-03-05,2024-03-05,Anne Arundel,Incident Closed-No Violation Observed,21060,2024-04-09
-232211,Tidal Wetlands,2024-03-05,2021-05-12,St. Mary's,Referred to WMA,,
-232211,Tidal Wetlands,2024-03-05,2021-05-12,St. Mary's,Referred to WMA,,
+232211,Tidal Wetlands,2024-03-05,2021-05-12,St. Mary's,Incident Closed - No further action,,2025-01-24
+232211,Tidal Wetlands,2024-03-05,2021-05-12,St. Mary's,Incident Closed - No further action,,2025-01-24
 232210,Non-Tidal Wetlands/Waterway,2024-03-05,2024-03-05,Garrett,Incident Closed-Managed,,2024-03-06
 232209,"Air Pollutant Release, Nontidal Wetlands, Possible Permit Violation, Water Pollutant Release",2024-03-05,2024-02-23,Baltimore,Under Investigation,,
 232208,"Illegal Wetland Alteration, Suspected Operation without Permit",2024-03-04,2024-03-04,Calvert,Referred to Outside Agency,,
