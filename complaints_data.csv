@@ -1,20 +1,24 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+333603,Other,2025-01-30,2024-11-18,Frederick,Referred to Outside Agency,21702,
+333602,Sewage/Sludge Release,2025-01-30,2025-01-30,Garrett,Under Investigation,,
+333600,Agricultural,2025-01-29,2025-01-29,Harford,Under Investigation,21015,
 333599,"Possible Permit Violation, Sediment",2025-01-27,2025-01-27,Calvert,Under Investigation,20688,
 333598,Tidal Wetlands,2025-01-29,2024-01-03,Dorchester,,,
 333594,Nontidal Wetlands,2025-01-28,2024-12-13,Caroline,Under Investigation,21639,
 333593,Sediment,2025-01-28,2025-01-28,Charles,Under Investigation,,
 333592,"Sewage/Sludge Release, Water Pollutant Release",2025-01-28,2024-12-25,Charles,Under Investigation,20646,
+333591,"Surface Water Quality Complaint, Water Pollutant Release",2025-01-27,2025-01-27,Montgomery,Referred to WMA,,
 333590,Illegal Discharge or Outfall,2025-01-27,2024-12-02,Baltimore,Incident Closed-No Violation Observed,,2025-01-28
 333589,Sewage/Sludge Release,2025-01-27,2025-01-27,Charles,Under Investigation,20646,
 333588,Tidal Wetlands,2025-01-27,2025-01-27,Dorchester,Under Investigation,21648,
 333587,Tidal Wetlands,2025-01-27,2025-01-27,Baltimore,Under Investigation,21052,
-333586,Nontidal Wetlands,2025-01-27,2025-01-24,St. Mary's,Under Investigation,,
+333586,Nontidal Wetlands,2025-01-27,2025-01-24,St. Mary's,Incident Closed-No Violation Observed,,2025-01-30
 333585,"Chemical Release/Spill, Equipment Malfunction, Industrial, Surface Water Quality Complaint",2025-01-26,2025-01-26,Baltimore,Referred to LMA,,
 323568,Other,2025-01-22,2025-01-13,Frederick,Referred to Outside Agency,,
 323567,"Sediment, Sediment/ Stormwater Problem",2025-01-21,2025-01-15,Baltimore City,Under Investigation,21231,
 323566,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Under Investigation,,
-323565,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Under Investigation,21401,
-323564,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Under Investigation,21401,
+323565,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Incident Closed-Managed,21401,2025-01-30
+323564,Tidal Wetlands,2025-01-21,2025-01-21,Anne Arundel,Incident Closed-Managed,21401,2025-01-30
 323559,Other,2025-01-17,2025-01-17,Frederick,Referred to Outside Agency,,
 323558,Industrial,2025-01-15,2025-01-13,Baltimore,Under Investigation,21222,
 323557,Tidal Wetlands,2025-01-15,2025-01-15,Anne Arundel,Under Investigation,21037,
@@ -341,7 +345,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 273005,Sediment,2024-08-15,2024-08-13,Wicomico,Incident Closed - No further action,21850,2024-08-21
 273004,"Fish Kill, Water Pollutant Release",2024-08-14,2024-08-14,Anne Arundel,Incident Closed-Managed,,2024-08-19
 273003,Sediment/ Stormwater Problem,2024-08-14,2024-08-08,Montgomery,Referred to Outside Agency,,
-273002,"Tidal Wetlands, Water Pollutant Release",2024-08-13,2024-08-13,Anne Arundel,Incident Closed-No Violation Observed,21146,2024-08-20
+273002,"Tidal Wetlands, Water Pollutant Release",2024-08-13,2024-08-13,Anne Arundel,Incident Closed-No Violation Observed,21146,2025-01-30
 273001,"Chemical Release/Spill, Industrial, Water Pollutant Release",2024-08-13,2024-08-13,Baltimore,Incident Closed-Managed,21111,2024-10-11
 273000,Sediment,2024-08-12,2024-08-12,Washington,Incident Closed-Managed,21713,2024-08-13
 272999,Tidal Wetlands,2024-08-12,2024-08-05,Anne Arundel,Incident Closed-Managed,21037,2024-09-04
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222042,Sediment,2024-02-01,2024-01-31,Somerset,Incident Closed - No further action,21853,2024-09-12
 222042,Sediment,2024-02-01,2024-01-31,Somerset,Incident Closed - No further action,21853,2024-09-12
 222042,Sediment,2024-02-01,2024-01-31,Somerset,Incident Closed - No further action,21853,2024-09-12
-222042,Sediment,2024-02-01,2024-01-31,Somerset,Incident Closed - No further action,21853,2024-09-12
-222042,Sediment,2024-02-01,2024-01-31,Somerset,Incident Closed - No further action,21853,2024-09-12
-222042,Sediment,2024-02-01,2024-01-31,Somerset,Incident Closed - No further action,21853,2024-09-12
-222038,Water Pollutant Release,2024-02-01,2024-02-01,Charles,Incident Closed-Managed,20645,2024-03-21
