@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+333647,"Possible Permit Violation, Tidal Wetlands",2025-02-06,2025-02-06,Anne Arundel,Under Investigation,21122,
+333645,Sewage/Sludge Release,2025-02-06,2025-02-04,Anne Arundel,Under Investigation,21060,
 333644,Tidal Wetlands,2025-02-05,2025-01-29,Worcester,Under Investigation,21813,
 333643,Industrial,2025-02-05,2025-02-05,St. Mary's,Under Investigation,20659,
 333641,Drinking Water,2025-02-04,2025-02-04,Baltimore City,Referred to Outside Agency,,
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222078,Illegal Discharge or Outfall,2024-02-07,2024-02-07,Worcester,Referred to Enforcement/Compliance,21811,
 222078,Illegal Discharge or Outfall,2024-02-07,2024-02-07,Worcester,Referred to Enforcement/Compliance,21811,
 222077,Nontidal Wetlands,2024-02-07,2024-02-07,Somerset,Incident Closed - No further action,21871,2024-10-02
-222077,Nontidal Wetlands,2024-02-07,2024-02-07,Somerset,Incident Closed - No further action,21871,2024-10-02
-222076,Other,2024-02-07,2024-02-07,Frederick,Referred to Outside Agency,,
