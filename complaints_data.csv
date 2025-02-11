@@ -1,22 +1,28 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+333655,"Unknown Substance, Water Pollutant Release",2025-02-10,2025-02-10,Baltimore,Under Investigation,21227,
+333654,"Chemical Release/Spill, Equipment Malfunction, Municipal Non-Complying Discharge",2025-02-10,2025-02-10,Baltimore City,Under Investigation,,
+333653,Nontidal Wetlands,2025-02-10,2025-01-02,Queen Anne's,Under Investigation,21919,
+333652,Sediment,2025-02-10,2025-02-07,Worcester,Under Investigation,21843,
+333652,Sediment,2025-02-10,2025-02-07,Worcester,Under Investigation,21842,
+333651,Non-Tidal Wetlands/Waterway,2025-02-10,2025-02-03,Frederick,Under Investigation,21722,
 333647,"Possible Permit Violation, Tidal Wetlands",2025-02-06,2025-02-06,Anne Arundel,Under Investigation,21122,
 333645,Sewage/Sludge Release,2025-02-06,2025-02-04,Anne Arundel,Incident Closed - No further action,21060,2025-02-07
 333644,Tidal Wetlands,2025-02-05,2025-01-29,Worcester,Under Investigation,21813,
 333643,Industrial,2025-02-05,2025-02-05,St. Mary's,Under Investigation,20659,
 333641,Drinking Water,2025-02-04,2025-02-04,Baltimore City,Referred to Outside Agency,,
-333640,Water Pollutant Release,2025-02-04,2025-02-04,Anne Arundel,Under Investigation,,
+333640,Water Pollutant Release,2025-02-04,2025-02-04,Anne Arundel,Under Investigation,21146,
 333639,"Sewage/Sludge Release, Water Pollutant Release",2025-02-04,2025-02-04,St. Mary's,Under Investigation,20624,
 333637,Tidal Wetlands,2025-02-04,2025-02-01,Queen Anne's,Under Investigation,,
 333636,"Sediment, Tidal Wetlands",2025-02-04,2025-02-03,Anne Arundel,Under Investigation,21401,
 333632,Suspected Operation without Permit,2025-02-03,2025-02-03,Anne Arundel,Under Investigation,21401,
 333631,Illegal Discharge or Outfall,2025-02-03,2024-11-21,Anne Arundel,Referred to Outside Agency,,
 333628,Surface Water Quality Complaint,2025-02-03,2025-02-03,Baltimore,Under Investigation,21202,
-333627,Other,2025-02-03,2025-01-31,Frederick,Under Investigation,21716,
-333627,Other,2025-02-03,2025-01-31,Frederick,Under Investigation,21716,
-333614,Industrial Non-Complying Discharge,2025-01-31,2025-01-30,Prince George's,Referred to Outside Agency,,
+333627,Other,2025-02-03,2025-01-31,Frederick,Referred to Outside Agency,21716,
+333627,Other,2025-02-03,2025-01-31,Frederick,Referred to Outside Agency,21716,
+333614,Industrial Non-Complying Discharge,2025-01-31,2025-01-30,Prince George's,Incident Closed-Managed,,2025-02-07
 333605,Water Pollutant Release,2025-01-30,2025-01-30,Baltimore,Referred to Outside Agency,21224,
 333603,Other,2025-01-30,2024-11-18,Frederick,Referred to Outside Agency,21702,
-333602,Sewage/Sludge Release,2025-01-30,2025-01-30,Garrett,Under Investigation,,
+333602,Sewage/Sludge Release,2025-01-30,2025-01-30,Garrett,Referred to Outside Agency,,
 333600,Agricultural,2025-01-29,2025-01-29,Harford,Under Investigation,21015,
 333599,"Possible Permit Violation, Sediment",2025-01-27,2025-01-27,Calvert,Incident Closed-Managed,20688,2025-02-04
 333598,Tidal Wetlands,2025-01-29,2024-01-03,Dorchester,,,
@@ -993,9 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222097,Illegal Wetland Alteration,2024-02-09,2024-02-06,Carroll,Under Investigation,21074,
 222095,Municipal/SSO,2024-02-09,2024-02-05,Dorchester,Under Investigation,21613,
 222082,Industrial Non-Complying Discharge,2024-02-08,2023-12-22,Prince George's,Incident Closed-Managed,20744,2024-10-23
-222079,Fish Kill,2024-02-07,2024-02-07,Baltimore,Incident Closed - No further action,21227,2024-02-23
-222078,Illegal Discharge or Outfall,2024-02-07,2024-02-07,Worcester,Referred to Enforcement/Compliance,21811,
-222078,Illegal Discharge or Outfall,2024-02-07,2024-02-07,Worcester,Referred to Enforcement/Compliance,21811,
-222078,Illegal Discharge or Outfall,2024-02-07,2024-02-07,Worcester,Referred to Enforcement/Compliance,21811,
-222078,Illegal Discharge or Outfall,2024-02-07,2024-02-07,Worcester,Referred to Enforcement/Compliance,21811,
-222077,Nontidal Wetlands,2024-02-07,2024-02-07,Somerset,Incident Closed - No further action,21871,2024-10-02
