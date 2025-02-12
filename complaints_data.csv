@@ -1,6 +1,7 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+333656,Waste,2025-02-11,2025-02-11,Washington,Under Investigation,21740,
 333655,"Unknown Substance, Water Pollutant Release",2025-02-10,2025-02-10,Baltimore,Under Investigation,21227,
-333654,"Chemical Release/Spill, Equipment Malfunction, Municipal Non-Complying Discharge",2025-02-10,2025-02-10,Baltimore City,Under Investigation,,
+333654,"Chemical Release/Spill, Equipment Malfunction, Municipal Non-Complying Discharge",2025-02-10,2025-02-10,Baltimore City,Under Investigation,21223,
 333653,Nontidal Wetlands,2025-02-10,2025-01-02,Queen Anne's,Under Investigation,21919,
 333652,Sediment,2025-02-10,2025-02-07,Worcester,Under Investigation,21843,
 333652,Sediment,2025-02-10,2025-02-07,Worcester,Under Investigation,21842,
@@ -629,6 +630,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 252745,Non-Tidal Wetlands/Waterway,2024-06-10,2024-06-07,Howard,Under Investigation,20794,
 252745,Non-Tidal Wetlands/Waterway,2024-06-10,2024-06-07,Howard,Under Investigation,20794,
 252745,Non-Tidal Wetlands/Waterway,2024-06-10,2024-06-07,Howard,Under Investigation,20794,
+252745,Non-Tidal Wetlands/Waterway,2024-06-10,2024-06-07,Howard,Under Investigation,20794,
 252738,Sediment,2024-06-10,2024-06-07,Harford,Referred to Attorney General's Office,21085,
 252737,Sediment,2024-06-10,2024-06-06,Harford,Referred to Attorney General's Office,21085,
 252735,"Illegal Discharge or Outfall, Tidal Wetlands",2024-06-07,2024-06-07,Anne Arundel,Incident Closed - No further action,21060,2024-10-02
@@ -997,5 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222099,Non-Tidal Wetlands/Waterway,2024-02-09,2024-02-09,Anne Arundel,Incident Closed-No Violation Observed,20764,2024-02-14
 222098,Tidal Wetlands,2024-02-09,2024-02-09,Queen Anne's,Incident Closed - No further action,21619,2024-03-06
 222097,Illegal Wetland Alteration,2024-02-09,2024-02-06,Carroll,Under Investigation,21074,
-222095,Municipal/SSO,2024-02-09,2024-02-05,Dorchester,Under Investigation,21613,
-222082,Industrial Non-Complying Discharge,2024-02-08,2023-12-22,Prince George's,Incident Closed-Managed,20744,2024-10-23
