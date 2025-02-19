@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+333679,Water Pollutant Release,2025-02-18,2025-02-14,Allegany,Under Investigation,21502,
+333677,Sediment,2025-02-18,2025-02-18,Baltimore,Under Investigation,21162,
+333676,Sediment,2025-02-18,2025-02-14,Montgomery,Referred to Outside Agency,,
+333675,Tidal Wetlands,2025-02-18,2025-02-18,St. Mary's,Referred to Enforcement/Compliance,20618,
 333669,Illegal Discharge or Outfall,2025-02-14,2025-02-14,Prince George's,Under Investigation,20707,
 333669,Illegal Discharge or Outfall,2025-02-14,2025-02-14,Prince George's,Under Investigation,20708,
 333667,Waste,2025-02-14,2025-02-13,Baltimore City,Under Investigation,21210,
@@ -245,7 +249,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 293236,Non-Tidal Wetlands/Waterway,2024-10-04,2024-09-11,Carroll,Under Investigation,21157,
 293235,"Illegal Dumping, Sewage/Sludge Release",2024-10-03,2024-09-30,Charles,Referred to ECU,,
 293234,"Possible Permit Violation, Sediment/ Stormwater Problem",2024-10-03,2024-10-03,Baltimore City,Under Investigation,21231,
-293233,Suspected Operation without Permit,2024-10-03,2024-10-03,Baltimore,Under Investigation,21286,
+293233,Suspected Operation without Permit,2024-10-03,2024-10-03,Baltimore,Incident Closed - No further action,21286,2025-02-14
 293232,"Stormwater, Structural Failure",2024-10-02,2024-10-02,Baltimore,Referred to Outside Agency,21208,
 293223,Non-Tidal Wetlands/Waterway,2024-10-02,2024-09-27,Outside of Maryland,Under Investigation,25419,
 293222,Sediment,2024-10-02,2024-09-27,Washington,Under Investigation,21742,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Incident Closed - No further action,21817,2024-07-30
 222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Incident Closed - No further action,21817,2024-07-30
 222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Incident Closed - No further action,21817,2024-07-30
-222127,Sediment/ Stormwater Problem,2024-02-15,2024-02-14,Somerset,Incident Closed - No further action,21817,2024-07-30
-222126,"Non-Tidal Wetlands/Waterway, Nontidal Wetlands",2024-02-15,2024-02-13,Howard,Under Investigation,21041,
-222123,Chemical Release/Spill,2024-02-14,2024-02-14,Baltimore,Incident Closed-Clean-up Completed,21222,2024-02-28
-222119,Illegal Discharge or Outfall,2024-02-13,2024-02-08,Harford,Incident Closed-Managed,21078,2024-03-20
