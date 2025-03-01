@@ -1,6 +1,12 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
-343726,Sediment,2025-02-27,2025-02-27,Washington,Under Investigation,,
+343746,Suspected Operation without Permit,2025-02-28,2025-02-28,Baltimore City,Under Investigation,21230,
+343745,"Industrial, Possible Permit Violation",2025-02-28,2025-02-28,Baltimore,Under Investigation,21222,
+343743,Suspected Operation without Permit,2025-02-28,2025-02-28,Baltimore City,Under Investigation,21230,
+343729,"Suspected Operation without Permit, Tidal Wetlands",2025-02-27,2025-02-27,Harford,Under Investigation,21078,
+343728,"Odor, Unknown Substance",2025-02-27,2025-02-27,Anne Arundel,Under Investigation,,
+343726,Sediment,2025-02-27,2025-02-27,Washington,Under Investigation,21795,
 343720,Illegal Discharge or Outfall,2025-02-27,2025-02-25,Anne Arundel,Under Investigation,21226,
+343717,Suspected Operation without Permit,2025-02-27,2025-02-27,Anne Arundel,Under Investigation,,
 343714,"Sewage/Sludge Release, Tidal Wetlands",2025-02-27,2025-02-27,Anne Arundel,Referred to Outside Agency,21122,
 343712,Other,2025-02-26,2025-02-26,Frederick,Under Investigation,,
 343711,Non-Tidal Wetlands/Waterway,2025-02-19,2025-02-19,Anne Arundel,Under Investigation,21076,
@@ -11,9 +17,10 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 343701,Other,2025-02-24,2025-02-24,Allegany,,,
 343700,"Possible Permit Violation, Sewage/Sludge Release",2025-02-24,2025-02-24,Anne Arundel,Under Investigation,,
 343696,Sediment/ Stormwater Problem,2025-02-24,2025-02-24,Harford,Under Investigation,21085,
-343695,"Structural Failure, Tidal Wetlands",2025-02-24,2025-02-24,Anne Arundel,Incident Closed-Managed,21403,2025-02-25
+343695,"Structural Failure, Tidal Wetlands",2025-02-24,2025-02-24,Anne Arundel,Incident Closed-Managed,21403,2025-02-28
 333695,Industrial,2025-02-20,2025-02-20,Baltimore City,Under Investigation,21211,
 333694,Other,2025-02-20,2025-02-20,Baltimore,Under Investigation,21219,
+333693,Sediment,2025-02-20,2025-02-20,Cecil,Under Investigation,21918,
 333693,Sediment,2025-02-20,2025-02-20,Cecil,Under Investigation,21918,
 333693,Sediment,2025-02-20,2025-02-20,Cecil,Under Investigation,21918,
 333687,"Possible Permit Violation, Sediment/ Stormwater Problem",2025-02-20,2025-02-20,Baltimore City,Under Investigation,21210,
@@ -51,8 +58,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 333644,Tidal Wetlands,2025-02-05,2025-01-29,Worcester,Under Investigation,21813,
 333643,Industrial,2025-02-05,2025-02-05,St. Mary's,Under Investigation,20659,
 333641,Drinking Water,2025-02-04,2025-02-04,Baltimore City,Referred to Outside Agency,,
-333640,Water Pollutant Release,2025-02-04,2025-02-04,Anne Arundel,Under Investigation,21146,
-333640,Water Pollutant Release,2025-02-04,2025-02-04,Anne Arundel,Under Investigation,21146,
+333640,Water Pollutant Release,2025-02-04,2025-02-04,Anne Arundel,Referred to Enforcement/Compliance,21146,
+333640,Water Pollutant Release,2025-02-04,2025-02-04,Anne Arundel,Referred to Enforcement/Compliance,21146,
 333639,"Sewage/Sludge Release, Water Pollutant Release",2025-02-04,2025-02-04,St. Mary's,Under Investigation,20624,
 333637,Tidal Wetlands,2025-02-04,2025-02-01,Queen Anne's,Under Investigation,,
 333636,"Sediment, Tidal Wetlands",2025-02-04,2025-02-03,Anne Arundel,Under Investigation,21401,
@@ -101,7 +108,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 323541,Industrial,2025-01-10,2025-01-10,Baltimore,Create in Error,21228,
 323539,"Equipment Malfunction, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Create in Error,21228,
 323538,"Equipment Malfunction, Industrial Non-Complying Discharge, Suspected Operation without Permit, Water Pollutant Release",2025-01-10,2025-01-10,Baltimore,Referred to Enforcement/Compliance,21228,
-323537,"Possible Permit Violation, Tidal Wetlands",2025-01-10,2025-01-10,Anne Arundel,Incident Closed-Managed,21403,2025-02-24
+323537,"Possible Permit Violation, Tidal Wetlands",2025-01-10,2025-01-10,Anne Arundel,Incident Closed-Managed,21403,2025-02-28
 323536,"Possible Permit Violation, Sediment/ Stormwater Problem",2025-01-10,2025-01-10,Baltimore,Referred to Enforcement/Compliance,21237,
 323536,"Possible Permit Violation, Sediment/ Stormwater Problem",2025-01-10,2025-01-10,Baltimore,Referred to Enforcement/Compliance,21237,
 323536,"Possible Permit Violation, Sediment/ Stormwater Problem",2025-01-10,2025-01-10,Baltimore,Referred to Enforcement/Compliance,21237,
@@ -992,10 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232210,Non-Tidal Wetlands/Waterway,2024-03-05,2024-03-05,Garrett,Incident Closed-Managed,,2024-03-06
 232209,"Air Pollutant Release, Nontidal Wetlands, Possible Permit Violation, Water Pollutant Release",2024-03-05,2024-02-23,Baltimore,Under Investigation,,
 232208,"Illegal Wetland Alteration, Suspected Operation without Permit",2024-03-04,2024-03-04,Calvert,Referred to Outside Agency,,
-232206,Illegal Dumping,2024-03-04,2024-02-29,Carroll,Under Investigation,21776,
-232200,Unknown Substance,2024-02-29,2024-02-29,Baltimore City,Incident Closed-No Violation Observed,,2024-03-01
-232199,Tidal Wetlands,2024-02-29,2024-02-29,Charles,Incident Closed - No further action,20677,2024-03-05
-232198,Tidal Wetlands,2024-02-29,2024-02-13,Worcester,Under Investigation,21811,
-232197,Nontidal Wetlands,2024-02-29,2024-02-26,Wicomico,Incident Closed-No Violation Observed,21875,2024-03-14
-232196,Nontidal Wetlands,2024-02-29,2024-02-14,Caroline,Under Investigation,21632,
-232195,Sediment,2024-02-29,2024-02-27,Washington,Incident Closed-Managed,21740,2024-09-17
