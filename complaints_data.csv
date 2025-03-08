@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+343800,Surface Water Quality Complaint,2025-03-07,2025-03-03,Baltimore,Referred to Outside Agency,21221,
+343796,"Industrial, Possible Permit Violation, Waste",2025-03-07,2025-03-07,Baltimore,Under Investigation,,
+343795,"Chemical Release/Spill, Sediment/ Stormwater Problem",2025-03-07,2025-03-06,Baltimore,Under Investigation,,
+343794,"Sediment, Stormwater",2025-03-06,2025-03-05,Washington,Under Investigation,21740,
 343793,Industrial Non-Complying Discharge,2025-03-06,2025-03-06,Prince George's,Under Investigation,,
 343792,"Non-Tidal Wetlands/Waterway, Sediment/ Stormwater Problem",2025-03-06,2025-03-06,Anne Arundel,Under Investigation,21076,
 343791,Tidal Wetlands,2025-03-06,2024-10-01,Anne Arundel,Incident Closed-Managed,21122,2025-03-06
@@ -17,7 +21,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 343752,"Illegal Discharge or Outfall, Stormwater",2025-03-03,2024-12-28,Howard,Referred to Outside Agency,21075,
 343751,"Industrial, Tidal Wetlands",2025-03-03,2025-03-03,Baltimore,Under Investigation,21220,
 343750,Oil Release/Spill (Surface),2025-03-03,2025-03-03,Baltimore City,Referred to Outside Agency,21224,
-343748,Sediment,2025-03-03,2025-03-03,Charles,Under Investigation,20646,
+343748,Sediment,2025-03-03,2025-03-03,Charles,Incident Closed-Managed,20646,2025-03-05
 343747,Illegal Discharge or Outfall,2025-03-02,2025-03-01,Baltimore City,Under Investigation,21202,
 343746,Suspected Operation without Permit,2025-02-28,2025-02-28,Baltimore City,Under Investigation,21230,
 343745,"Industrial, Possible Permit Violation",2025-02-28,2025-02-28,Baltimore,Under Investigation,21222,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232256,Other,2024-03-08,2024-03-04,Frederick,Under Investigation,21790,
 232256,Other,2024-03-08,2024-03-04,Frederick,Under Investigation,21790,
 232255,"Illegal Discharge or Outfall, Nontidal Wetlands, Oil Release/Spill, Waste",2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21144,2024-03-22
-232255,"Illegal Discharge or Outfall, Nontidal Wetlands, Oil Release/Spill, Waste",2024-03-07,2024-03-07,Anne Arundel,Incident Closed-Managed,21144,2024-03-22
-232254,Oil Release/Spill,2024-03-07,2024-02-28,Prince George's,Referred to Outside Agency,,
-232251,Sediment/ Stormwater Problem,2024-03-07,2024-03-01,Garrett,Incident Closed-Managed,21550,2024-03-05
-232249,Other,2024-03-07,2024-03-07,Anne Arundel,Incident Closed-No Violation Observed,21122,2024-03-08
