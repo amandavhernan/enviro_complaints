@@ -1,4 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+343813,Unknown Substance,2025-03-11,2025-03-11,Baltimore,,,
+343811,Sediment,2025-03-11,2025-02-28,Caroline,Under Investigation,21640,
+343810,Water Pollutant Release,2025-03-11,2025-03-11,Baltimore,Under Investigation,21227,
+343809,Illegal Discharge or Outfall,2025-03-11,2025-03-11,Baltimore City,Referred to Outside Agency,,
+343807,"Surface Water Quality Complaint, Water Pollutant Release",2025-03-11,2025-03-10,Baltimore,Under Investigation,21227,
 343806,Nontidal Wetlands,2025-03-10,2025-03-10,Talbot,Under Investigation,21601,
 343805,Other,2025-03-10,2025-03-10,Garrett,Under Investigation,,
 343804,Sediment,2025-03-10,2025-03-05,Dorchester,Under Investigation,21869,
@@ -994,8 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232274,Hazardous Waste,2024-03-11,2024-03-11,Calvert,Referred to Enforcement/Compliance,20657,
 232274,Hazardous Waste,2024-03-11,2024-03-11,Calvert,Referred to Enforcement/Compliance,20657,
 232272,Non-Tidal Wetlands/Waterway,2024-03-11,2024-03-08,Washington,Incident Closed-Managed,21740,2024-09-19
-232271,Other,2024-03-11,2024-03-08,Washington,Under Investigation,21740,
-232270,"Possible Permit Violation, Shellfish Waters, Unknown Substance",2024-03-11,2024-03-11,Baltimore,Incident Closed-No Violation Observed,21222,2024-05-07
-232266,Oil Release/Spill,2024-03-08,2024-03-02,Anne Arundel,Incident Closed-Managed,21037,2024-04-12
-232265,Sewage/Sludge Release,2024-03-08,2024-03-06,Frederick,Referred to Outside Agency,21788,
-232256,Other,2024-03-08,2024-03-04,Frederick,Under Investigation,21790,
