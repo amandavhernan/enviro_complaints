@@ -1,5 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
-343813,Unknown Substance,2025-03-11,2025-03-11,Baltimore,,,
+343817,Sediment,2025-03-12,2025-03-12,Caroline,Under Investigation,21639,
+343815,Industrial Non-Complying Discharge,2025-03-12,2025-03-11,Montgomery,Referred to Outside Agency,,
+343814,Surface Water Quality Complaint,2025-03-12,2025-03-12,Baltimore,Under Investigation,21111,
+343813,"Unknown Substance, Water Pollutant Release",2025-03-11,2025-03-11,Baltimore,Under Investigation,21227,
 343811,Sediment,2025-03-11,2025-02-28,Caroline,Under Investigation,21640,
 343810,Water Pollutant Release,2025-03-11,2025-03-11,Baltimore,Under Investigation,21227,
 343809,Illegal Discharge or Outfall,2025-03-11,2025-03-11,Baltimore City,Referred to Outside Agency,,
@@ -121,6 +124,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 333586,Nontidal Wetlands,2025-01-27,2025-01-24,St. Mary's,Incident Closed-No Violation Observed,,2025-01-30
 333585,"Chemical Release/Spill, Equipment Malfunction, Industrial, Surface Water Quality Complaint",2025-01-26,2025-01-26,Baltimore,Referred to LMA,,
 323568,Other,2025-01-22,2025-01-13,Frederick,Referred to Outside Agency,,
+323567,"Sediment, Sediment/ Stormwater Problem",2025-01-21,2025-01-15,Baltimore City,Under Investigation,21231,
 323567,"Sediment, Sediment/ Stormwater Problem",2025-01-21,2025-01-15,Baltimore City,Under Investigation,21231,
 323567,"Sediment, Sediment/ Stormwater Problem",2025-01-21,2025-01-15,Baltimore City,Under Investigation,21231,
 323567,"Sediment, Sediment/ Stormwater Problem",2025-01-21,2025-01-15,Baltimore City,Under Investigation,21231,
@@ -594,6 +598,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 252852,Unknown Substance,2024-07-08,2024-07-02,Prince George's,Under Investigation,,
 252851,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway",2024-07-08,2024-07-02,Anne Arundel,Referred to Enforcement/Compliance,20794,
 252851,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway",2024-07-08,2024-07-02,Anne Arundel,Referred to Enforcement/Compliance,20794,
+252851,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway",2024-07-08,2024-07-02,Anne Arundel,Referred to Enforcement/Compliance,20794,
 252850,"Surface Water Quality Complaint, Tidal Wetlands",2024-07-08,2024-07-05,Baltimore,Referred to Outside Agency,21221,
 252849,Odor,2024-07-08,2024-07-01,Howard,Incident Closed-Managed,,2024-10-23
 252848,"Odor, Possible Permit Violation, Unknown Substance, Water Pollutant Release",2024-07-05,2024-07-05,Anne Arundel,Referred to Enforcement/Compliance,21061,
@@ -994,8 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232283,"Sediment, Stormwater",2024-03-12,2024-03-12,Charles,Incident Closed - No further action,20646,2024-03-29
 232277,Surface Water Quality Complaint,2024-03-12,2024-03-06,Baltimore,Incident Closed-No Violation Observed,21217,2024-03-25
 232276,Sewage/Sludge Release,2024-03-11,2024-03-12,Allegany,Incident Closed-Managed,21557,2024-03-13
-232275,Sediment/ Stormwater Problem,2024-03-11,2024-03-11,Baltimore,Referred to Outside Agency,21093,
-232274,Hazardous Waste,2024-03-11,2024-03-11,Calvert,Referred to Enforcement/Compliance,20657,
-232274,Hazardous Waste,2024-03-11,2024-03-11,Calvert,Referred to Enforcement/Compliance,20657,
-232274,Hazardous Waste,2024-03-11,2024-03-11,Calvert,Referred to Enforcement/Compliance,20657,
-232272,Non-Tidal Wetlands/Waterway,2024-03-11,2024-03-08,Washington,Incident Closed-Managed,21740,2024-09-19
