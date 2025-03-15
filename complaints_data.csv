@@ -1,4 +1,6 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+343830,Tidal Wetlands,2025-03-14,2025-03-14,Baltimore,,,
+343829,Tidal Wetlands,2025-03-14,2025-03-14,Anne Arundel,Under Investigation,21401,
 343821,"Possible Permit Violation, Tidal Wetlands",2025-03-13,2025-03-13,Anne Arundel,Under Investigation,21012,
 343817,Sediment,2025-03-12,2025-03-12,Caroline,Under Investigation,21639,
 343815,Industrial Non-Complying Discharge,2025-03-12,2025-03-11,Montgomery,Referred to Outside Agency,,
@@ -48,6 +50,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 343717,Suspected Operation without Permit,2025-02-27,2025-02-27,Anne Arundel,Under Investigation,,
 343714,"Sewage/Sludge Release, Tidal Wetlands",2025-02-27,2025-02-27,Anne Arundel,Referred to Outside Agency,21122,
 343712,Other,2025-02-26,2025-02-26,Frederick,Under Investigation,,
+343711,Non-Tidal Wetlands/Waterway,2025-02-19,2025-02-19,Anne Arundel,Under Investigation,21076,
 343711,Non-Tidal Wetlands/Waterway,2025-02-19,2025-02-19,Anne Arundel,Under Investigation,21076,
 343705,Agricultural,2025-02-25,2025-02-25,Washington,Referred to Outside Agency,21783,
 343704,Odor,2025-02-25,2025-02-25,Baltimore City,Incident Closed - No further action,21224,2025-02-27
@@ -996,6 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232294,Nontidal Wetlands,2024-03-12,2024-03-12,Charles,Incident Closed-Clean-up Completed,20602,2024-04-19
 232294,Nontidal Wetlands,2024-03-12,2024-03-12,Charles,Incident Closed-Clean-up Completed,20602,2024-04-19
 232294,Nontidal Wetlands,2024-03-12,2024-03-12,Charles,Incident Closed-Clean-up Completed,20602,2024-04-19
-232293,Sewage/Sludge Release,2024-03-12,2024-03-12,Anne Arundel,Referred to Enforcement/Compliance,21403,
-232293,Sewage/Sludge Release,2024-03-12,2024-03-12,Anne Arundel,Referred to Enforcement/Compliance,21403,
-232293,Sewage/Sludge Release,2024-03-12,2024-03-12,Anne Arundel,Referred to Enforcement/Compliance,21403,
