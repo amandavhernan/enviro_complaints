@@ -1,5 +1,9 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
-343830,Tidal Wetlands,2025-03-14,2025-03-14,Baltimore,,,
+343836,"Illegal Dumping, Municipal Non-Complying Discharge, Nontidal Wetlands, Unknown Substance",2025-03-17,2025-03-17,Baltimore,Under Investigation,,
+343834,Oil Release/Spill,2025-03-17,2025-03-17,Anne Arundel,Under Investigation,21226,
+343833,Non-Tidal Wetlands/Waterway,2025-03-17,2025-03-13,Frederick,Under Investigation,21769,
+343832,"Illegal Dumping, Nontidal Wetlands",2025-03-17,2025-03-17,Anne Arundel,Under Investigation,,
+343830,"Suspected Operation without Permit, Tidal Wetlands",2025-03-14,2025-03-14,Baltimore,Under Investigation,21222,
 343829,Tidal Wetlands,2025-03-14,2025-03-14,Anne Arundel,Under Investigation,21401,
 343821,"Possible Permit Violation, Tidal Wetlands",2025-03-13,2025-03-13,Anne Arundel,Under Investigation,21012,
 343817,Sediment,2025-03-12,2025-03-12,Caroline,Under Investigation,21639,
@@ -995,7 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 232317,Non-Tidal Wetlands/Waterway,2024-03-12,2024-02-12,Charles,Incident Closed-No Violation Observed,20640,2024-07-23
 232310,Sediment,2024-03-12,2024-03-12,Anne Arundel,Incident Closed-Managed,21410,2024-08-19
 232297,"Non-Tidal Wetlands/Waterway, Suspected Operation without Permit",2024-03-12,2024-03-12,Calvert,Incident Closed-No Violation Observed,20639,2024-05-07
-232297,"Non-Tidal Wetlands/Waterway, Suspected Operation without Permit",2024-03-12,2024-03-12,Calvert,Incident Closed-No Violation Observed,20639,2024-05-07
-232294,Nontidal Wetlands,2024-03-12,2024-03-12,Charles,Incident Closed-Clean-up Completed,20602,2024-04-19
-232294,Nontidal Wetlands,2024-03-12,2024-03-12,Charles,Incident Closed-Clean-up Completed,20602,2024-04-19
-232294,Nontidal Wetlands,2024-03-12,2024-03-12,Charles,Incident Closed-Clean-up Completed,20602,2024-04-19
