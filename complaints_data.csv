@@ -1,4 +1,8 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+353888,Other,2025-03-26,2025-02-03,Howard,Referred to Outside Agency,,
+353887,"Illegal Discharge or Outfall, Surface Water Quality Complaint",2025-03-26,2025-03-26,Cecil,Under Investigation,,
+353884,"Municipal, Odor",2025-03-26,2025-03-26,Baltimore,Referred to Outside Agency,21093,
+353883,Other,2025-03-26,2025-03-26,Allegany,Referred to LMA,21532,
 353882,Non-Tidal Wetlands/Waterway,2025-03-25,2025-03-24,Carroll,Under Investigation,,
 353875,Sewage/Sludge Release,2025-03-24,2025-03-24,Baltimore,Under Investigation,21236,
 353874,Oil Release/Spill (Surface),2025-03-24,2025-03-19,Baltimore City,Referred to Outside Agency,,
@@ -34,7 +38,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 343847,"Sediment, Tidal Wetlands",2025-03-19,2025-03-16,Anne Arundel,Under Investigation,21409,
 343844,"Municipal, Nontidal Wetlands",2025-03-19,2025-03-18,Carroll,Under Investigation,21157,
 343843,Sediment/ Stormwater Problem,2025-03-18,2025-03-18,Harford,Under Investigation,21085,
-343842,Sediment,2025-03-18,2025-03-17,Talbot,Under Investigation,21601,
+343842,Sediment,2025-03-18,2025-03-17,Talbot,Incident Closed - No further action,21601,2025-03-18
 343836,"Illegal Dumping, Municipal Non-Complying Discharge, Nontidal Wetlands, Unknown Substance",2025-03-17,2025-03-17,Baltimore,Under Investigation,,
 343834,Oil Release/Spill,2025-03-17,2025-03-17,Anne Arundel,Incident Closed - No further action,21226,2025-03-25
 343833,Non-Tidal Wetlands/Waterway,2025-03-17,2025-03-13,Frederick,Under Investigation,21769,
@@ -51,7 +55,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 343810,Water Pollutant Release,2025-03-11,2025-03-11,Baltimore,Under Investigation,21227,
 343809,Illegal Discharge or Outfall,2025-03-11,2025-03-11,Baltimore City,Referred to Outside Agency,,
 343807,"Surface Water Quality Complaint, Water Pollutant Release",2025-03-11,2025-03-10,Baltimore,Under Investigation,21227,
-343806,Nontidal Wetlands,2025-03-10,2025-03-10,Talbot,Under Investigation,21601,
+343806,Nontidal Wetlands,2025-03-10,2025-03-10,Talbot,Incident Closed-Managed,21601,2025-03-11
 343805,Other,2025-03-10,2025-03-10,Garrett,Referred to Outside Agency,,
 343804,Sediment,2025-03-10,2025-03-05,Dorchester,Under Investigation,21869,
 343803,Water Pollutant Release,2025-03-10,2024-12-23,Baltimore,Referred to Outside Agency,,
@@ -960,6 +964,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242442,"Chemical Release/Spill, Illegal Discharge or Outfall, Nontidal Wetlands",2024-04-04,2024-04-01,Anne Arundel,Incident Closed-No Violation Observed,21409,2024-04-05
 242440,Non-Tidal Wetlands/Waterway,2024-04-04,2024-04-04,Frederick,Incident Closed-Managed,21793,2024-04-16
 242439,Non-Tidal Wetlands/Waterway,2024-04-04,2024-04-04,Frederick,Under Investigation,21702,
+242439,Non-Tidal Wetlands/Waterway,2024-04-04,2024-04-04,Frederick,Under Investigation,21702,
 242438,Non-Tidal Wetlands/Waterway,2024-04-04,2024-04-01,Frederick,Incident Closed-Managed,21727,2024-04-17
 242431,Sediment,2024-04-03,2024-04-03,Garrett,Incident Closed-Managed,21561,2024-04-04
 242429,Industrial,2024-04-03,2024-03-11,Frederick,Under Investigation,21777,
@@ -994,8 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242403,Other,2024-03-26,2024-03-25,Allegany,Incident Closed-Managed,21539,2024-03-26
 242402,Nontidal Wetlands,2024-03-26,2024-03-21,Somerset,Under Investigation,21853,
 242402,Nontidal Wetlands,2024-03-26,2024-03-21,Somerset,Under Investigation,21853,
-242402,Nontidal Wetlands,2024-03-26,2024-03-21,Somerset,Under Investigation,21853,
-242402,Nontidal Wetlands,2024-03-26,2024-03-21,Somerset,Under Investigation,21853,
-242401,Tidal Wetlands,2024-03-25,2024-03-21,Caroline,Incident Closed - No further action,21629,2024-05-01
-242400,Sediment,2024-03-25,2024-03-18,Worcester,Under Investigation,21841,
-242399,Nontidal Wetlands,2024-03-25,2024-03-20,Dorchester,Incident Closed - No further action,21622,2024-03-21
