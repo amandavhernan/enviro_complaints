@@ -1,5 +1,10 @@
 compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc,zip,incident_closed_date
+353908,Industrial,2025-03-31,2025-03-31,Baltimore,Under Investigation,21136,
+353907,Non-Tidal Wetlands/Waterway,2025-03-31,2025-03-28,Carroll,Under Investigation,,
+353906,"Non-Tidal Wetlands/Waterway, Sediment",2025-03-31,2025-03-31,Baltimore,Under Investigation,21222,
+353905,Non-Tidal Wetlands/Waterway,2025-03-31,2025-03-31,Caroline,Under Investigation,21655,
 353899,"Illegal Wetland Alteration, Non-Tidal Wetlands/Waterway",2025-03-28,2025-01-10,Montgomery,Under Investigation,20818,
+353898,Water Pollutant Release,2025-03-28,2025-03-28,Baltimore,Under Investigation,,
 353896,Sediment,2025-03-28,2025-03-24,Worcester,Under Investigation,21811,
 353895,Tidal Wetlands,2025-03-27,2025-03-24,Anne Arundel,Incident Closed-Managed,21403,2025-03-27
 353894,"Illegal Dumping, Other",2025-03-27,2024-12-20,Garrett,Under Investigation,21550,
@@ -31,6 +36,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 343854,Tidal Wetlands,2025-03-19,2025-03-19,Queen Anne's,Under Investigation,21638,
 343853,Unknown Substance,2025-03-19,2025-03-19,Worcester,Referred to Enforcement/Compliance,21811,
 343853,Unknown Substance,2025-03-19,2025-03-19,Worcester,Referred to Enforcement/Compliance,21811,
+343853,Unknown Substance,2025-03-19,2025-03-19,Worcester,Referred to Enforcement/Compliance,21811,
 343852,Sewage/Sludge Release,2025-03-19,2025-03-19,St. Mary's,Incident Closed - No further action,20653,2025-03-24
 343850,Sediment,2025-03-19,2025-03-19,Allegany,Under Investigation,21502,
 343850,Sediment,2025-03-19,2025-03-19,Allegany,Under Investigation,21502,
@@ -55,8 +61,8 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 343833,Non-Tidal Wetlands/Waterway,2025-03-17,2025-03-13,Frederick,Under Investigation,21769,
 343832,"Illegal Dumping, Nontidal Wetlands",2025-03-17,2025-03-17,Anne Arundel,Under Investigation,,
 343830,"Suspected Operation without Permit, Tidal Wetlands",2025-03-14,2025-03-14,Baltimore,Under Investigation,21222,
-343829,Tidal Wetlands,2025-03-14,2025-03-14,Anne Arundel,Under Investigation,21401,
-343821,"Possible Permit Violation, Tidal Wetlands",2025-03-13,2025-03-13,Anne Arundel,Under Investigation,21012,
+343829,Tidal Wetlands,2025-03-14,2025-03-14,Anne Arundel,Incident Closed-No Violation Observed,21401,2025-03-31
+343821,"Possible Permit Violation, Tidal Wetlands",2025-03-13,2025-03-13,Anne Arundel,Incident Closed-No Violation Observed,21012,2025-03-31
 343817,Sediment,2025-03-12,2025-03-12,Caroline,Under Investigation,21639,
 343817,Sediment,2025-03-12,2025-03-12,Caroline,Under Investigation,21639,
 343815,Industrial Non-Complying Discharge,2025-03-12,2025-03-11,Montgomery,Referred to Outside Agency,,
@@ -279,6 +285,7 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 313418,Nontidal Wetlands,2024-12-02,2024-11-27,Worcester,Under Investigation,21851,
 313417,"Stormwater, Suspected Operation without Permit",2024-11-27,2024-11-27,Baltimore,Incident Closed-Clean-up Completed,21222,2025-02-20
 313415,"Equipment Malfunction, Oil Release/Spill (Surface), Stormwater",2024-11-27,2024-11-14,Harford,Under Investigation,21005,
+313414,Non-Tidal Wetlands/Waterway,2024-11-26,2024-11-25,Garrett,Under Investigation,21550,
 313414,Non-Tidal Wetlands/Waterway,2024-11-26,2024-11-25,Garrett,Under Investigation,21550,
 313412,Sediment,2024-11-22,2024-11-21,Montgomery,Under Investigation,20850,
 313410,Other,2024-11-22,2024-11-21,Washington,Referred to LMA,,
@@ -992,10 +999,3 @@ compliant,compliant_type,recieved_date,incident_date,county,incident_status_desc
 242420,"Groundwater Contamination, Other",2024-04-01,2024-04-01,Anne Arundel,Incident Closed-Managed,21402,2024-08-19
 242420,"Groundwater Contamination, Other",2024-04-01,2024-04-01,Anne Arundel,Incident Closed-Managed,21402,2024-08-19
 242420,"Groundwater Contamination, Other",2024-04-01,2024-04-01,Anne Arundel,Incident Closed-Managed,21402,2024-08-19
-242420,"Groundwater Contamination, Other",2024-04-01,2024-04-01,Anne Arundel,Incident Closed-Managed,21402,2024-08-19
-242420,"Groundwater Contamination, Other",2024-04-01,2024-04-01,Anne Arundel,Incident Closed-Managed,21402,2024-08-19
-242420,"Groundwater Contamination, Other",2024-04-01,2024-04-01,Anne Arundel,Incident Closed-Managed,21402,2024-08-19
-242420,"Groundwater Contamination, Other",2024-04-01,2024-04-01,Anne Arundel,Incident Closed-Managed,21402,2024-08-19
-242419,Tidal Wetlands,2024-04-01,2024-03-29,Anne Arundel,Incident Closed-Managed,21037,2024-04-12
-242418,Tidal Wetlands,2024-04-01,2024-03-31,Anne Arundel,Incident Closed - No further action,21226,2024-03-31
-242417,"Oil Release/Spill (Open Water), Tidal Wetlands",2024-03-29,2024-03-26,Anne Arundel,Incident Closed - No further action,,2024-08-27
