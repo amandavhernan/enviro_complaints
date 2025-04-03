@@ -82,4 +82,4 @@ def check_complaints():
             print("Message sent to Slack channel!")
 
 if __name__ == "__main__":
-    check_complaints()
+    # check_complaints()
